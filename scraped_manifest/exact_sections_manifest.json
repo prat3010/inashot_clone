@@ -1,0 +1,266 @@
+[
+  {
+    "id": "shopify-section-sections--29572445733228__header",
+    "page": "home",
+    "viewport": "desktop",
+    "fileName": "shopify-section-sections--29572445733228__header.html",
+    "className": "shopify-section shopify-section-group-header-group shopify-section-header",
+    "length": 69846
+  },
+  {
+    "id": "shopify-section-template--29572451434860__banner_carousel_eAT77X",
+    "page": "home",
+    "viewport": "desktop",
+    "fileName": "shopify-section-template--29572451434860__banner_carousel_eAT77X.html",
+    "className": "shopify-section section-banner-carousel",
+    "length": 8449
+  },
+  {
+    "id": "shopify-section-template--29572451434860__ticker-banner",
+    "page": "home",
+    "viewport": "desktop",
+    "fileName": "shopify-section-template--29572451434860__ticker-banner.html",
+    "className": "shopify-section ticker-banner-section",
+    "length": 13765
+  },
+  {
+    "id": "shopify-section-template--29572451434860__popular-products",
+    "page": "home",
+    "viewport": "desktop",
+    "fileName": "shopify-section-template--29572451434860__popular-products.html",
+    "className": "shopify-section popular-products-section anim-active",
+    "length": 76557
+  },
+  {
+    "id": "shopify-section-template--29572451434860__popular_products_XLFRx7",
+    "page": "home",
+    "viewport": "desktop",
+    "fileName": "shopify-section-template--29572451434860__popular_products_XLFRx7.html",
+    "className": "shopify-section popular-products-section anim-active",
+    "length": 108267
+  },
+  {
+    "id": "shopify-section-template--29572451434860__image-with-text",
+    "page": "home",
+    "viewport": "desktop",
+    "fileName": "shopify-section-template--29572451434860__image-with-text.html",
+    "className": "shopify-section image-with-text-section spaced-section anim-active",
+    "length": 6795
+  },
+  {
+    "id": "shopify-section-template--29572451434860__image-parallax-with-text",
+    "page": "home",
+    "viewport": "desktop",
+    "fileName": "shopify-section-template--29572451434860__image-parallax-with-text.html",
+    "className": "shopify-section section-image-parallax-with-text overlay-section",
+    "length": 11767
+  },
+  {
+    "id": "shopify-section-template--29572451434860__testimonials",
+    "page": "home",
+    "viewport": "desktop",
+    "fileName": "shopify-section-template--29572451434860__testimonials.html",
+    "className": "shopify-section testimonials-section",
+    "length": 40489
+  },
+  {
+    "id": "shopify-section-template--29572451434860__image_carousel_nck4K3",
+    "page": "home",
+    "viewport": "desktop",
+    "fileName": "shopify-section-template--29572451434860__image_carousel_nck4K3.html",
+    "className": "shopify-section image-carousel-section spaced-section",
+    "length": 32950
+  },
+  {
+    "id": "shopify-section-template--29572451434860__social-media",
+    "page": "home",
+    "viewport": "desktop",
+    "fileName": "shopify-section-template--29572451434860__social-media.html",
+    "className": "shopify-section social-media-section spaced-section",
+    "length": 13078
+  },
+  {
+    "id": "shopify-section-template--29572451434860__1777270206ce6b7128",
+    "page": "home",
+    "viewport": "desktop",
+    "fileName": "shopify-section-template--29572451434860__1777270206ce6b7128.html",
+    "className": "shopify-section",
+    "length": 103
+  },
+  {
+    "id": "shopify-section-sections--29572445634924__footer",
+    "page": "home",
+    "viewport": "desktop",
+    "fileName": "shopify-section-sections--29572445634924__footer.html",
+    "className": "shopify-section shopify-section-group-footer-group",
+    "length": 19091
+  },
+  {
+    "id": "shopify-section-template--29572451139948__banner",
+    "page": "collection-nuts",
+    "viewport": "desktop",
+    "fileName": "shopify-section-template--29572451139948__banner.html",
+    "className": "shopify-section collection-banner-section",
+    "length": 12828
+  },
+  {
+    "id": "shopify-section-template--29572451139948__product-grid",
+    "page": "collection-nuts",
+    "viewport": "desktop",
+    "fileName": "shopify-section-template--29572451139948__product-grid.html",
+    "className": "shopify-section collection-grid-section",
+    "length": 87371
+  },
+  {
+    "id": "shopify-section-template--29572451139948__image_carousel_qKKQQk",
+    "page": "collection-nuts",
+    "viewport": "desktop",
+    "fileName": "shopify-section-template--29572451139948__image_carousel_qKKQQk.html",
+    "className": "shopify-section image-carousel-section spaced-section",
+    "length": 32950
+  },
+  {
+    "id": "shopify-section-template--29572451139948__social-media",
+    "page": "collection-nuts",
+    "viewport": "desktop",
+    "fileName": "shopify-section-template--29572451139948__social-media.html",
+    "className": "shopify-section social-media-section spaced-section",
+    "length": 13164
+  },
+  {
+    "id": "shopify-section-template--29572451697004__main-product",
+    "page": "product-peri-peri",
+    "viewport": "desktop",
+    "fileName": "shopify-section-template--29572451697004__main-product.html",
+    "className": "shopify-section product-section",
+    "length": 101992
+  },
+  {
+    "id": "shopify-section-template--29572451697004__ticker_banner_RLiiea",
+    "page": "product-peri-peri",
+    "viewport": "desktop",
+    "fileName": "shopify-section-template--29572451697004__ticker_banner_RLiiea.html",
+    "className": "shopify-section ticker-banner-section",
+    "length": 13784
+  },
+  {
+    "id": "shopify-section-template--29572451697004__product_markers_e8QKw7",
+    "page": "product-peri-peri",
+    "viewport": "desktop",
+    "fileName": "shopify-section-template--29572451697004__product_markers_e8QKw7.html",
+    "className": "shopify-section product-markers-section anim-active",
+    "length": 25244
+  },
+  {
+    "id": "shopify-section-template--29572451697004__17773684569c4ecb36",
+    "page": "product-peri-peri",
+    "viewport": "desktop",
+    "fileName": "shopify-section-template--29572451697004__17773684569c4ecb36.html",
+    "className": "shopify-section spaced-section",
+    "length": 156
+  },
+  {
+    "id": "shopify-section-template--29572451697004__product-recommendations",
+    "page": "product-peri-peri",
+    "viewport": "desktop",
+    "fileName": "shopify-section-template--29572451697004__product-recommendations.html",
+    "className": "shopify-section product-recommendations-section anim-active",
+    "length": 115359
+  },
+  {
+    "id": "shopify-section-template--29572451697004__testimonials_R8WwGh",
+    "page": "product-peri-peri",
+    "viewport": "desktop",
+    "fileName": "shopify-section-template--29572451697004__testimonials_R8WwGh.html",
+    "className": "shopify-section testimonials-section",
+    "length": 40551
+  },
+  {
+    "id": "shopify-section-template--29572451697004__custom_faq_qQntxw",
+    "page": "product-peri-peri",
+    "viewport": "desktop",
+    "fileName": "shopify-section-template--29572451697004__custom_faq_qQntxw.html",
+    "className": "shopify-section section",
+    "length": 8573
+  },
+  {
+    "id": "shopify-section-template--29572451697004__image-carousel",
+    "page": "product-peri-peri",
+    "viewport": "desktop",
+    "fileName": "shopify-section-template--29572451697004__image-carousel.html",
+    "className": "shopify-section image-carousel-section spaced-section",
+    "length": 32062
+  },
+  {
+    "id": "shopify-section-template--29572451697004__social-media",
+    "page": "product-peri-peri",
+    "viewport": "desktop",
+    "fileName": "shopify-section-template--29572451697004__social-media.html",
+    "className": "shopify-section social-media-section spaced-section",
+    "length": 4959
+  },
+  {
+    "id": "shopify-section-template--29572451500396__image-parallax-with-text",
+    "page": "about-us",
+    "viewport": "desktop",
+    "fileName": "shopify-section-template--29572451500396__image-parallax-with-text.html",
+    "className": "shopify-section section-image-parallax-with-text overlay-section",
+    "length": 12444
+  },
+  {
+    "id": "shopify-section-template--29572451500396__image_collage_BPaBUM",
+    "page": "about-us",
+    "viewport": "desktop",
+    "fileName": "shopify-section-template--29572451500396__image_collage_BPaBUM.html",
+    "className": "shopify-section image-collage-section anim-active",
+    "length": 10361
+  },
+  {
+    "id": "shopify-section-template--29572451500396__seed_cycling_rhythm_TDHJUV",
+    "page": "about-us",
+    "viewport": "desktop",
+    "fileName": "shopify-section-template--29572451500396__seed_cycling_rhythm_TDHJUV.html",
+    "className": "shopify-section section",
+    "length": 16016
+  },
+  {
+    "id": "shopify-section-template--29572451500396__image_carousel_Xm6g4i",
+    "page": "about-us",
+    "viewport": "desktop",
+    "fileName": "shopify-section-template--29572451500396__image_carousel_Xm6g4i.html",
+    "className": "shopify-section image-carousel-section spaced-section",
+    "length": 32950
+  },
+  {
+    "id": "shopify-section-template--29572451500396__social-media",
+    "page": "about-us",
+    "viewport": "desktop",
+    "fileName": "shopify-section-template--29572451500396__social-media.html",
+    "className": "shopify-section social-media-section spaced-section",
+    "length": 13078
+  },
+  {
+    "id": "shopify-section-template--29572451565932__collapsible_content_LzK6iw",
+    "page": "faq",
+    "viewport": "desktop",
+    "fileName": "shopify-section-template--29572451565932__collapsible_content_LzK6iw.html",
+    "className": "shopify-section collapsible-content-section spaced-section anim-active",
+    "length": 10253
+  },
+  {
+    "id": "shopify-section-template--29572451565932__image_carousel_EDwnxP",
+    "page": "faq",
+    "viewport": "desktop",
+    "fileName": "shopify-section-template--29572451565932__image_carousel_EDwnxP.html",
+    "className": "shopify-section image-carousel-section spaced-section",
+    "length": 32950
+  },
+  {
+    "id": "shopify-section-template--29572451565932__social-media",
+    "page": "faq",
+    "viewport": "desktop",
+    "fileName": "shopify-section-template--29572451565932__social-media.html",
+    "className": "shopify-section social-media-section spaced-section",
+    "length": 13164
+  }
+]

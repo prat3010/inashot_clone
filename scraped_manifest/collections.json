@@ -1,0 +1,79 @@
+{
+  "collections": [
+    {
+      "id": 648840839532,
+      "title": "All",
+      "handle": "all",
+      "description": null,
+      "published_at": "2026-11-13T13:43:40+05:30",
+      "updated_at": "2026-11-13T18:12:08+05:30",
+      "image": {
+        "id": 1812627784044,
+        "created_at": "2026-11-13T13:43:38+05:30",
+        "src": "https://cdn.shopify.com/s/files/1/0984/7282/1100/collections/WhatsApp_Image_2026-11-13_at_12.50.48.jpg?v=1794557619",
+        "alt": ""
+      },
+      "products_count": 17
+    },
+    {
+      "id": 648779891052,
+      "title": "Combos",
+      "handle": "combos",
+      "description": null,
+      "published_at": "2026-11-12T13:53:34+05:30",
+      "updated_at": "2026-11-13T13:25:57+05:30",
+      "image": {
+        "id": 1812622016876,
+        "created_at": "2026-11-12T17:55:13+05:30",
+        "src": "https://cdn.shopify.com/s/files/1/0984/7282/1100/collections/WhatsApp_Image_2026-11-12_at_17.46.44.jpg?v=1794556557",
+        "alt": ""
+      },
+      "products_count": 4
+    },
+    {
+      "id": 648732606828,
+      "title": "Crunchy Edamame",
+      "handle": "crunchy-edamame",
+      "description": null,
+      "published_at": "2026-11-11T17:39:32+05:30",
+      "updated_at": "2026-11-13T14:11:02+05:30",
+      "image": {
+        "id": 1812622049644,
+        "created_at": "2026-11-12T17:56:02+05:30",
+        "src": "https://cdn.shopify.com/s/files/1/0984/7282/1100/collections/WhatsApp_Image_2026-11-12_at_17.46.45.jpg?v=1794559262",
+        "alt": ""
+      },
+      "products_count": 6
+    },
+    {
+      "id": 637202825580,
+      "title": "Roasted Edamame",
+      "handle": "nuts",
+      "description": "<div class=\"group relative relative pb-3\" data-is-streaming=\"false\">\n<div class=\"font-claude-response relative leading-[1.65rem] [&amp;_pre&gt;div]:bg-bg-000/50 [&amp;_pre&gt;div]:border-0.5 [&amp;_pre&gt;div]:border-border-400 [&amp;_.ignore-pre-bg&gt;div]:bg-transparent [&amp;_.standard-markdown_:is(p,blockquote,h1,h2,h3,h4,h5,h6)]:pl-2 [&amp;_.standard-markdown_:is(p,blockquote,ul,ol,h1,h2,h3,h4,h5,h6)]:pr-8 [&amp;_.progressive-markdown_:is(p,blockquote,h1,h2,h3,h4,h5,h6)]:pl-2 [&amp;_.progressive-markdown_:is(p,blockquote,ul,ol,h1,h2,h3,h4,h5,h6)]:pr-8\">\n<div>\n<div class=\"standard-markdown grid-cols-1 grid [&amp;_&gt;_*]:min-w-0 gap-3 standard-markdown\">\n<p class=\"font-claude-response-body break-words whitespace-normal leading-[1.7]\">Your PROTEIN POP — healthy, but with a little drama. AAA-grade edamame slow-roasted into a crunchy, pop-in-your-mouth snack, then tossed in bold Indian flavours. 10g plant protein, real ingredients, no shortcuts. Four flavours: Peri Peri, Achari, Chilli Cheese, and Cream &amp; Onion — the grown-up way to snack.<svg aria-hidden=\"true\" class=\"text-text-500 group-hover/btn:text-text-100\" xmlns=\"http://www.w3.org/2000/svg\" fill=\"currentColor\" viewbox=\"0 0 20 20\" height=\"20\" width=\"20\"><path d=\"M12.67 3a3.25 3.25 0 0 1 3.206 2.716l.68 4.082A2.75 2.75 0 0 1 13.845 13H11.61l.403 2.01A2.5 2.5 0 0 1 9.56 18h-.238a1 1 0 0 1-.843-.46l-.069-.13-1.514-3.364a2.75 2.75 0 0 0-1.56-1.453l-.139-.047-1.14-.35A1.5 1.5 0 0 1 3 10.761V4.5A1.5 1.5 0 0 1 4.5 3zM4.5 4a.5.5 0 0 0-.5.5v6.262a.5.5 0 0 0 .353.477l1.14.35.19.065a3.75 3.75 0 0 1 2.127 1.98L9.323 17h.238a1.5 1.5 0 0 0 1.47-1.794l-.521-2.608A.5.5 0 0 1 11 12h2.844a1.75 1.75 0 0 0 1.726-2.038l-.68-4.082A2.25 2.25 0 0 0 12.67 4z\"></path></svg></p>\n</div>\n</div>\n</div>\n</div>",
+      "published_at": "2026-04-17T18:45:56+05:30",
+      "updated_at": "2026-11-13T19:03:13+05:30",
+      "image": {
+        "id": 1810305155436,
+        "created_at": "2026-04-07T12:33:59+05:30",
+        "src": "https://cdn.shopify.com/s/files/1/0984/7282/1100/collections/WhatsApp_Image_2026-11-12_at_7.13.21_PM_2.png?v=1794576793",
+        "alt": ""
+      },
+      "products_count": 9
+    },
+    {
+      "id": 637622550892,
+      "title": "Seed Mix",
+      "handle": "edamame",
+      "description": "<p class=\"font-claude-response-body break-words whitespace-normal leading-[1.7]\">Your daily <strong>SEED need</strong> — now with a little drama. A bold blend of Pumpkin, Watermelon, Sunflower, Flax, Chia and Soy nuts, roasted to perfection and finished with handcrafted Indian flavours. 10g plant protein, 5g fibre, zero guilt per 30g pack. Four flavours: Magic Masala, Nimbu Pudina, Peri Peri, and Plain Roasted Salt — pick your mood.</p>\n<hr class=\"border-border-200 border-t-0.5 my-3 mx-1.5\">\n<p class=\"font-claude-response-body break-words whitespace-normal leading-[1.7]\"> </p>",
+      "published_at": "2026-04-17T18:44:04+05:30",
+      "updated_at": "2026-11-13T19:04:12+05:30",
+      "image": {
+        "id": 1810409554284,
+        "created_at": "2026-04-17T17:17:14+05:30",
+        "src": "https://cdn.shopify.com/s/files/1/0984/7282/1100/collections/Blank_White_Snack_Packet_Mockup_1.png?v=1794576852",
+        "alt": ""
+      },
+      "products_count": 8
+    }
+  ]
+}

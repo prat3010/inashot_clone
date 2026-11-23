@@ -1,0 +1,1170 @@
+[
+  {
+    "id": "shopify-section-sections--29572445733228__header",
+    "tagName": "div",
+    "className": "shopify-section shopify-section-group-header-group shopify-section-header",
+    "previewText": "",
+    "images": [
+      {
+        "src": "https://www.inashot.life/cdn/shop/files/logo_in_a_shot_d764db0c-90a3-4ef9-af49-a3c5ef4b0dc2.png?v=1776246475&width=56",
+        "alt": "IN'A Shot",
+        "datasetSrc": "",
+        "srcset": "//www.inashot.life/cdn/shop/files/logo_in_a_shot_d764db0c-90a3-4ef9-af49-a3c5ef4b0dc2.png?v=1776246475&width=56 1x, //www.inashot.life/cdn/shop/files/logo_in_a_shot_d764db0c-90a3-4ef9-af49-a3c5ef4b0dc2.png?v=1776246475&width=112 2x"
+      },
+      {
+        "src": "https://www.inashot.life/cdn/shop/files/Basket1_29234f3b-a4c4-4d73-ad5e-0e3512367e00.png?v=1794314079&width=4267",
+        "alt": "Chilli Cheese Roasted Edamame",
+        "datasetSrc": "",
+        "srcset": "//www.inashot.life/cdn/shop/files/Basket1_29234f3b-a4c4-4d73-ad5e-0e3512367e00.png?v=1794314079&width=360 360w, //www.inashot.life/cdn/shop/files/Basket1_29234f3b-a4c4-4d73-ad5e-0e3512367e00.png?v=1794314079&width=535 535w, //www.inashot.life/cdn/shop/files/Basket1_29234f3b-a4c4-4d73-ad5e-0e3512367e00.png?v=1794314079&width=720 720w, //www.inashot.life/cdn/shop/files/Basket1_29234f3b-a4c4-4d73-ad5e-0e3512367e00.png?v=1794314079&width=940 940w, //www.inashot.life/cdn/shop/files/Basket1_29234f3b-a4c4-4d73-ad5e-0e3512367e00.png?v=1794314079&width=1066 1066w, //www.inashot.life/cdn/shop/files/Basket1_29234f3b-a4c4-4d73-ad5e-0e3512367e00.png?v=1794314079&width=1200 1200w, //www.inashot.life/cdn/shop/files/Basket1_29234f3b-a4c4-4d73-ad5e-0e3512367e00.png?v=1794314079&width=1400 1400w, //www.inashot.life/cdn/shop/files/Basket1_29234f3b-a4c4-4d73-ad5e-0e3512367e00.png?v=1794314079&width=1600 1600w, //www.inashot.life/cdn/shop/files/Basket1_29234f3b-a4c4-4d73-ad5e-0e3512367e00.png?v=1794314079&width=1800 1800w, //www.inashot.life/cdn/shop/files/Basket1_29234f3b-a4c4-4d73-ad5e-0e3512367e00.png?v=1794314079&width=2000 2000w, //www.inashot.life/cdn/shop/files/Basket1_29234f3b-a4c4-4d73-ad5e-0e3512367e00.png?v=1794314079&width=2200 2200w, //www.inashot.life/cdn/shop/files/Basket1_29234f3b-a4c4-4d73-ad5e-0e3512367e00.png?v=1794314079&width=2400 2400w, //www.inashot.life/cdn/shop/files/Basket1_29234f3b-a4c4-4d73-ad5e-0e3512367e00.png?v=1794314079&width=2600 2600w"
+      },
+      {
+        "src": "https://www.inashot.life/cdn/shop/files/RoastedChilliCheese.png?v=1794547495&width=2000",
+        "alt": "Chilli Cheese Roasted Edamame",
+        "datasetSrc": "",
+        "srcset": "//www.inashot.life/cdn/shop/files/RoastedChilliCheese.png?v=1794547495&width=360 360w, //www.inashot.life/cdn/shop/files/RoastedChilliCheese.png?v=1794547495&width=535 535w, //www.inashot.life/cdn/shop/files/RoastedChilliCheese.png?v=1794547495&width=720 720w, //www.inashot.life/cdn/shop/files/RoastedChilliCheese.png?v=1794547495&width=940 940w, //www.inashot.life/cdn/shop/files/RoastedChilliCheese.png?v=1794547495&width=1066 1066w, //www.inashot.life/cdn/shop/files/RoastedChilliCheese.png?v=1794547495&width=1200 1200w, //www.inashot.life/cdn/shop/files/RoastedChilliCheese.png?v=1794547495&width=1400 1400w, //www.inashot.life/cdn/shop/files/RoastedChilliCheese.png?v=1794547495&width=1600 1600w, //www.inashot.life/cdn/shop/files/RoastedChilliCheese.png?v=1794547495&width=1800 1800w, //www.inashot.life/cdn/shop/files/RoastedChilliCheese.png?v=1794547495&width=2000 2000w"
+      },
+      {
+        "src": "https://www.inashot.life/cdn/shop/files/Basket_2_1.png?v=1794397263&width=2048",
+        "alt": "Nimbu Pudina Seed Mix",
+        "datasetSrc": "",
+        "srcset": "//www.inashot.life/cdn/shop/files/Basket_2_1.png?v=1794397263&width=360 360w, //www.inashot.life/cdn/shop/files/Basket_2_1.png?v=1794397263&width=535 535w, //www.inashot.life/cdn/shop/files/Basket_2_1.png?v=1794397263&width=720 720w, //www.inashot.life/cdn/shop/files/Basket_2_1.png?v=1794397263&width=940 940w, //www.inashot.life/cdn/shop/files/Basket_2_1.png?v=1794397263&width=1066 1066w, //www.inashot.life/cdn/shop/files/Basket_2_1.png?v=1794397263&width=1200 1200w, //www.inashot.life/cdn/shop/files/Basket_2_1.png?v=1794397263&width=1400 1400w, //www.inashot.life/cdn/shop/files/Basket_2_1.png?v=1794397263&width=1600 1600w, //www.inashot.life/cdn/shop/files/Basket_2_1.png?v=1794397263&width=1800 1800w, //www.inashot.life/cdn/shop/files/Basket_2_1.png?v=1794397263&width=2000 2000w"
+      },
+      {
+        "src": "https://www.inashot.life/cdn/shop/files/SeedNimbuPudina.png?v=1794553021&width=2000",
+        "alt": "Nimbu Pudina Seed Mix",
+        "datasetSrc": "",
+        "srcset": "//www.inashot.life/cdn/shop/files/SeedNimbuPudina.png?v=1794553021&width=360 360w, //www.inashot.life/cdn/shop/files/SeedNimbuPudina.png?v=1794553021&width=535 535w, //www.inashot.life/cdn/shop/files/SeedNimbuPudina.png?v=1794553021&width=720 720w, //www.inashot.life/cdn/shop/files/SeedNimbuPudina.png?v=1794553021&width=940 940w, //www.inashot.life/cdn/shop/files/SeedNimbuPudina.png?v=1794553021&width=1066 1066w, //www.inashot.life/cdn/shop/files/SeedNimbuPudina.png?v=1794553021&width=1200 1200w, //www.inashot.life/cdn/shop/files/SeedNimbuPudina.png?v=1794553021&width=1400 1400w, //www.inashot.life/cdn/shop/files/SeedNimbuPudina.png?v=1794553021&width=1600 1600w, //www.inashot.life/cdn/shop/files/SeedNimbuPudina.png?v=1794553021&width=1800 1800w, //www.inashot.life/cdn/shop/files/SeedNimbuPudina.png?v=1794553021&width=2000 2000w"
+      },
+      {
+        "src": "https://www.inashot.life/cdn/shop/files/Basket_2.png?v=1794396714&width=2048",
+        "alt": "Magic Masala Seed Mix",
+        "datasetSrc": "",
+        "srcset": "//www.inashot.life/cdn/shop/files/Basket_2.png?v=1794396714&width=360 360w, //www.inashot.life/cdn/shop/files/Basket_2.png?v=1794396714&width=535 535w, //www.inashot.life/cdn/shop/files/Basket_2.png?v=1794396714&width=720 720w, //www.inashot.life/cdn/shop/files/Basket_2.png?v=1794396714&width=940 940w, //www.inashot.life/cdn/shop/files/Basket_2.png?v=1794396714&width=1066 1066w, //www.inashot.life/cdn/shop/files/Basket_2.png?v=1794396714&width=1200 1200w, //www.inashot.life/cdn/shop/files/Basket_2.png?v=1794396714&width=1400 1400w, //www.inashot.life/cdn/shop/files/Basket_2.png?v=1794396714&width=1600 1600w, //www.inashot.life/cdn/shop/files/Basket_2.png?v=1794396714&width=1800 1800w, //www.inashot.life/cdn/shop/files/Basket_2.png?v=1794396714&width=2000 2000w"
+      },
+      {
+        "src": "https://www.inashot.life/cdn/shop/files/SeedMagicMasala.png?v=1794552192&width=2000",
+        "alt": "Magic Masala Seed Mix",
+        "datasetSrc": "",
+        "srcset": "//www.inashot.life/cdn/shop/files/SeedMagicMasala.png?v=1794552192&width=360 360w, //www.inashot.life/cdn/shop/files/SeedMagicMasala.png?v=1794552192&width=535 535w, //www.inashot.life/cdn/shop/files/SeedMagicMasala.png?v=1794552192&width=720 720w, //www.inashot.life/cdn/shop/files/SeedMagicMasala.png?v=1794552192&width=940 940w, //www.inashot.life/cdn/shop/files/SeedMagicMasala.png?v=1794552192&width=1066 1066w, //www.inashot.life/cdn/shop/files/SeedMagicMasala.png?v=1794552192&width=1200 1200w, //www.inashot.life/cdn/shop/files/SeedMagicMasala.png?v=1794552192&width=1400 1400w, //www.inashot.life/cdn/shop/files/SeedMagicMasala.png?v=1794552192&width=1600 1600w, //www.inashot.life/cdn/shop/files/SeedMagicMasala.png?v=1794552192&width=1800 1800w, //www.inashot.life/cdn/shop/files/SeedMagicMasala.png?v=1794552192&width=2000 2000w"
+      },
+      {
+        "src": "https://www.inashot.life/cdn/shop/files/Basket1_29234f3b-a4c4-4d73-ad5e-0e3512367e00.png?v=1794314079&width=4267",
+        "alt": "Chilli Cheese Roasted Edamame",
+        "datasetSrc": "",
+        "srcset": "//www.inashot.life/cdn/shop/files/Basket1_29234f3b-a4c4-4d73-ad5e-0e3512367e00.png?v=1794314079&width=360 360w, //www.inashot.life/cdn/shop/files/Basket1_29234f3b-a4c4-4d73-ad5e-0e3512367e00.png?v=1794314079&width=535 535w, //www.inashot.life/cdn/shop/files/Basket1_29234f3b-a4c4-4d73-ad5e-0e3512367e00.png?v=1794314079&width=720 720w, //www.inashot.life/cdn/shop/files/Basket1_29234f3b-a4c4-4d73-ad5e-0e3512367e00.png?v=1794314079&width=940 940w, //www.inashot.life/cdn/shop/files/Basket1_29234f3b-a4c4-4d73-ad5e-0e3512367e00.png?v=1794314079&width=1066 1066w, //www.inashot.life/cdn/shop/files/Basket1_29234f3b-a4c4-4d73-ad5e-0e3512367e00.png?v=1794314079&width=1200 1200w, //www.inashot.life/cdn/shop/files/Basket1_29234f3b-a4c4-4d73-ad5e-0e3512367e00.png?v=1794314079&width=1400 1400w, //www.inashot.life/cdn/shop/files/Basket1_29234f3b-a4c4-4d73-ad5e-0e3512367e00.png?v=1794314079&width=1600 1600w, //www.inashot.life/cdn/shop/files/Basket1_29234f3b-a4c4-4d73-ad5e-0e3512367e00.png?v=1794314079&width=1800 1800w, //www.inashot.life/cdn/shop/files/Basket1_29234f3b-a4c4-4d73-ad5e-0e3512367e00.png?v=1794314079&width=2000 2000w, //www.inashot.life/cdn/shop/files/Basket1_29234f3b-a4c4-4d73-ad5e-0e3512367e00.png?v=1794314079&width=2200 2200w, //www.inashot.life/cdn/shop/files/Basket1_29234f3b-a4c4-4d73-ad5e-0e3512367e00.png?v=1794314079&width=2400 2400w, //www.inashot.life/cdn/shop/files/Basket1_29234f3b-a4c4-4d73-ad5e-0e3512367e00.png?v=1794314079&width=2600 2600w"
+      },
+      {
+        "src": "https://www.inashot.life/cdn/shop/files/RoastedChilliCheese.png?v=1794547495&width=2000",
+        "alt": "Chilli Cheese Roasted Edamame",
+        "datasetSrc": "",
+        "srcset": "//www.inashot.life/cdn/shop/files/RoastedChilliCheese.png?v=1794547495&width=360 360w, //www.inashot.life/cdn/shop/files/RoastedChilliCheese.png?v=1794547495&width=535 535w, //www.inashot.life/cdn/shop/files/RoastedChilliCheese.png?v=1794547495&width=720 720w, //www.inashot.life/cdn/shop/files/RoastedChilliCheese.png?v=1794547495&width=940 940w, //www.inashot.life/cdn/shop/files/RoastedChilliCheese.png?v=1794547495&width=1066 1066w, //www.inashot.life/cdn/shop/files/RoastedChilliCheese.png?v=1794547495&width=1200 1200w, //www.inashot.life/cdn/shop/files/RoastedChilliCheese.png?v=1794547495&width=1400 1400w, //www.inashot.life/cdn/shop/files/RoastedChilliCheese.png?v=1794547495&width=1600 1600w, //www.inashot.life/cdn/shop/files/RoastedChilliCheese.png?v=1794547495&width=1800 1800w, //www.inashot.life/cdn/shop/files/RoastedChilliCheese.png?v=1794547495&width=2000 2000w"
+      },
+      {
+        "src": "https://www.inashot.life/cdn/shop/files/Basket_2_1.png?v=1794397263&width=2048",
+        "alt": "Nimbu Pudina Seed Mix",
+        "datasetSrc": "",
+        "srcset": "//www.inashot.life/cdn/shop/files/Basket_2_1.png?v=1794397263&width=360 360w, //www.inashot.life/cdn/shop/files/Basket_2_1.png?v=1794397263&width=535 535w, //www.inashot.life/cdn/shop/files/Basket_2_1.png?v=1794397263&width=720 720w, //www.inashot.life/cdn/shop/files/Basket_2_1.png?v=1794397263&width=940 940w, //www.inashot.life/cdn/shop/files/Basket_2_1.png?v=1794397263&width=1066 1066w, //www.inashot.life/cdn/shop/files/Basket_2_1.png?v=1794397263&width=1200 1200w, //www.inashot.life/cdn/shop/files/Basket_2_1.png?v=1794397263&width=1400 1400w, //www.inashot.life/cdn/shop/files/Basket_2_1.png?v=1794397263&width=1600 1600w, //www.inashot.life/cdn/shop/files/Basket_2_1.png?v=1794397263&width=1800 1800w, //www.inashot.life/cdn/shop/files/Basket_2_1.png?v=1794397263&width=2000 2000w"
+      },
+      {
+        "src": "https://www.inashot.life/cdn/shop/files/SeedNimbuPudina.png?v=1794553021&width=2000",
+        "alt": "Nimbu Pudina Seed Mix",
+        "datasetSrc": "",
+        "srcset": "//www.inashot.life/cdn/shop/files/SeedNimbuPudina.png?v=1794553021&width=360 360w, //www.inashot.life/cdn/shop/files/SeedNimbuPudina.png?v=1794553021&width=535 535w, //www.inashot.life/cdn/shop/files/SeedNimbuPudina.png?v=1794553021&width=720 720w, //www.inashot.life/cdn/shop/files/SeedNimbuPudina.png?v=1794553021&width=940 940w, //www.inashot.life/cdn/shop/files/SeedNimbuPudina.png?v=1794553021&width=1066 1066w, //www.inashot.life/cdn/shop/files/SeedNimbuPudina.png?v=1794553021&width=1200 1200w, //www.inashot.life/cdn/shop/files/SeedNimbuPudina.png?v=1794553021&width=1400 1400w, //www.inashot.life/cdn/shop/files/SeedNimbuPudina.png?v=1794553021&width=1600 1600w, //www.inashot.life/cdn/shop/files/SeedNimbuPudina.png?v=1794553021&width=1800 1800w, //www.inashot.life/cdn/shop/files/SeedNimbuPudina.png?v=1794553021&width=2000 2000w"
+      },
+      {
+        "src": "https://www.inashot.life/cdn/shop/files/Basket_2.png?v=1794396714&width=2048",
+        "alt": "Magic Masala Seed Mix",
+        "datasetSrc": "",
+        "srcset": "//www.inashot.life/cdn/shop/files/Basket_2.png?v=1794396714&width=360 360w, //www.inashot.life/cdn/shop/files/Basket_2.png?v=1794396714&width=535 535w, //www.inashot.life/cdn/shop/files/Basket_2.png?v=1794396714&width=720 720w, //www.inashot.life/cdn/shop/files/Basket_2.png?v=1794396714&width=940 940w, //www.inashot.life/cdn/shop/files/Basket_2.png?v=1794396714&width=1066 1066w, //www.inashot.life/cdn/shop/files/Basket_2.png?v=1794396714&width=1200 1200w, //www.inashot.life/cdn/shop/files/Basket_2.png?v=1794396714&width=1400 1400w, //www.inashot.life/cdn/shop/files/Basket_2.png?v=1794396714&width=1600 1600w, //www.inashot.life/cdn/shop/files/Basket_2.png?v=1794396714&width=1800 1800w, //www.inashot.life/cdn/shop/files/Basket_2.png?v=1794396714&width=2000 2000w"
+      },
+      {
+        "src": "https://www.inashot.life/cdn/shop/files/SeedMagicMasala.png?v=1794552192&width=2000",
+        "alt": "Magic Masala Seed Mix",
+        "datasetSrc": "",
+        "srcset": "//www.inashot.life/cdn/shop/files/SeedMagicMasala.png?v=1794552192&width=360 360w, //www.inashot.life/cdn/shop/files/SeedMagicMasala.png?v=1794552192&width=535 535w, //www.inashot.life/cdn/shop/files/SeedMagicMasala.png?v=1794552192&width=720 720w, //www.inashot.life/cdn/shop/files/SeedMagicMasala.png?v=1794552192&width=940 940w, //www.inashot.life/cdn/shop/files/SeedMagicMasala.png?v=1794552192&width=1066 1066w, //www.inashot.life/cdn/shop/files/SeedMagicMasala.png?v=1794552192&width=1200 1200w, //www.inashot.life/cdn/shop/files/SeedMagicMasala.png?v=1794552192&width=1400 1400w, //www.inashot.life/cdn/shop/files/SeedMagicMasala.png?v=1794552192&width=1600 1600w, //www.inashot.life/cdn/shop/files/SeedMagicMasala.png?v=1794552192&width=1800 1800w, //www.inashot.life/cdn/shop/files/SeedMagicMasala.png?v=1794552192&width=2000 2000w"
+      },
+      {
+        "src": "https://www.inashot.life/cdn/shop/files/In_a_shot_final_logo.png?v=1790575380&width=56",
+        "alt": "IN'A Shot",
+        "datasetSrc": "",
+        "srcset": "//www.inashot.life/cdn/shop/files/In_a_shot_final_logo.png?v=1790575380&width=56 1x, //www.inashot.life/cdn/shop/files/In_a_shot_final_logo.png?v=1790575380&width=112 2x"
+      }
+    ],
+    "svgsCount": 19,
+    "headings": [
+      {
+        "tag": "a",
+        "text": "Combos",
+        "href": "/collections/combos"
+      },
+      {
+        "tag": "a",
+        "text": "Roasted Edamame",
+        "href": "/collections/nuts"
+      },
+      {
+        "tag": "a",
+        "text": "Crunchy Edamame",
+        "href": "/collections/crunchy-edamame"
+      },
+      {
+        "tag": "a",
+        "text": "Seed mix",
+        "href": "/collections/edamame"
+      },
+      {
+        "tag": "a",
+        "text": "All",
+        "href": "https://www.inashot.life/collections/all"
+      },
+      {
+        "tag": "a",
+        "text": "Seed mix",
+        "href": "/collections/nuts"
+      },
+      {
+        "tag": "h3",
+        "text": "Chilli Cheese Roasted Edamame",
+        "href": null
+      },
+      {
+        "tag": "a",
+        "text": "Chilli Cheese Roasted Edamame",
+        "href": "/products/chilly-cheese-roasted-edamame"
+      },
+      {
+        "tag": "h3",
+        "text": "Nimbu Pudina Seed Mix",
+        "href": null
+      },
+      {
+        "tag": "a",
+        "text": "Nimbu Pudina Seed Mix",
+        "href": "/products/nimbu-pudina-seed-mix"
+      },
+      {
+        "tag": "h3",
+        "text": "Magic Masala Seed Mix",
+        "href": null
+      },
+      {
+        "tag": "a",
+        "text": "Magic Masala Seed Mix",
+        "href": "/products/magic-masala-seed-mix"
+      }
+    ],
+    "innerHtmlPreview": "<script src=\"//www.inashot.life/cdn/shop/t/8/assets/header.js?v=101612012280570871781794573177\" defer=\"defer\"></script><link rel=\"stylesheet\" href=\"//www.inashot.life/cdn/shop/t/8/assets/component-search.css?v=113360489914788872261794573177\" media=\"all\" onload=\"this.media='all'\">\n  <link rel=\"stylesheet\" href=\"//www.inashot.life/cdn/shop/t/8/assets/component-card-small.css?v=51176768967371378641794573177\" media=\"all\" onload=\"this.media='all'\"><link rel=\"stylesheet\" href=\"//www.inashot.life/cdn/shop/t/8/assets/component-desktop-burger.css?v=36803469559730762771794573177\" media=\"all\" onload=\"this.media='all'\"><style>\n    :root {\n      --header-height: 86px;\n    }\n  </style><style>\n  @media screen and (min-width: 1100px) {\n    header-drawer {\n      display: none;\n    }\n  }\n\n  burger-menu {\n    position: relative;\n  }\n\n  .burger-menu {\n    position: fixed;\n    z-index: 1000;\n    width: 100%;\n    height: calc(100vh - (var(--ann-height)));\n    height: calc(var(--vh, 1vh) * 100 - var(--ann-height));\n    height: calc(100dvh - var(--ann-height));\n    top: 0;\n    left: 0;\n    pointer-events: none;\n    visibility: hidden;\n    opacity: 0;\n    background-color: rgb(var(--color-background));\n    transition: opacity 0.35s ease, visibility 0.35s ease;\n    display: flex;\n    overflow: hidden;\n  }\n\n  .burger-menu__button {\n    position: relative;\n    display: flex;\n    align-items: center;\n    justify-content: center;\n    width: 2.4rem;\n    height: 2.4rem;\n    background: transparent;\n    color: rgb(var(--color-foreground));\n    transition: opacity var(--duration-default) ease-in-out;\n    transform: translateZ(0);\n    backface-visibility: hidden;\n  }\n\n  .burger-menu__button svg {\n    transition: color 0.4s cubic-bezier(0.602, 0.007, 0.374, 0.995);\n  }\n\n  @media screen and (hover: hover) and (pointer: fine) {\n    .burger-menu__button:hover {\n      opacity: var(--hover-opacity);\n    }\n  }\n\n  .list-menu {\n    list-style: none;\n    padding: 0;\n    margin: 0;\n  }\n\n  .list-menu__item {\n   "
+  },
+  {
+    "id": "section-1",
+    "tagName": "header",
+    "className": "header header-compact header--left-logo header--has-menu header--overlay-mode container",
+    "previewText": "",
+    "images": [
+      {
+        "src": "https://www.inashot.life/cdn/shop/files/logo_in_a_shot_d764db0c-90a3-4ef9-af49-a3c5ef4b0dc2.png?v=1776246475&width=56",
+        "alt": "IN'A Shot",
+        "datasetSrc": "",
+        "srcset": "//www.inashot.life/cdn/shop/files/logo_in_a_shot_d764db0c-90a3-4ef9-af49-a3c5ef4b0dc2.png?v=1776246475&width=56 1x, //www.inashot.life/cdn/shop/files/logo_in_a_shot_d764db0c-90a3-4ef9-af49-a3c5ef4b0dc2.png?v=1776246475&width=112 2x"
+      },
+      {
+        "src": "https://www.inashot.life/cdn/shop/files/Basket1_29234f3b-a4c4-4d73-ad5e-0e3512367e00.png?v=1794314079&width=4267",
+        "alt": "Chilli Cheese Roasted Edamame",
+        "datasetSrc": "",
+        "srcset": "//www.inashot.life/cdn/shop/files/Basket1_29234f3b-a4c4-4d73-ad5e-0e3512367e00.png?v=1794314079&width=360 360w, //www.inashot.life/cdn/shop/files/Basket1_29234f3b-a4c4-4d73-ad5e-0e3512367e00.png?v=1794314079&width=535 535w, //www.inashot.life/cdn/shop/files/Basket1_29234f3b-a4c4-4d73-ad5e-0e3512367e00.png?v=1794314079&width=720 720w, //www.inashot.life/cdn/shop/files/Basket1_29234f3b-a4c4-4d73-ad5e-0e3512367e00.png?v=1794314079&width=940 940w, //www.inashot.life/cdn/shop/files/Basket1_29234f3b-a4c4-4d73-ad5e-0e3512367e00.png?v=1794314079&width=1066 1066w, //www.inashot.life/cdn/shop/files/Basket1_29234f3b-a4c4-4d73-ad5e-0e3512367e00.png?v=1794314079&width=1200 1200w, //www.inashot.life/cdn/shop/files/Basket1_29234f3b-a4c4-4d73-ad5e-0e3512367e00.png?v=1794314079&width=1400 1400w, //www.inashot.life/cdn/shop/files/Basket1_29234f3b-a4c4-4d73-ad5e-0e3512367e00.png?v=1794314079&width=1600 1600w, //www.inashot.life/cdn/shop/files/Basket1_29234f3b-a4c4-4d73-ad5e-0e3512367e00.png?v=1794314079&width=1800 1800w, //www.inashot.life/cdn/shop/files/Basket1_29234f3b-a4c4-4d73-ad5e-0e3512367e00.png?v=1794314079&width=2000 2000w, //www.inashot.life/cdn/shop/files/Basket1_29234f3b-a4c4-4d73-ad5e-0e3512367e00.png?v=1794314079&width=2200 2200w, //www.inashot.life/cdn/shop/files/Basket1_29234f3b-a4c4-4d73-ad5e-0e3512367e00.png?v=1794314079&width=2400 2400w, //www.inashot.life/cdn/shop/files/Basket1_29234f3b-a4c4-4d73-ad5e-0e3512367e00.png?v=1794314079&width=2600 2600w"
+      },
+      {
+        "src": "https://www.inashot.life/cdn/shop/files/RoastedChilliCheese.png?v=1794547495&width=2000",
+        "alt": "Chilli Cheese Roasted Edamame",
+        "datasetSrc": "",
+        "srcset": "//www.inashot.life/cdn/shop/files/RoastedChilliCheese.png?v=1794547495&width=360 360w, //www.inashot.life/cdn/shop/files/RoastedChilliCheese.png?v=1794547495&width=535 535w, //www.inashot.life/cdn/shop/files/RoastedChilliCheese.png?v=1794547495&width=720 720w, //www.inashot.life/cdn/shop/files/RoastedChilliCheese.png?v=1794547495&width=940 940w, //www.inashot.life/cdn/shop/files/RoastedChilliCheese.png?v=1794547495&width=1066 1066w, //www.inashot.life/cdn/shop/files/RoastedChilliCheese.png?v=1794547495&width=1200 1200w, //www.inashot.life/cdn/shop/files/RoastedChilliCheese.png?v=1794547495&width=1400 1400w, //www.inashot.life/cdn/shop/files/RoastedChilliCheese.png?v=1794547495&width=1600 1600w, //www.inashot.life/cdn/shop/files/RoastedChilliCheese.png?v=1794547495&width=1800 1800w, //www.inashot.life/cdn/shop/files/RoastedChilliCheese.png?v=1794547495&width=2000 2000w"
+      },
+      {
+        "src": "https://www.inashot.life/cdn/shop/files/Basket_2_1.png?v=1794397263&width=2048",
+        "alt": "Nimbu Pudina Seed Mix",
+        "datasetSrc": "",
+        "srcset": "//www.inashot.life/cdn/shop/files/Basket_2_1.png?v=1794397263&width=360 360w, //www.inashot.life/cdn/shop/files/Basket_2_1.png?v=1794397263&width=535 535w, //www.inashot.life/cdn/shop/files/Basket_2_1.png?v=1794397263&width=720 720w, //www.inashot.life/cdn/shop/files/Basket_2_1.png?v=1794397263&width=940 940w, //www.inashot.life/cdn/shop/files/Basket_2_1.png?v=1794397263&width=1066 1066w, //www.inashot.life/cdn/shop/files/Basket_2_1.png?v=1794397263&width=1200 1200w, //www.inashot.life/cdn/shop/files/Basket_2_1.png?v=1794397263&width=1400 1400w, //www.inashot.life/cdn/shop/files/Basket_2_1.png?v=1794397263&width=1600 1600w, //www.inashot.life/cdn/shop/files/Basket_2_1.png?v=1794397263&width=1800 1800w, //www.inashot.life/cdn/shop/files/Basket_2_1.png?v=1794397263&width=2000 2000w"
+      },
+      {
+        "src": "https://www.inashot.life/cdn/shop/files/SeedNimbuPudina.png?v=1794553021&width=2000",
+        "alt": "Nimbu Pudina Seed Mix",
+        "datasetSrc": "",
+        "srcset": "//www.inashot.life/cdn/shop/files/SeedNimbuPudina.png?v=1794553021&width=360 360w, //www.inashot.life/cdn/shop/files/SeedNimbuPudina.png?v=1794553021&width=535 535w, //www.inashot.life/cdn/shop/files/SeedNimbuPudina.png?v=1794553021&width=720 720w, //www.inashot.life/cdn/shop/files/SeedNimbuPudina.png?v=1794553021&width=940 940w, //www.inashot.life/cdn/shop/files/SeedNimbuPudina.png?v=1794553021&width=1066 1066w, //www.inashot.life/cdn/shop/files/SeedNimbuPudina.png?v=1794553021&width=1200 1200w, //www.inashot.life/cdn/shop/files/SeedNimbuPudina.png?v=1794553021&width=1400 1400w, //www.inashot.life/cdn/shop/files/SeedNimbuPudina.png?v=1794553021&width=1600 1600w, //www.inashot.life/cdn/shop/files/SeedNimbuPudina.png?v=1794553021&width=1800 1800w, //www.inashot.life/cdn/shop/files/SeedNimbuPudina.png?v=1794553021&width=2000 2000w"
+      },
+      {
+        "src": "https://www.inashot.life/cdn/shop/files/Basket_2.png?v=1794396714&width=2048",
+        "alt": "Magic Masala Seed Mix",
+        "datasetSrc": "",
+        "srcset": "//www.inashot.life/cdn/shop/files/Basket_2.png?v=1794396714&width=360 360w, //www.inashot.life/cdn/shop/files/Basket_2.png?v=1794396714&width=535 535w, //www.inashot.life/cdn/shop/files/Basket_2.png?v=1794396714&width=720 720w, //www.inashot.life/cdn/shop/files/Basket_2.png?v=1794396714&width=940 940w, //www.inashot.life/cdn/shop/files/Basket_2.png?v=1794396714&width=1066 1066w, //www.inashot.life/cdn/shop/files/Basket_2.png?v=1794396714&width=1200 1200w, //www.inashot.life/cdn/shop/files/Basket_2.png?v=1794396714&width=1400 1400w, //www.inashot.life/cdn/shop/files/Basket_2.png?v=1794396714&width=1600 1600w, //www.inashot.life/cdn/shop/files/Basket_2.png?v=1794396714&width=1800 1800w, //www.inashot.life/cdn/shop/files/Basket_2.png?v=1794396714&width=2000 2000w"
+      },
+      {
+        "src": "https://www.inashot.life/cdn/shop/files/SeedMagicMasala.png?v=1794552192&width=2000",
+        "alt": "Magic Masala Seed Mix",
+        "datasetSrc": "",
+        "srcset": "//www.inashot.life/cdn/shop/files/SeedMagicMasala.png?v=1794552192&width=360 360w, //www.inashot.life/cdn/shop/files/SeedMagicMasala.png?v=1794552192&width=535 535w, //www.inashot.life/cdn/shop/files/SeedMagicMasala.png?v=1794552192&width=720 720w, //www.inashot.life/cdn/shop/files/SeedMagicMasala.png?v=1794552192&width=940 940w, //www.inashot.life/cdn/shop/files/SeedMagicMasala.png?v=1794552192&width=1066 1066w, //www.inashot.life/cdn/shop/files/SeedMagicMasala.png?v=1794552192&width=1200 1200w, //www.inashot.life/cdn/shop/files/SeedMagicMasala.png?v=1794552192&width=1400 1400w, //www.inashot.life/cdn/shop/files/SeedMagicMasala.png?v=1794552192&width=1600 1600w, //www.inashot.life/cdn/shop/files/SeedMagicMasala.png?v=1794552192&width=1800 1800w, //www.inashot.life/cdn/shop/files/SeedMagicMasala.png?v=1794552192&width=2000 2000w"
+      },
+      {
+        "src": "https://www.inashot.life/cdn/shop/files/Basket1_29234f3b-a4c4-4d73-ad5e-0e3512367e00.png?v=1794314079&width=4267",
+        "alt": "Chilli Cheese Roasted Edamame",
+        "datasetSrc": "",
+        "srcset": "//www.inashot.life/cdn/shop/files/Basket1_29234f3b-a4c4-4d73-ad5e-0e3512367e00.png?v=1794314079&width=360 360w, //www.inashot.life/cdn/shop/files/Basket1_29234f3b-a4c4-4d73-ad5e-0e3512367e00.png?v=1794314079&width=535 535w, //www.inashot.life/cdn/shop/files/Basket1_29234f3b-a4c4-4d73-ad5e-0e3512367e00.png?v=1794314079&width=720 720w, //www.inashot.life/cdn/shop/files/Basket1_29234f3b-a4c4-4d73-ad5e-0e3512367e00.png?v=1794314079&width=940 940w, //www.inashot.life/cdn/shop/files/Basket1_29234f3b-a4c4-4d73-ad5e-0e3512367e00.png?v=1794314079&width=1066 1066w, //www.inashot.life/cdn/shop/files/Basket1_29234f3b-a4c4-4d73-ad5e-0e3512367e00.png?v=1794314079&width=1200 1200w, //www.inashot.life/cdn/shop/files/Basket1_29234f3b-a4c4-4d73-ad5e-0e3512367e00.png?v=1794314079&width=1400 1400w, //www.inashot.life/cdn/shop/files/Basket1_29234f3b-a4c4-4d73-ad5e-0e3512367e00.png?v=1794314079&width=1600 1600w, //www.inashot.life/cdn/shop/files/Basket1_29234f3b-a4c4-4d73-ad5e-0e3512367e00.png?v=1794314079&width=1800 1800w, //www.inashot.life/cdn/shop/files/Basket1_29234f3b-a4c4-4d73-ad5e-0e3512367e00.png?v=1794314079&width=2000 2000w, //www.inashot.life/cdn/shop/files/Basket1_29234f3b-a4c4-4d73-ad5e-0e3512367e00.png?v=1794314079&width=2200 2200w, //www.inashot.life/cdn/shop/files/Basket1_29234f3b-a4c4-4d73-ad5e-0e3512367e00.png?v=1794314079&width=2400 2400w, //www.inashot.life/cdn/shop/files/Basket1_29234f3b-a4c4-4d73-ad5e-0e3512367e00.png?v=1794314079&width=2600 2600w"
+      },
+      {
+        "src": "https://www.inashot.life/cdn/shop/files/RoastedChilliCheese.png?v=1794547495&width=2000",
+        "alt": "Chilli Cheese Roasted Edamame",
+        "datasetSrc": "",
+        "srcset": "//www.inashot.life/cdn/shop/files/RoastedChilliCheese.png?v=1794547495&width=360 360w, //www.inashot.life/cdn/shop/files/RoastedChilliCheese.png?v=1794547495&width=535 535w, //www.inashot.life/cdn/shop/files/RoastedChilliCheese.png?v=1794547495&width=720 720w, //www.inashot.life/cdn/shop/files/RoastedChilliCheese.png?v=1794547495&width=940 940w, //www.inashot.life/cdn/shop/files/RoastedChilliCheese.png?v=1794547495&width=1066 1066w, //www.inashot.life/cdn/shop/files/RoastedChilliCheese.png?v=1794547495&width=1200 1200w, //www.inashot.life/cdn/shop/files/RoastedChilliCheese.png?v=1794547495&width=1400 1400w, //www.inashot.life/cdn/shop/files/RoastedChilliCheese.png?v=1794547495&width=1600 1600w, //www.inashot.life/cdn/shop/files/RoastedChilliCheese.png?v=1794547495&width=1800 1800w, //www.inashot.life/cdn/shop/files/RoastedChilliCheese.png?v=1794547495&width=2000 2000w"
+      },
+      {
+        "src": "https://www.inashot.life/cdn/shop/files/Basket_2_1.png?v=1794397263&width=2048",
+        "alt": "Nimbu Pudina Seed Mix",
+        "datasetSrc": "",
+        "srcset": "//www.inashot.life/cdn/shop/files/Basket_2_1.png?v=1794397263&width=360 360w, //www.inashot.life/cdn/shop/files/Basket_2_1.png?v=1794397263&width=535 535w, //www.inashot.life/cdn/shop/files/Basket_2_1.png?v=1794397263&width=720 720w, //www.inashot.life/cdn/shop/files/Basket_2_1.png?v=1794397263&width=940 940w, //www.inashot.life/cdn/shop/files/Basket_2_1.png?v=1794397263&width=1066 1066w, //www.inashot.life/cdn/shop/files/Basket_2_1.png?v=1794397263&width=1200 1200w, //www.inashot.life/cdn/shop/files/Basket_2_1.png?v=1794397263&width=1400 1400w, //www.inashot.life/cdn/shop/files/Basket_2_1.png?v=1794397263&width=1600 1600w, //www.inashot.life/cdn/shop/files/Basket_2_1.png?v=1794397263&width=1800 1800w, //www.inashot.life/cdn/shop/files/Basket_2_1.png?v=1794397263&width=2000 2000w"
+      },
+      {
+        "src": "https://www.inashot.life/cdn/shop/files/SeedNimbuPudina.png?v=1794553021&width=2000",
+        "alt": "Nimbu Pudina Seed Mix",
+        "datasetSrc": "",
+        "srcset": "//www.inashot.life/cdn/shop/files/SeedNimbuPudina.png?v=1794553021&width=360 360w, //www.inashot.life/cdn/shop/files/SeedNimbuPudina.png?v=1794553021&width=535 535w, //www.inashot.life/cdn/shop/files/SeedNimbuPudina.png?v=1794553021&width=720 720w, //www.inashot.life/cdn/shop/files/SeedNimbuPudina.png?v=1794553021&width=940 940w, //www.inashot.life/cdn/shop/files/SeedNimbuPudina.png?v=1794553021&width=1066 1066w, //www.inashot.life/cdn/shop/files/SeedNimbuPudina.png?v=1794553021&width=1200 1200w, //www.inashot.life/cdn/shop/files/SeedNimbuPudina.png?v=1794553021&width=1400 1400w, //www.inashot.life/cdn/shop/files/SeedNimbuPudina.png?v=1794553021&width=1600 1600w, //www.inashot.life/cdn/shop/files/SeedNimbuPudina.png?v=1794553021&width=1800 1800w, //www.inashot.life/cdn/shop/files/SeedNimbuPudina.png?v=1794553021&width=2000 2000w"
+      },
+      {
+        "src": "https://www.inashot.life/cdn/shop/files/Basket_2.png?v=1794396714&width=2048",
+        "alt": "Magic Masala Seed Mix",
+        "datasetSrc": "",
+        "srcset": "//www.inashot.life/cdn/shop/files/Basket_2.png?v=1794396714&width=360 360w, //www.inashot.life/cdn/shop/files/Basket_2.png?v=1794396714&width=535 535w, //www.inashot.life/cdn/shop/files/Basket_2.png?v=1794396714&width=720 720w, //www.inashot.life/cdn/shop/files/Basket_2.png?v=1794396714&width=940 940w, //www.inashot.life/cdn/shop/files/Basket_2.png?v=1794396714&width=1066 1066w, //www.inashot.life/cdn/shop/files/Basket_2.png?v=1794396714&width=1200 1200w, //www.inashot.life/cdn/shop/files/Basket_2.png?v=1794396714&width=1400 1400w, //www.inashot.life/cdn/shop/files/Basket_2.png?v=1794396714&width=1600 1600w, //www.inashot.life/cdn/shop/files/Basket_2.png?v=1794396714&width=1800 1800w, //www.inashot.life/cdn/shop/files/Basket_2.png?v=1794396714&width=2000 2000w"
+      },
+      {
+        "src": "https://www.inashot.life/cdn/shop/files/SeedMagicMasala.png?v=1794552192&width=2000",
+        "alt": "Magic Masala Seed Mix",
+        "datasetSrc": "",
+        "srcset": "//www.inashot.life/cdn/shop/files/SeedMagicMasala.png?v=1794552192&width=360 360w, //www.inashot.life/cdn/shop/files/SeedMagicMasala.png?v=1794552192&width=535 535w, //www.inashot.life/cdn/shop/files/SeedMagicMasala.png?v=1794552192&width=720 720w, //www.inashot.life/cdn/shop/files/SeedMagicMasala.png?v=1794552192&width=940 940w, //www.inashot.life/cdn/shop/files/SeedMagicMasala.png?v=1794552192&width=1066 1066w, //www.inashot.life/cdn/shop/files/SeedMagicMasala.png?v=1794552192&width=1200 1200w, //www.inashot.life/cdn/shop/files/SeedMagicMasala.png?v=1794552192&width=1400 1400w, //www.inashot.life/cdn/shop/files/SeedMagicMasala.png?v=1794552192&width=1600 1600w, //www.inashot.life/cdn/shop/files/SeedMagicMasala.png?v=1794552192&width=1800 1800w, //www.inashot.life/cdn/shop/files/SeedMagicMasala.png?v=1794552192&width=2000 2000w"
+      },
+      {
+        "src": "https://www.inashot.life/cdn/shop/files/In_a_shot_final_logo.png?v=1790575380&width=56",
+        "alt": "IN'A Shot",
+        "datasetSrc": "",
+        "srcset": "//www.inashot.life/cdn/shop/files/In_a_shot_final_logo.png?v=1790575380&width=56 1x, //www.inashot.life/cdn/shop/files/In_a_shot_final_logo.png?v=1790575380&width=112 2x"
+      }
+    ],
+    "svgsCount": 19,
+    "headings": [
+      {
+        "tag": "a",
+        "text": "Combos",
+        "href": "/collections/combos"
+      },
+      {
+        "tag": "a",
+        "text": "Roasted Edamame",
+        "href": "/collections/nuts"
+      },
+      {
+        "tag": "a",
+        "text": "Crunchy Edamame",
+        "href": "/collections/crunchy-edamame"
+      },
+      {
+        "tag": "a",
+        "text": "Seed mix",
+        "href": "/collections/edamame"
+      },
+      {
+        "tag": "a",
+        "text": "All",
+        "href": "https://www.inashot.life/collections/all"
+      },
+      {
+        "tag": "a",
+        "text": "Seed mix",
+        "href": "/collections/nuts"
+      },
+      {
+        "tag": "h3",
+        "text": "Chilli Cheese Roasted Edamame",
+        "href": null
+      },
+      {
+        "tag": "a",
+        "text": "Chilli Cheese Roasted Edamame",
+        "href": "/products/chilly-cheese-roasted-edamame"
+      },
+      {
+        "tag": "h3",
+        "text": "Nimbu Pudina Seed Mix",
+        "href": null
+      },
+      {
+        "tag": "a",
+        "text": "Nimbu Pudina Seed Mix",
+        "href": "/products/nimbu-pudina-seed-mix"
+      },
+      {
+        "tag": "h3",
+        "text": "Magic Masala Seed Mix",
+        "href": null
+      },
+      {
+        "tag": "a",
+        "text": "Magic Masala Seed Mix",
+        "href": "/products/magic-masala-seed-mix"
+      }
+    ],
+    "innerHtmlPreview": "\n  \n\n  \n    <div class=\"header-compact__wrapper color-background-4\">\n  <burger-menu>\n  \n\n  <style>\n    @media screen and (min-height: 400px) and (min-width: 750px) {\n      .burger-menu__menu--with-image,\n      .burger-menu__menu:has(.burger-menu__image-wrapper) {\n        padding-inline-end: 34rem;\n      }\n    }\n\n    @media screen and (min-height: 400px) and (min-width: 990px) {\n      .burger-menu__menu--with-image,\n      .burger-menu__menu:has(.burger-menu__image-wrapper) {\n        padding-inline-end: 44rem;\n      }\n    }\n\n    @media screen and (max-height: 399px) {\n      .burger-menu__menu--with-image,\n      .burger-menu__menu:has(.burger-menu__image-wrapper) {\n        min-height: 400px;\n      }\n\n      .burger-menu__image-wrapper--main {\n        position: static;\n      }\n\n      .burger-menu__image-wrapper--link {\n        justify-content: flex-start;\n      }\n    }\n  </style>\n  <div class=\"burger-menu__container\" style=\"--image-height: 400px;\"><button class=\"burger-menu__button burger-menu__open button--unstyled focus-inset no-js-hidden\" aria-label=\"Open desktop burger menu\">\n        <svg class=\"icon icon-hamburger\" width=\"22\" height=\"16\" viewBox=\"0 0 22 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n  <path d=\"M22 15C22 15.5523 21.5523 16 21 16H1C0.447716 16 0 15.5523 0 15C0 14.4477 0.447715 14 1 14H21C21.5523 14 22 14.4477 22 15ZM22 8C22 8.55229 21.5523 9 21 9H1C0.447716 9 0 8.55229 0 8C0 7.44772 0.447715 7 1 7H21C21.5523 7 22 7.44772 22 8ZM22 1C22 1.55228 21.5523 2 21 2H1C0.447716 2 0 1.55228 0 1C0 0.447715 0.447715 0 1 0H21C21.5523 0 22 0.447715 22 1Z\" fill=\"currentColor\"></path>\n</svg>\n      </button><div class=\"burger-menu color-scheme-2808953a-3491-4eea-b87b-43455ad11a4d\" role=\"dialog\" aria-modal=\"true\" aria-label=\"Burger menu\" tabindex=\"-1\">\n      <div class=\"burger-menu__wrapper\">\n        <div class=\"burger-menu__top\">\n          <button class=\"burger-menu__close button--unstyled focus-inset modal-close-button\" aria-label=\"Close desktop burger menu\">\n   "
+  },
+  {
+    "id": "shopify-section-template--29572451139948__banner",
+    "tagName": "div",
+    "className": "shopify-section collection-banner-section",
+    "previewText": "COLLECTION:\nROASTED EDAMAME\nAll Products\nCombos\nRoasted Edamame\nCrunchy Edamame\nSeed Mix",
+    "images": [
+      {
+        "src": "https://www.inashot.life/cdn/shop/files/WhatsApp_Image_2026-11-12_at_17.46.43_1.jpg?v=1794486518&width=1600",
+        "alt": "",
+        "datasetSrc": "",
+        "srcset": "//www.inashot.life/cdn/shop/files/WhatsApp_Image_2026-11-12_at_17.46.43_1.jpg?v=1794486518&width=32 32w, //www.inashot.life/cdn/shop/files/WhatsApp_Image_2026-11-12_at_17.46.43_1.jpg?v=1794486518&width=64 64w, //www.inashot.life/cdn/shop/files/WhatsApp_Image_2026-11-12_at_17.46.43_1.jpg?v=1794486518&width=106 106w, //www.inashot.life/cdn/shop/files/WhatsApp_Image_2026-11-12_at_17.46.43_1.jpg?v=1794486518&width=128 128w, //www.inashot.life/cdn/shop/files/WhatsApp_Image_2026-11-12_at_17.46.43_1.jpg?v=1794486518&width=160 160w, //www.inashot.life/cdn/shop/files/WhatsApp_Image_2026-11-12_at_17.46.43_1.jpg?v=1794486518&width=212 212w, //www.inashot.life/cdn/shop/files/WhatsApp_Image_2026-11-12_at_17.46.43_1.jpg?v=1794486518&width=256 256w, //www.inashot.life/cdn/shop/files/WhatsApp_Image_2026-11-12_at_17.46.43_1.jpg?v=1794486518&width=318 318w, //www.inashot.life/cdn/shop/files/WhatsApp_Image_2026-11-12_at_17.46.43_1.jpg?v=1794486518&width=535 535w, //www.inashot.life/cdn/shop/files/WhatsApp_Image_2026-11-12_at_17.46.43_1.jpg?v=1794486518&width=720 720w, //www.inashot.life/cdn/shop/files/WhatsApp_Image_2026-11-12_at_17.46.43_1.jpg?v=1794486518&width=940 940w, //www.inashot.life/cdn/shop/files/WhatsApp_Image_2026-11-12_at_17.46.43_1.jpg?v=1794486518&width=1100 1100w, //www.inashot.life/cdn/shop/files/WhatsApp_Image_2026-11-12_at_17.46.43_1.jpg?v=1794486518&width=1200 1200w, //www.inashot.life/cdn/shop/files/WhatsApp_Image_2026-11-12_at_17.46.43_1.jpg?v=1794486518&width=1440 1440w"
+      },
+      {
+        "src": "https://www.inashot.life/cdn/shop/collections/WhatsApp_Image_2026-11-12_at_17.46.44.jpg?v=1794556557&width=1600",
+        "alt": "Combos",
+        "datasetSrc": "",
+        "srcset": "//www.inashot.life/cdn/shop/collections/WhatsApp_Image_2026-11-12_at_17.46.44.jpg?v=1794556557&width=32 32w, //www.inashot.life/cdn/shop/collections/WhatsApp_Image_2026-11-12_at_17.46.44.jpg?v=1794556557&width=64 64w, //www.inashot.life/cdn/shop/collections/WhatsApp_Image_2026-11-12_at_17.46.44.jpg?v=1794556557&width=106 106w, //www.inashot.life/cdn/shop/collections/WhatsApp_Image_2026-11-12_at_17.46.44.jpg?v=1794556557&width=128 128w, //www.inashot.life/cdn/shop/collections/WhatsApp_Image_2026-11-12_at_17.46.44.jpg?v=1794556557&width=160 160w, //www.inashot.life/cdn/shop/collections/WhatsApp_Image_2026-11-12_at_17.46.44.jpg?v=1794556557&width=212 212w, //www.inashot.life/cdn/shop/collections/WhatsApp_Image_2026-11-12_at_17.46.44.jpg?v=1794556557&width=256 256w, //www.inashot.life/cdn/shop/collections/WhatsApp_Image_2026-11-12_at_17.46.44.jpg?v=1794556557&width=318 318w, //www.inashot.life/cdn/shop/collections/WhatsApp_Image_2026-11-12_at_17.46.44.jpg?v=1794556557&width=535 535w, //www.inashot.life/cdn/shop/collections/WhatsApp_Image_2026-11-12_at_17.46.44.jpg?v=1794556557&width=720 720w, //www.inashot.life/cdn/shop/collections/WhatsApp_Image_2026-11-12_at_17.46.44.jpg?v=1794556557&width=940 940w, //www.inashot.life/cdn/shop/collections/WhatsApp_Image_2026-11-12_at_17.46.44.jpg?v=1794556557&width=1100 1100w, //www.inashot.life/cdn/shop/collections/WhatsApp_Image_2026-11-12_at_17.46.44.jpg?v=1794556557&width=1200 1200w, //www.inashot.life/cdn/shop/collections/WhatsApp_Image_2026-11-12_at_17.46.44.jpg?v=1794556557&width=1440 1440w"
+      },
+      {
+        "src": "https://www.inashot.life/cdn/shop/collections/WhatsApp_Image_2026-11-12_at_7.13.21_PM_2.png?v=1794576793&width=1600",
+        "alt": "Roasted Edamame",
+        "datasetSrc": "",
+        "srcset": "//www.inashot.life/cdn/shop/collections/WhatsApp_Image_2026-11-12_at_7.13.21_PM_2.png?v=1794576793&width=32 32w, //www.inashot.life/cdn/shop/collections/WhatsApp_Image_2026-11-12_at_7.13.21_PM_2.png?v=1794576793&width=64 64w, //www.inashot.life/cdn/shop/collections/WhatsApp_Image_2026-11-12_at_7.13.21_PM_2.png?v=1794576793&width=106 106w, //www.inashot.life/cdn/shop/collections/WhatsApp_Image_2026-11-12_at_7.13.21_PM_2.png?v=1794576793&width=128 128w, //www.inashot.life/cdn/shop/collections/WhatsApp_Image_2026-11-12_at_7.13.21_PM_2.png?v=1794576793&width=160 160w, //www.inashot.life/cdn/shop/collections/WhatsApp_Image_2026-11-12_at_7.13.21_PM_2.png?v=1794576793&width=212 212w, //www.inashot.life/cdn/shop/collections/WhatsApp_Image_2026-11-12_at_7.13.21_PM_2.png?v=1794576793&width=256 256w, //www.inashot.life/cdn/shop/collections/WhatsApp_Image_2026-11-12_at_7.13.21_PM_2.png?v=1794576793&width=318 318w, //www.inashot.life/cdn/shop/collections/WhatsApp_Image_2026-11-12_at_7.13.21_PM_2.png?v=1794576793&width=535 535w, //www.inashot.life/cdn/shop/collections/WhatsApp_Image_2026-11-12_at_7.13.21_PM_2.png?v=1794576793&width=720 720w, //www.inashot.life/cdn/shop/collections/WhatsApp_Image_2026-11-12_at_7.13.21_PM_2.png?v=1794576793&width=940 940w, //www.inashot.life/cdn/shop/collections/WhatsApp_Image_2026-11-12_at_7.13.21_PM_2.png?v=1794576793&width=1100 1100w, //www.inashot.life/cdn/shop/collections/WhatsApp_Image_2026-11-12_at_7.13.21_PM_2.png?v=1794576793&width=1200 1200w, //www.inashot.life/cdn/shop/collections/WhatsApp_Image_2026-11-12_at_7.13.21_PM_2.png?v=1794576793&width=1440 1440w"
+      },
+      {
+        "src": "https://www.inashot.life/cdn/shop/collections/WhatsApp_Image_2026-11-12_at_17.46.45.jpg?v=1794559262&width=1600",
+        "alt": "Crunchy Edamame",
+        "datasetSrc": "",
+        "srcset": "//www.inashot.life/cdn/shop/collections/WhatsApp_Image_2026-11-12_at_17.46.45.jpg?v=1794559262&width=32 32w, //www.inashot.life/cdn/shop/collections/WhatsApp_Image_2026-11-12_at_17.46.45.jpg?v=1794559262&width=64 64w, //www.inashot.life/cdn/shop/collections/WhatsApp_Image_2026-11-12_at_17.46.45.jpg?v=1794559262&width=106 106w, //www.inashot.life/cdn/shop/collections/WhatsApp_Image_2026-11-12_at_17.46.45.jpg?v=1794559262&width=128 128w, //www.inashot.life/cdn/shop/collections/WhatsApp_Image_2026-11-12_at_17.46.45.jpg?v=1794559262&width=160 160w, //www.inashot.life/cdn/shop/collections/WhatsApp_Image_2026-11-12_at_17.46.45.jpg?v=1794559262&width=212 212w, //www.inashot.life/cdn/shop/collections/WhatsApp_Image_2026-11-12_at_17.46.45.jpg?v=1794559262&width=256 256w, //www.inashot.life/cdn/shop/collections/WhatsApp_Image_2026-11-12_at_17.46.45.jpg?v=1794559262&width=318 318w, //www.inashot.life/cdn/shop/collections/WhatsApp_Image_2026-11-12_at_17.46.45.jpg?v=1794559262&width=535 535w, //www.inashot.life/cdn/shop/collections/WhatsApp_Image_2026-11-12_at_17.46.45.jpg?v=1794559262&width=720 720w, //www.inashot.life/cdn/shop/collections/WhatsApp_Image_2026-11-12_at_17.46.45.jpg?v=1794559262&width=940 940w, //www.inashot.life/cdn/shop/collections/WhatsApp_Image_2026-11-12_at_17.46.45.jpg?v=1794559262&width=1100 1100w, //www.inashot.life/cdn/shop/collections/WhatsApp_Image_2026-11-12_at_17.46.45.jpg?v=1794559262&width=1200 1200w, //www.inashot.life/cdn/shop/collections/WhatsApp_Image_2026-11-12_at_17.46.45.jpg?v=1794559262&width=1440 1440w"
+      },
+      {
+        "src": "https://www.inashot.life/cdn/shop/collections/Blank_White_Snack_Packet_Mockup_1.png?v=1794576852&width=2000",
+        "alt": "Seed Mix",
+        "datasetSrc": "",
+        "srcset": "//www.inashot.life/cdn/shop/collections/Blank_White_Snack_Packet_Mockup_1.png?v=1794576852&width=32 32w, //www.inashot.life/cdn/shop/collections/Blank_White_Snack_Packet_Mockup_1.png?v=1794576852&width=64 64w, //www.inashot.life/cdn/shop/collections/Blank_White_Snack_Packet_Mockup_1.png?v=1794576852&width=106 106w, //www.inashot.life/cdn/shop/collections/Blank_White_Snack_Packet_Mockup_1.png?v=1794576852&width=128 128w, //www.inashot.life/cdn/shop/collections/Blank_White_Snack_Packet_Mockup_1.png?v=1794576852&width=160 160w, //www.inashot.life/cdn/shop/collections/Blank_White_Snack_Packet_Mockup_1.png?v=1794576852&width=212 212w, //www.inashot.life/cdn/shop/collections/Blank_White_Snack_Packet_Mockup_1.png?v=1794576852&width=256 256w, //www.inashot.life/cdn/shop/collections/Blank_White_Snack_Packet_Mockup_1.png?v=1794576852&width=318 318w, //www.inashot.life/cdn/shop/collections/Blank_White_Snack_Packet_Mockup_1.png?v=1794576852&width=535 535w, //www.inashot.life/cdn/shop/collections/Blank_White_Snack_Packet_Mockup_1.png?v=1794576852&width=720 720w, //www.inashot.life/cdn/shop/collections/Blank_White_Snack_Packet_Mockup_1.png?v=1794576852&width=940 940w, //www.inashot.life/cdn/shop/collections/Blank_White_Snack_Packet_Mockup_1.png?v=1794576852&width=1100 1100w, //www.inashot.life/cdn/shop/collections/Blank_White_Snack_Packet_Mockup_1.png?v=1794576852&width=1200 1200w, //www.inashot.life/cdn/shop/collections/Blank_White_Snack_Packet_Mockup_1.png?v=1794576852&width=1440 1440w"
+      }
+    ],
+    "svgsCount": 0,
+    "headings": [
+      {
+        "tag": "h1",
+        "text": "COLLECTION:\nROASTED EDAMAME",
+        "href": null
+      },
+      {
+        "tag": "a",
+        "text": "All Products",
+        "href": "/collections/all"
+      },
+      {
+        "tag": "a",
+        "text": "Combos",
+        "href": "/collections/combos"
+      },
+      {
+        "tag": "a",
+        "text": "Roasted Edamame",
+        "href": "/collections/nuts"
+      },
+      {
+        "tag": "a",
+        "text": "Crunchy Edamame",
+        "href": "/collections/crunchy-edamame"
+      },
+      {
+        "tag": "a",
+        "text": "Seed Mix",
+        "href": "/collections/edamame"
+      }
+    ],
+    "innerHtmlPreview": "<link href=\"//www.inashot.life/cdn/shop/t/8/assets/component-collection-hero.css?v=58318491479210566851794573177\" rel=\"stylesheet\" type=\"text/css\" media=\"all\">\n<style data-shopify=\"\">#shopify-section-template--29572451139948__banner {\n  padding-top: 5.6rem;\n\n  padding-bottom: 2.4rem;\n}\n\n@media screen and (min-width: 750px) { #shopify-section-template--29572451139948__banner {\n  padding-top: 7.2rem;\n\n  padding-bottom: 3.2rem;\n} }\n\n@media screen and (min-width: 1360px) { #shopify-section-template--29572451139948__banner {\n  padding-top: 10rem;\n\n  padding-bottom: 3.2rem;\n\n} }\n\n</style><div class=\"collection-hero\">\n  <div class=\"container\">\n    <div class=\"collection-hero__wrapper\" style=\"--padding-bottom: 0%\">\n      <div class=\"collection-hero__text-wrapper\">\n        <div class=\"page-header\">\n          <div class=\"page-header__inner\">\n            <h1 class=\"collection-hero__title title--page h2\">\n              <span class=\"visually-hidden\">Collection: </span>Roasted Edamame</h1>\n          </div>\n        </div><div class=\"collection-hero__featured-collections collection-hero__featured-collections--with-images\"><a class=\"collection-hero-featured-collection collection-hero-featured-collection--with-image\" href=\"/collections/all\" aria-label=\"All Products\">\n                  <div class=\"collection-hero-featured-collection__image-wrapper\">\n<img src=\"//www.inashot.life/cdn/shop/files/WhatsApp_Image_2026-11-12_at_17.46.43_1.jpg?v=1794486518&amp;width=1600\" srcset=\"//www.inashot.life/cdn/shop/files/WhatsApp_Image_2026-11-12_at_17.46.43_1.jpg?v=1794486518&amp;width=32 32w, //www.inashot.life/cdn/shop/files/WhatsApp_Image_2026-11-12_at_17.46.43_1.jpg?v=1794486518&amp;width=64 64w, //www.inashot.life/cdn/shop/files/WhatsApp_Image_2026-11-12_at_17.46.43_1.jpg?v=1794486518&amp;width=106 106w, //www.inashot.life/cdn/shop/files/WhatsApp_Image_2026-11-12_at_17.46.43_1.jpg?v=1794486518&amp;width=128 128w, //www.inashot.life/cdn/shop/files/WhatsApp_Image_2026-11-12_at_17.46.43_1.jpg?v=17"
+  },
+  {
+    "id": "shopify-section-template--29572451139948__product-grid",
+    "tagName": "section",
+    "className": "shopify-section collection-grid-section",
+    "previewText": "Filters\n3 products\nSort by\nSort by\n2%\nOFF!\nAdd to Cart\nQuick View Achari Roasted Edamame\nACHARI ROASTED EDAMAME\nSale price\nRs. 531.00\nRegular price\nRs. 540.00\nPack of 9 (30g Each) | Achari\n2%\nOFF!\nAdd to Cart\nQuick View Chilli Cheese Roasted Edamame\nCHILLI CHEESE ROASTED EDAMAME\nSale price\nRs. 531.00\nRegular price\nRs. 540.00\nPack of 9 (30g Each) | Chilli Cheese\n2%\nOFF!\nQuick View Peri Peri Roasted Edamame\nPERI PERI ROASTED EDAMAME\nSale price\nRs. 531.00 – Rs. 1,433.70\nRegular price\nRs. 540.00 — R",
+    "images": [
+      {
+        "src": "https://www.inashot.life/cdn/shop/files/Basket1.png?v=1794312007&width=3200",
+        "alt": "Achari Roasted Edamame",
+        "datasetSrc": "",
+        "srcset": "//www.inashot.life/cdn/shop/files/Basket1.png?v=1794312007&width=360 360w, //www.inashot.life/cdn/shop/files/Basket1.png?v=1794312007&width=535 535w, //www.inashot.life/cdn/shop/files/Basket1.png?v=1794312007&width=720 720w, //www.inashot.life/cdn/shop/files/Basket1.png?v=1794312007&width=940 940w, //www.inashot.life/cdn/shop/files/Basket1.png?v=1794312007&width=1066 1066w, //www.inashot.life/cdn/shop/files/Basket1.png?v=1794312007&width=1200 1200w, //www.inashot.life/cdn/shop/files/Basket1.png?v=1794312007&width=1400 1400w, //www.inashot.life/cdn/shop/files/Basket1.png?v=1794312007&width=1600 1600w, //www.inashot.life/cdn/shop/files/Basket1.png?v=1794312007&width=1800 1800w, //www.inashot.life/cdn/shop/files/Basket1.png?v=1794312007&width=2000 2000w, //www.inashot.life/cdn/shop/files/Basket1.png?v=1794312007&width=2200 2200w, //www.inashot.life/cdn/shop/files/Basket1.png?v=1794312007&width=2400 2400w, //www.inashot.life/cdn/shop/files/Basket1.png?v=1794312007&width=2600 2600w, //www.inashot.life/cdn/shop/files/Basket1.png?v=1794312007&width=2800 2800w, //www.inashot.life/cdn/shop/files/Basket1.png?v=1794312007&width=3000 3000w, //www.inashot.life/cdn/shop/files/Basket1.png?v=1794312007&width=3200 3200w"
+      },
+      {
+        "src": "https://www.inashot.life/cdn/shop/files/RoastedAchari.png?v=1794551437&width=2000",
+        "alt": "Achari Roasted Edamame",
+        "datasetSrc": "",
+        "srcset": "//www.inashot.life/cdn/shop/files/RoastedAchari.png?v=1794551437&width=360 360w, //www.inashot.life/cdn/shop/files/RoastedAchari.png?v=1794551437&width=535 535w, //www.inashot.life/cdn/shop/files/RoastedAchari.png?v=1794551437&width=720 720w, //www.inashot.life/cdn/shop/files/RoastedAchari.png?v=1794551437&width=940 940w, //www.inashot.life/cdn/shop/files/RoastedAchari.png?v=1794551437&width=1066 1066w, //www.inashot.life/cdn/shop/files/RoastedAchari.png?v=1794551437&width=1200 1200w, //www.inashot.life/cdn/shop/files/RoastedAchari.png?v=1794551437&width=1400 1400w, //www.inashot.life/cdn/shop/files/RoastedAchari.png?v=1794551437&width=1600 1600w, //www.inashot.life/cdn/shop/files/RoastedAchari.png?v=1794551437&width=1800 1800w, //www.inashot.life/cdn/shop/files/RoastedAchari.png?v=1794551437&width=2000 2000w"
+      },
+      {
+        "src": "https://www.inashot.life/cdn/shop/files/Basket1_29234f3b-a4c4-4d73-ad5e-0e3512367e00.png?v=1794314079&width=4267",
+        "alt": "Chilli Cheese Roasted Edamame",
+        "datasetSrc": "",
+        "srcset": "//www.inashot.life/cdn/shop/files/Basket1_29234f3b-a4c4-4d73-ad5e-0e3512367e00.png?v=1794314079&width=360 360w, //www.inashot.life/cdn/shop/files/Basket1_29234f3b-a4c4-4d73-ad5e-0e3512367e00.png?v=1794314079&width=535 535w, //www.inashot.life/cdn/shop/files/Basket1_29234f3b-a4c4-4d73-ad5e-0e3512367e00.png?v=1794314079&width=720 720w, //www.inashot.life/cdn/shop/files/Basket1_29234f3b-a4c4-4d73-ad5e-0e3512367e00.png?v=1794314079&width=940 940w, //www.inashot.life/cdn/shop/files/Basket1_29234f3b-a4c4-4d73-ad5e-0e3512367e00.png?v=1794314079&width=1066 1066w, //www.inashot.life/cdn/shop/files/Basket1_29234f3b-a4c4-4d73-ad5e-0e3512367e00.png?v=1794314079&width=1200 1200w, //www.inashot.life/cdn/shop/files/Basket1_29234f3b-a4c4-4d73-ad5e-0e3512367e00.png?v=1794314079&width=1400 1400w, //www.inashot.life/cdn/shop/files/Basket1_29234f3b-a4c4-4d73-ad5e-0e3512367e00.png?v=1794314079&width=1600 1600w, //www.inashot.life/cdn/shop/files/Basket1_29234f3b-a4c4-4d73-ad5e-0e3512367e00.png?v=1794314079&width=1800 1800w, //www.inashot.life/cdn/shop/files/Basket1_29234f3b-a4c4-4d73-ad5e-0e3512367e00.png?v=1794314079&width=2000 2000w, //www.inashot.life/cdn/shop/files/Basket1_29234f3b-a4c4-4d73-ad5e-0e3512367e00.png?v=1794314079&width=2200 2200w, //www.inashot.life/cdn/shop/files/Basket1_29234f3b-a4c4-4d73-ad5e-0e3512367e00.png?v=1794314079&width=2400 2400w, //www.inashot.life/cdn/shop/files/Basket1_29234f3b-a4c4-4d73-ad5e-0e3512367e00.png?v=1794314079&width=2600 2600w, //www.inashot.life/cdn/shop/files/Basket1_29234f3b-a4c4-4d73-ad5e-0e3512367e00.png?v=1794314079&width=2800 2800w, //www.inashot.life/cdn/shop/files/Basket1_29234f3b-a4c4-4d73-ad5e-0e3512367e00.png?v=1794314079&width=3000 3000w, //www.inashot.life/cdn/shop/files/Basket1_29234f3b-a4c4-4d73-ad5e-0e3512367e00.png?v=1794314079&width=3200 3200w, //www.inashot.life/cdn/shop/files/Basket1_29234f3b-a4c4-4d73-ad5e-0e3512367e00.png?v=1794314079&width=3400 3400w, //www.inashot.life/cdn/shop/files/Basket1_29234f3b-a4c4-4d73-ad5e-0e3512367e00.png?v=1794314079&width=3600 3600w, //www.inashot.life/cdn/shop/files/Basket1_29234f3b-a4c4-4d73-ad5e-0e3512367e00.png?v=1794314079&width=3800 3800w"
+      },
+      {
+        "src": "https://www.inashot.life/cdn/shop/files/RoastedChilliCheese.png?v=1794547495&width=2000",
+        "alt": "Chilli Cheese Roasted Edamame",
+        "datasetSrc": "",
+        "srcset": "//www.inashot.life/cdn/shop/files/RoastedChilliCheese.png?v=1794547495&width=360 360w, //www.inashot.life/cdn/shop/files/RoastedChilliCheese.png?v=1794547495&width=535 535w, //www.inashot.life/cdn/shop/files/RoastedChilliCheese.png?v=1794547495&width=720 720w, //www.inashot.life/cdn/shop/files/RoastedChilliCheese.png?v=1794547495&width=940 940w, //www.inashot.life/cdn/shop/files/RoastedChilliCheese.png?v=1794547495&width=1066 1066w, //www.inashot.life/cdn/shop/files/RoastedChilliCheese.png?v=1794547495&width=1200 1200w, //www.inashot.life/cdn/shop/files/RoastedChilliCheese.png?v=1794547495&width=1400 1400w, //www.inashot.life/cdn/shop/files/RoastedChilliCheese.png?v=1794547495&width=1600 1600w, //www.inashot.life/cdn/shop/files/RoastedChilliCheese.png?v=1794547495&width=1800 1800w, //www.inashot.life/cdn/shop/files/RoastedChilliCheese.png?v=1794547495&width=2000 2000w"
+      },
+      {
+        "src": "https://www.inashot.life/cdn/shop/files/Basket.png?v=1794314318&width=2000",
+        "alt": "Peri Peri Roasted Edamame",
+        "datasetSrc": "",
+        "srcset": "//www.inashot.life/cdn/shop/files/Basket.png?v=1794314318&width=360 360w, //www.inashot.life/cdn/shop/files/Basket.png?v=1794314318&width=535 535w, //www.inashot.life/cdn/shop/files/Basket.png?v=1794314318&width=720 720w, //www.inashot.life/cdn/shop/files/Basket.png?v=1794314318&width=940 940w, //www.inashot.life/cdn/shop/files/Basket.png?v=1794314318&width=1066 1066w, //www.inashot.life/cdn/shop/files/Basket.png?v=1794314318&width=1200 1200w, //www.inashot.life/cdn/shop/files/Basket.png?v=1794314318&width=1400 1400w, //www.inashot.life/cdn/shop/files/Basket.png?v=1794314318&width=1600 1600w, //www.inashot.life/cdn/shop/files/Basket.png?v=1794314318&width=1800 1800w, //www.inashot.life/cdn/shop/files/Basket.png?v=1794314318&width=2000 2000w"
+      },
+      {
+        "src": "https://www.inashot.life/cdn/shop/files/RoastedPeriPeri.png?v=1794551644&width=2000",
+        "alt": "Peri Peri Roasted Edamame",
+        "datasetSrc": "",
+        "srcset": "//www.inashot.life/cdn/shop/files/RoastedPeriPeri.png?v=1794551644&width=360 360w, //www.inashot.life/cdn/shop/files/RoastedPeriPeri.png?v=1794551644&width=535 535w, //www.inashot.life/cdn/shop/files/RoastedPeriPeri.png?v=1794551644&width=720 720w, //www.inashot.life/cdn/shop/files/RoastedPeriPeri.png?v=1794551644&width=940 940w, //www.inashot.life/cdn/shop/files/RoastedPeriPeri.png?v=1794551644&width=1066 1066w, //www.inashot.life/cdn/shop/files/RoastedPeriPeri.png?v=1794551644&width=1200 1200w, //www.inashot.life/cdn/shop/files/RoastedPeriPeri.png?v=1794551644&width=1400 1400w, //www.inashot.life/cdn/shop/files/RoastedPeriPeri.png?v=1794551644&width=1600 1600w, //www.inashot.life/cdn/shop/files/RoastedPeriPeri.png?v=1794551644&width=1800 1800w, //www.inashot.life/cdn/shop/files/RoastedPeriPeri.png?v=1794551644&width=2000 2000w"
+      }
+    ],
+    "svgsCount": 41,
+    "headings": [
+      {
+        "tag": "button",
+        "text": "Filters",
+        "href": null
+      },
+      {
+        "tag": "a",
+        "text": "Clear All",
+        "href": "/collections/nuts"
+      },
+      {
+        "tag": "button",
+        "text": "Availability",
+        "href": null
+      },
+      {
+        "tag": "a",
+        "text": "Clear",
+        "href": "/collections/nuts"
+      },
+      {
+        "tag": "button",
+        "text": "Apply",
+        "href": null
+      },
+      {
+        "tag": "button",
+        "text": "Price",
+        "href": null
+      },
+      {
+        "tag": "p",
+        "text": "Rs. 0.00 ‒\n                              Rs. 1433.70",
+        "href": null
+      },
+      {
+        "tag": "a",
+        "text": "Clear",
+        "href": "/collections/nuts"
+      },
+      {
+        "tag": "button",
+        "text": "Apply",
+        "href": null
+      },
+      {
+        "tag": "button",
+        "text": "Apply",
+        "href": null
+      },
+      {
+        "tag": "a",
+        "text": "Clear All",
+        "href": "/collections/nuts"
+      },
+      {
+        "tag": "a",
+        "text": "Clear All",
+        "href": "/collections/nuts"
+      },
+      {
+        "tag": "button",
+        "text": "Add to Cart",
+        "href": null
+      },
+      {
+        "tag": "button",
+        "text": "Quick View Achari Roasted Edamame",
+        "href": null
+      },
+      {
+        "tag": "h3",
+        "text": "ACHARI ROASTED EDAMAME",
+        "href": null
+      },
+      {
+        "tag": "a",
+        "text": "ACHARI ROASTED EDAMAME",
+        "href": "/products/achari-roasted-edamame"
+      },
+      {
+        "tag": "button",
+        "text": "Add to Cart",
+        "href": null
+      },
+      {
+        "tag": "button",
+        "text": "Quick View Chilli Cheese Roasted Edamame",
+        "href": null
+      },
+      {
+        "tag": "h3",
+        "text": "CHILLI CHEESE ROASTED EDAMAME",
+        "href": null
+      },
+      {
+        "tag": "a",
+        "text": "CHILLI CHEESE ROASTED EDAMAME",
+        "href": "/products/chilly-cheese-roasted-edamame"
+      },
+      {
+        "tag": "button",
+        "text": "Quick View Peri Peri Roasted Edamame",
+        "href": null
+      },
+      {
+        "tag": "h3",
+        "text": "PERI PERI ROASTED EDAMAME",
+        "href": null
+      },
+      {
+        "tag": "a",
+        "text": "PERI PERI ROASTED EDAMAME",
+        "href": "/products/peri-peri-roasted-edamame"
+      }
+    ],
+    "innerHtmlPreview": "<link href=\"//www.inashot.life/cdn/shop/t/8/assets/template-collection.css?v=87391627709612599701794573177\" rel=\"stylesheet\" type=\"text/css\" media=\"all\">\n<link href=\"//www.inashot.life/cdn/shop/t/8/assets/component-card.css?v=148386083644052941081794573177\" rel=\"stylesheet\" type=\"text/css\" media=\"all\">\n<script src=\"//www.inashot.life/cdn/shop/t/8/assets/load-more.js?v=46764575840406831231794573177\" defer=\"defer\"></script><link href=\"//www.inashot.life/cdn/shop/t/8/assets/component-facets.css?v=127435044767610431821794573177\" rel=\"stylesheet\" type=\"text/css\" media=\"all\">\n  <script src=\"//www.inashot.life/cdn/shop/t/8/assets/facets.js?v=131185331737614630621794573177\" defer=\"defer\"></script><style data-shopify=\"\">.section-template--29572451139948__product-grid-padding {\n  padding-top: 0;\n\n  padding-bottom: 0;\n}\n\n@media screen and (min-width: 750px) { .section-template--29572451139948__product-grid-padding {\n  padding-top: 0;\n\n  padding-bottom: 0;\n} }\n\n@media screen and (min-width: 1360px) { .section-template--29572451139948__product-grid-padding {\n  padding-top: 0;\n\n  padding-bottom: 0;\n} }\n\n  #shopify-section-template--29572451139948__product-grid {\n  padding-top: 0;\n\n  padding-bottom: 5.6rem;\n}\n\n@media screen and (min-width: 750px) { #shopify-section-template--29572451139948__product-grid {\n  padding-top: 0;\n\n  padding-bottom: 7.2rem;\n} }\n\n@media screen and (min-width: 1360px) { #shopify-section-template--29572451139948__product-grid {\n  padding-top: 0;\n\n  padding-bottom: 10rem;\n\n} }\n\n</style><div class=\"main-collection-product-grid section-template--29572451139948__product-grid-padding\"><div class=\"collection-top\">\n      <div class=\"collection-top__container container\">\n<button type=\"button\" class=\"button button--transparent facets-button-show sidebar no-js-hidden focus-inset\">\n            <div class=\"button__icons\">\n              <span class=\"button__icon button__icon--1\"><svg class=\"icon icon-filter\" width=\"22\" height=\"22\" viewBox=\"0 0 22 22\" fill=\"none\" xmlns=\"h"
+  },
+  {
+    "id": "shopify-section-template--29572451139948__image_carousel_qKKQQk",
+    "tagName": "section",
+    "className": "shopify-section image-carousel-section spaced-section",
+    "previewText": "",
+    "images": [
+      {
+        "src": "https://www.inashot.life/cdn/shop/files/IN_A_Shot_Hero_Image_1.jpg?v=1794491436&width=1800",
+        "alt": "",
+        "datasetSrc": "",
+        "srcset": "//www.inashot.life/cdn/shop/files/IN_A_Shot_Hero_Image_1.jpg?v=1794491436&width=216 216w, //www.inashot.life/cdn/shop/files/IN_A_Shot_Hero_Image_1.jpg?v=1794491436&width=432 432w, //www.inashot.life/cdn/shop/files/IN_A_Shot_Hero_Image_1.jpg?v=1794491436&width=648 648w"
+      },
+      {
+        "src": "https://www.inashot.life/cdn/shop/files/IN_A_Shot_Hero_Image_2.jpg?v=1794491436&width=1800",
+        "alt": "",
+        "datasetSrc": "",
+        "srcset": "//www.inashot.life/cdn/shop/files/IN_A_Shot_Hero_Image_2.jpg?v=1794491436&width=216 216w, //www.inashot.life/cdn/shop/files/IN_A_Shot_Hero_Image_2.jpg?v=1794491436&width=432 432w, //www.inashot.life/cdn/shop/files/IN_A_Shot_Hero_Image_2.jpg?v=1794491436&width=648 648w"
+      },
+      {
+        "src": "https://www.inashot.life/cdn/shop/files/IN_A_Shot_Hero_Image_3.jpg?v=1794491435&width=1800",
+        "alt": "",
+        "datasetSrc": "",
+        "srcset": "//www.inashot.life/cdn/shop/files/IN_A_Shot_Hero_Image_3.jpg?v=1794491435&width=216 216w, //www.inashot.life/cdn/shop/files/IN_A_Shot_Hero_Image_3.jpg?v=1794491435&width=432 432w, //www.inashot.life/cdn/shop/files/IN_A_Shot_Hero_Image_3.jpg?v=1794491435&width=648 648w"
+      },
+      {
+        "src": "https://www.inashot.life/cdn/shop/files/IN_A_Shot_Hero_Image_4.jpg?v=1794491436&width=1800",
+        "alt": "",
+        "datasetSrc": "",
+        "srcset": "//www.inashot.life/cdn/shop/files/IN_A_Shot_Hero_Image_4.jpg?v=1794491436&width=216 216w, //www.inashot.life/cdn/shop/files/IN_A_Shot_Hero_Image_4.jpg?v=1794491436&width=432 432w, //www.inashot.life/cdn/shop/files/IN_A_Shot_Hero_Image_4.jpg?v=1794491436&width=648 648w"
+      },
+      {
+        "src": "https://www.inashot.life/cdn/shop/files/IN_A_Shot_Hero_Image_5_b906f8fd-13d5-4a35-88c0-dae31c64920b.jpg?v=1794491436&width=1800",
+        "alt": "",
+        "datasetSrc": "",
+        "srcset": "//www.inashot.life/cdn/shop/files/IN_A_Shot_Hero_Image_5_b906f8fd-13d5-4a35-88c0-dae31c64920b.jpg?v=1794491436&width=216 216w, //www.inashot.life/cdn/shop/files/IN_A_Shot_Hero_Image_5_b906f8fd-13d5-4a35-88c0-dae31c64920b.jpg?v=1794491436&width=432 432w, //www.inashot.life/cdn/shop/files/IN_A_Shot_Hero_Image_5_b906f8fd-13d5-4a35-88c0-dae31c64920b.jpg?v=1794491436&width=648 648w"
+      },
+      {
+        "src": "https://www.inashot.life/cdn/shop/files/IN_A_Shot_Hero_Image_6.jpg?v=1794491435&width=1800",
+        "alt": "",
+        "datasetSrc": "",
+        "srcset": "//www.inashot.life/cdn/shop/files/IN_A_Shot_Hero_Image_6.jpg?v=1794491435&width=216 216w, //www.inashot.life/cdn/shop/files/IN_A_Shot_Hero_Image_6.jpg?v=1794491435&width=432 432w, //www.inashot.life/cdn/shop/files/IN_A_Shot_Hero_Image_6.jpg?v=1794491435&width=648 648w"
+      },
+      {
+        "src": "https://www.inashot.life/cdn/shop/files/IN_A_Shot_Hero_Image_7_b99654fb-89e1-4f18-b785-8f741af549b9.png?v=1794491440&width=1800",
+        "alt": "",
+        "datasetSrc": "",
+        "srcset": "//www.inashot.life/cdn/shop/files/IN_A_Shot_Hero_Image_7_b99654fb-89e1-4f18-b785-8f741af549b9.png?v=1794491440&width=216 216w, //www.inashot.life/cdn/shop/files/IN_A_Shot_Hero_Image_7_b99654fb-89e1-4f18-b785-8f741af549b9.png?v=1794491440&width=432 432w, //www.inashot.life/cdn/shop/files/IN_A_Shot_Hero_Image_7_b99654fb-89e1-4f18-b785-8f741af549b9.png?v=1794491440&width=648 648w"
+      },
+      {
+        "src": "https://www.inashot.life/cdn/shop/files/IN_A_Shot_Hero_Image_8.jpg?v=1794491435&width=1800",
+        "alt": "",
+        "datasetSrc": "",
+        "srcset": "//www.inashot.life/cdn/shop/files/IN_A_Shot_Hero_Image_8.jpg?v=1794491435&width=216 216w, //www.inashot.life/cdn/shop/files/IN_A_Shot_Hero_Image_8.jpg?v=1794491435&width=432 432w, //www.inashot.life/cdn/shop/files/IN_A_Shot_Hero_Image_8.jpg?v=1794491435&width=648 648w"
+      },
+      {
+        "src": "https://www.inashot.life/cdn/shop/files/IN_A_Shot_Hero_Image_1.jpg?v=1794491436&width=1800",
+        "alt": "",
+        "datasetSrc": "",
+        "srcset": "//www.inashot.life/cdn/shop/files/IN_A_Shot_Hero_Image_1.jpg?v=1794491436&width=216 216w, //www.inashot.life/cdn/shop/files/IN_A_Shot_Hero_Image_1.jpg?v=1794491436&width=432 432w, //www.inashot.life/cdn/shop/files/IN_A_Shot_Hero_Image_1.jpg?v=1794491436&width=648 648w"
+      },
+      {
+        "src": "https://www.inashot.life/cdn/shop/files/IN_A_Shot_Hero_Image_2.jpg?v=1794491436&width=1800",
+        "alt": "",
+        "datasetSrc": "",
+        "srcset": "//www.inashot.life/cdn/shop/files/IN_A_Shot_Hero_Image_2.jpg?v=1794491436&width=216 216w, //www.inashot.life/cdn/shop/files/IN_A_Shot_Hero_Image_2.jpg?v=1794491436&width=432 432w, //www.inashot.life/cdn/shop/files/IN_A_Shot_Hero_Image_2.jpg?v=1794491436&width=648 648w"
+      },
+      {
+        "src": "https://www.inashot.life/cdn/shop/files/IN_A_Shot_Hero_Image_3.jpg?v=1794491435&width=1800",
+        "alt": "",
+        "datasetSrc": "",
+        "srcset": "//www.inashot.life/cdn/shop/files/IN_A_Shot_Hero_Image_3.jpg?v=1794491435&width=216 216w, //www.inashot.life/cdn/shop/files/IN_A_Shot_Hero_Image_3.jpg?v=1794491435&width=432 432w, //www.inashot.life/cdn/shop/files/IN_A_Shot_Hero_Image_3.jpg?v=1794491435&width=648 648w"
+      },
+      {
+        "src": "https://www.inashot.life/cdn/shop/files/IN_A_Shot_Hero_Image_4.jpg?v=1794491436&width=1800",
+        "alt": "",
+        "datasetSrc": "",
+        "srcset": "//www.inashot.life/cdn/shop/files/IN_A_Shot_Hero_Image_4.jpg?v=1794491436&width=216 216w, //www.inashot.life/cdn/shop/files/IN_A_Shot_Hero_Image_4.jpg?v=1794491436&width=432 432w, //www.inashot.life/cdn/shop/files/IN_A_Shot_Hero_Image_4.jpg?v=1794491436&width=648 648w"
+      },
+      {
+        "src": "https://www.inashot.life/cdn/shop/files/IN_A_Shot_Hero_Image_5_b906f8fd-13d5-4a35-88c0-dae31c64920b.jpg?v=1794491436&width=1800",
+        "alt": "",
+        "datasetSrc": "",
+        "srcset": "//www.inashot.life/cdn/shop/files/IN_A_Shot_Hero_Image_5_b906f8fd-13d5-4a35-88c0-dae31c64920b.jpg?v=1794491436&width=216 216w, //www.inashot.life/cdn/shop/files/IN_A_Shot_Hero_Image_5_b906f8fd-13d5-4a35-88c0-dae31c64920b.jpg?v=1794491436&width=432 432w, //www.inashot.life/cdn/shop/files/IN_A_Shot_Hero_Image_5_b906f8fd-13d5-4a35-88c0-dae31c64920b.jpg?v=1794491436&width=648 648w"
+      },
+      {
+        "src": "https://www.inashot.life/cdn/shop/files/IN_A_Shot_Hero_Image_6.jpg?v=1794491435&width=1800",
+        "alt": "",
+        "datasetSrc": "",
+        "srcset": "//www.inashot.life/cdn/shop/files/IN_A_Shot_Hero_Image_6.jpg?v=1794491435&width=216 216w, //www.inashot.life/cdn/shop/files/IN_A_Shot_Hero_Image_6.jpg?v=1794491435&width=432 432w, //www.inashot.life/cdn/shop/files/IN_A_Shot_Hero_Image_6.jpg?v=1794491435&width=648 648w"
+      },
+      {
+        "src": "https://www.inashot.life/cdn/shop/files/IN_A_Shot_Hero_Image_7_b99654fb-89e1-4f18-b785-8f741af549b9.png?v=1794491440&width=1800",
+        "alt": "",
+        "datasetSrc": "",
+        "srcset": "//www.inashot.life/cdn/shop/files/IN_A_Shot_Hero_Image_7_b99654fb-89e1-4f18-b785-8f741af549b9.png?v=1794491440&width=216 216w, //www.inashot.life/cdn/shop/files/IN_A_Shot_Hero_Image_7_b99654fb-89e1-4f18-b785-8f741af549b9.png?v=1794491440&width=432 432w, //www.inashot.life/cdn/shop/files/IN_A_Shot_Hero_Image_7_b99654fb-89e1-4f18-b785-8f741af549b9.png?v=1794491440&width=648 648w"
+      },
+      {
+        "src": "https://www.inashot.life/cdn/shop/files/IN_A_Shot_Hero_Image_8.jpg?v=1794491435&width=1800",
+        "alt": "",
+        "datasetSrc": "",
+        "srcset": "//www.inashot.life/cdn/shop/files/IN_A_Shot_Hero_Image_8.jpg?v=1794491435&width=216 216w, //www.inashot.life/cdn/shop/files/IN_A_Shot_Hero_Image_8.jpg?v=1794491435&width=432 432w, //www.inashot.life/cdn/shop/files/IN_A_Shot_Hero_Image_8.jpg?v=1794491435&width=648 648w"
+      },
+      {
+        "src": "https://www.inashot.life/cdn/shop/files/IN_A_Shot_Hero_Image_1.jpg?v=1794491436&width=1800",
+        "alt": "",
+        "datasetSrc": "",
+        "srcset": "//www.inashot.life/cdn/shop/files/IN_A_Shot_Hero_Image_1.jpg?v=1794491436&width=216 216w, //www.inashot.life/cdn/shop/files/IN_A_Shot_Hero_Image_1.jpg?v=1794491436&width=432 432w, //www.inashot.life/cdn/shop/files/IN_A_Shot_Hero_Image_1.jpg?v=1794491436&width=648 648w"
+      },
+      {
+        "src": "https://www.inashot.life/cdn/shop/files/IN_A_Shot_Hero_Image_2.jpg?v=1794491436&width=1800",
+        "alt": "",
+        "datasetSrc": "",
+        "srcset": "//www.inashot.life/cdn/shop/files/IN_A_Shot_Hero_Image_2.jpg?v=1794491436&width=216 216w, //www.inashot.life/cdn/shop/files/IN_A_Shot_Hero_Image_2.jpg?v=1794491436&width=432 432w, //www.inashot.life/cdn/shop/files/IN_A_Shot_Hero_Image_2.jpg?v=1794491436&width=648 648w"
+      },
+      {
+        "src": "https://www.inashot.life/cdn/shop/files/IN_A_Shot_Hero_Image_3.jpg?v=1794491435&width=1800",
+        "alt": "",
+        "datasetSrc": "",
+        "srcset": "//www.inashot.life/cdn/shop/files/IN_A_Shot_Hero_Image_3.jpg?v=1794491435&width=216 216w, //www.inashot.life/cdn/shop/files/IN_A_Shot_Hero_Image_3.jpg?v=1794491435&width=432 432w, //www.inashot.life/cdn/shop/files/IN_A_Shot_Hero_Image_3.jpg?v=1794491435&width=648 648w"
+      },
+      {
+        "src": "https://www.inashot.life/cdn/shop/files/IN_A_Shot_Hero_Image_4.jpg?v=1794491436&width=1800",
+        "alt": "",
+        "datasetSrc": "",
+        "srcset": "//www.inashot.life/cdn/shop/files/IN_A_Shot_Hero_Image_4.jpg?v=1794491436&width=216 216w, //www.inashot.life/cdn/shop/files/IN_A_Shot_Hero_Image_4.jpg?v=1794491436&width=432 432w, //www.inashot.life/cdn/shop/files/IN_A_Shot_Hero_Image_4.jpg?v=1794491436&width=648 648w"
+      },
+      {
+        "src": "https://www.inashot.life/cdn/shop/files/IN_A_Shot_Hero_Image_5_b906f8fd-13d5-4a35-88c0-dae31c64920b.jpg?v=1794491436&width=1800",
+        "alt": "",
+        "datasetSrc": "",
+        "srcset": "//www.inashot.life/cdn/shop/files/IN_A_Shot_Hero_Image_5_b906f8fd-13d5-4a35-88c0-dae31c64920b.jpg?v=1794491436&width=216 216w, //www.inashot.life/cdn/shop/files/IN_A_Shot_Hero_Image_5_b906f8fd-13d5-4a35-88c0-dae31c64920b.jpg?v=1794491436&width=432 432w, //www.inashot.life/cdn/shop/files/IN_A_Shot_Hero_Image_5_b906f8fd-13d5-4a35-88c0-dae31c64920b.jpg?v=1794491436&width=648 648w"
+      },
+      {
+        "src": "https://www.inashot.life/cdn/shop/files/IN_A_Shot_Hero_Image_6.jpg?v=1794491435&width=1800",
+        "alt": "",
+        "datasetSrc": "",
+        "srcset": "//www.inashot.life/cdn/shop/files/IN_A_Shot_Hero_Image_6.jpg?v=1794491435&width=216 216w, //www.inashot.life/cdn/shop/files/IN_A_Shot_Hero_Image_6.jpg?v=1794491435&width=432 432w, //www.inashot.life/cdn/shop/files/IN_A_Shot_Hero_Image_6.jpg?v=1794491435&width=648 648w"
+      },
+      {
+        "src": "https://www.inashot.life/cdn/shop/files/IN_A_Shot_Hero_Image_7_b99654fb-89e1-4f18-b785-8f741af549b9.png?v=1794491440&width=1800",
+        "alt": "",
+        "datasetSrc": "",
+        "srcset": "//www.inashot.life/cdn/shop/files/IN_A_Shot_Hero_Image_7_b99654fb-89e1-4f18-b785-8f741af549b9.png?v=1794491440&width=216 216w, //www.inashot.life/cdn/shop/files/IN_A_Shot_Hero_Image_7_b99654fb-89e1-4f18-b785-8f741af549b9.png?v=1794491440&width=432 432w, //www.inashot.life/cdn/shop/files/IN_A_Shot_Hero_Image_7_b99654fb-89e1-4f18-b785-8f741af549b9.png?v=1794491440&width=648 648w"
+      },
+      {
+        "src": "https://www.inashot.life/cdn/shop/files/IN_A_Shot_Hero_Image_8.jpg?v=1794491435&width=1800",
+        "alt": "",
+        "datasetSrc": "",
+        "srcset": "//www.inashot.life/cdn/shop/files/IN_A_Shot_Hero_Image_8.jpg?v=1794491435&width=216 216w, //www.inashot.life/cdn/shop/files/IN_A_Shot_Hero_Image_8.jpg?v=1794491435&width=432 432w, //www.inashot.life/cdn/shop/files/IN_A_Shot_Hero_Image_8.jpg?v=1794491435&width=648 648w"
+      },
+      {
+        "src": "https://www.inashot.life/cdn/shop/files/IN_A_Shot_Hero_Image_1.jpg?v=1794491436&width=1800",
+        "alt": "",
+        "datasetSrc": "",
+        "srcset": "//www.inashot.life/cdn/shop/files/IN_A_Shot_Hero_Image_1.jpg?v=1794491436&width=216 216w, //www.inashot.life/cdn/shop/files/IN_A_Shot_Hero_Image_1.jpg?v=1794491436&width=432 432w, //www.inashot.life/cdn/shop/files/IN_A_Shot_Hero_Image_1.jpg?v=1794491436&width=648 648w"
+      },
+      {
+        "src": "https://www.inashot.life/cdn/shop/files/IN_A_Shot_Hero_Image_2.jpg?v=1794491436&width=1800",
+        "alt": "",
+        "datasetSrc": "",
+        "srcset": "//www.inashot.life/cdn/shop/files/IN_A_Shot_Hero_Image_2.jpg?v=1794491436&width=216 216w, //www.inashot.life/cdn/shop/files/IN_A_Shot_Hero_Image_2.jpg?v=1794491436&width=432 432w, //www.inashot.life/cdn/shop/files/IN_A_Shot_Hero_Image_2.jpg?v=1794491436&width=648 648w"
+      },
+      {
+        "src": "https://www.inashot.life/cdn/shop/files/IN_A_Shot_Hero_Image_3.jpg?v=1794491435&width=1800",
+        "alt": "",
+        "datasetSrc": "",
+        "srcset": "//www.inashot.life/cdn/shop/files/IN_A_Shot_Hero_Image_3.jpg?v=1794491435&width=216 216w, //www.inashot.life/cdn/shop/files/IN_A_Shot_Hero_Image_3.jpg?v=1794491435&width=432 432w, //www.inashot.life/cdn/shop/files/IN_A_Shot_Hero_Image_3.jpg?v=1794491435&width=648 648w"
+      },
+      {
+        "src": "https://www.inashot.life/cdn/shop/files/IN_A_Shot_Hero_Image_4.jpg?v=1794491436&width=1800",
+        "alt": "",
+        "datasetSrc": "",
+        "srcset": "//www.inashot.life/cdn/shop/files/IN_A_Shot_Hero_Image_4.jpg?v=1794491436&width=216 216w, //www.inashot.life/cdn/shop/files/IN_A_Shot_Hero_Image_4.jpg?v=1794491436&width=432 432w, //www.inashot.life/cdn/shop/files/IN_A_Shot_Hero_Image_4.jpg?v=1794491436&width=648 648w"
+      },
+      {
+        "src": "https://www.inashot.life/cdn/shop/files/IN_A_Shot_Hero_Image_5_b906f8fd-13d5-4a35-88c0-dae31c64920b.jpg?v=1794491436&width=1800",
+        "alt": "",
+        "datasetSrc": "",
+        "srcset": "//www.inashot.life/cdn/shop/files/IN_A_Shot_Hero_Image_5_b906f8fd-13d5-4a35-88c0-dae31c64920b.jpg?v=1794491436&width=216 216w, //www.inashot.life/cdn/shop/files/IN_A_Shot_Hero_Image_5_b906f8fd-13d5-4a35-88c0-dae31c64920b.jpg?v=1794491436&width=432 432w, //www.inashot.life/cdn/shop/files/IN_A_Shot_Hero_Image_5_b906f8fd-13d5-4a35-88c0-dae31c64920b.jpg?v=1794491436&width=648 648w"
+      },
+      {
+        "src": "https://www.inashot.life/cdn/shop/files/IN_A_Shot_Hero_Image_6.jpg?v=1794491435&width=1800",
+        "alt": "",
+        "datasetSrc": "",
+        "srcset": "//www.inashot.life/cdn/shop/files/IN_A_Shot_Hero_Image_6.jpg?v=1794491435&width=216 216w, //www.inashot.life/cdn/shop/files/IN_A_Shot_Hero_Image_6.jpg?v=1794491435&width=432 432w, //www.inashot.life/cdn/shop/files/IN_A_Shot_Hero_Image_6.jpg?v=1794491435&width=648 648w"
+      },
+      {
+        "src": "https://www.inashot.life/cdn/shop/files/IN_A_Shot_Hero_Image_7_b99654fb-89e1-4f18-b785-8f741af549b9.png?v=1794491440&width=1800",
+        "alt": "",
+        "datasetSrc": "",
+        "srcset": "//www.inashot.life/cdn/shop/files/IN_A_Shot_Hero_Image_7_b99654fb-89e1-4f18-b785-8f741af549b9.png?v=1794491440&width=216 216w, //www.inashot.life/cdn/shop/files/IN_A_Shot_Hero_Image_7_b99654fb-89e1-4f18-b785-8f741af549b9.png?v=1794491440&width=432 432w, //www.inashot.life/cdn/shop/files/IN_A_Shot_Hero_Image_7_b99654fb-89e1-4f18-b785-8f741af549b9.png?v=1794491440&width=648 648w"
+      },
+      {
+        "src": "https://www.inashot.life/cdn/shop/files/IN_A_Shot_Hero_Image_8.jpg?v=1794491435&width=1800",
+        "alt": "",
+        "datasetSrc": "",
+        "srcset": "//www.inashot.life/cdn/shop/files/IN_A_Shot_Hero_Image_8.jpg?v=1794491435&width=216 216w, //www.inashot.life/cdn/shop/files/IN_A_Shot_Hero_Image_8.jpg?v=1794491435&width=432 432w, //www.inashot.life/cdn/shop/files/IN_A_Shot_Hero_Image_8.jpg?v=1794491435&width=648 648w"
+      }
+    ],
+    "svgsCount": 0,
+    "headings": [],
+    "innerHtmlPreview": "<link href=\"//www.inashot.life/cdn/shop/t/8/assets/section-image-carousel.css?v=67079391562091571231794573177\" rel=\"stylesheet\" type=\"text/css\" media=\"all\">\n<script src=\"//www.inashot.life/cdn/shop/t/8/assets/image-carousel.js?v=100896400750321655011794573177\" defer=\"defer\"></script>\n\n\n\n\n<style data-shopify=\"\">#shopify-section-template--29572451139948__image_carousel_qKKQQk {\n  padding-top: 0;\n\n  padding-bottom: 0;\n}\n\n@media screen and (min-width: 750px) { #shopify-section-template--29572451139948__image_carousel_qKKQQk {\n  padding-top: 0;\n\n  padding-bottom: 0;\n} }\n\n@media screen and (min-width: 1360px) { #shopify-section-template--29572451139948__image_carousel_qKKQQk {\n  padding-top: 0;\n\n  padding-bottom: 0;\n\n} }\n\n  .section-template--29572451139948__image_carousel_qKKQQk-padding {\n  padding-top: 3.2rem;\n\n  padding-bottom: 3.2rem;\n}\n\n@media screen and (min-width: 750px) { .section-template--29572451139948__image_carousel_qKKQQk-padding {\n  padding-top: 4rem;\n\n  padding-bottom: 4rem;\n} }\n\n@media screen and (min-width: 1360px) { .section-template--29572451139948__image_carousel_qKKQQk-padding {\n  padding-top: 5rem;\n\n  padding-bottom: 5rem;\n} }\n\n\n  \n.section-template--29572451139948__image_carousel_qKKQQk-padding .image-carousel__slide-image_carousel_slide_gey4J8::before {\n        content: \"\";\n        display: block;\n        width: 0;\n        padding-bottom: 133.33%;\n      }\n\n      @media screen and (min-width: 576px) {\n        .section-template--29572451139948__image_carousel_qKKQQk-padding .image-carousel__slide-image_carousel_slide_gey4J8::before {\n          content: \"\";\n          display: block;\n          width: 0;\n          padding-bottom: 133.33%;\n        }\n      }\n  \n.section-template--29572451139948__image_carousel_qKKQQk-padding .image-carousel__slide-image_carousel_slide_9N4jyW::before {\n        content: \"\";\n        display: block;\n        width: 0;\n        padding-bottom: 133.33%;\n      }\n\n      @media screen and (min-width: 576px) {\n        .section-templ"
+  },
+  {
+    "id": "shopify-section-template--29572451139948__social-media",
+    "tagName": "section",
+    "className": "shopify-section social-media-section spaced-section",
+    "previewText": "Instagram\nFacebook\n\nFOLLOW US",
+    "images": [],
+    "svgsCount": 5,
+    "headings": [
+      {
+        "tag": "a",
+        "text": "Instagram",
+        "href": "https://www.instagram.com/inashot.life"
+      },
+      {
+        "tag": "a",
+        "text": "Facebook",
+        "href": "https://www.facebook.com/inashot.life/"
+      },
+      {
+        "tag": "p",
+        "text": "FOLLOW US",
+        "href": null
+      }
+    ],
+    "innerHtmlPreview": "<link href=\"//www.inashot.life/cdn/shop/t/8/assets/section-social-media.css?v=1000965103519525811794573177\" rel=\"stylesheet\" type=\"text/css\" media=\"all\">\n<script src=\"//www.inashot.life/cdn/shop/t/8/assets/social-media.js?v=178883344589212972821794573177\" defer=\"defer\"></script><style data-shopify=\"\">.section-template--29572451139948__social-media-padding {\n  padding-top: 0;\n\n  padding-bottom: 0;\n}\n\n@media screen and (min-width: 750px) { .section-template--29572451139948__social-media-padding {\n  padding-top: 0;\n\n  padding-bottom: 0;\n} }\n\n@media screen and (min-width: 1360px) { .section-template--29572451139948__social-media-padding {\n  padding-top: 0;\n\n  padding-bottom: 0;\n} }\n\n  #shopify-section-template--29572451139948__social-media {\n  padding-top: 0;\n\n  padding-bottom: 0;\n}\n\n@media screen and (min-width: 750px) { #shopify-section-template--29572451139948__social-media {\n  padding-top: 0;\n\n  padding-bottom: 0;\n} }\n\n@media screen and (min-width: 1360px) { #shopify-section-template--29572451139948__social-media {\n  padding-top: 0;\n\n  padding-bottom: 0;\n\n} }\n\n\n  .line {\n    --stroke-color: #fedc2d;\n  }</style>\n\n<div class=\"social-media social-media--border-top social-media--border-bottom color-scheme-2808953a-3491-4eea-b87b-43455ad11a4d background section-template--29572451139948__social-media-padding\">\n  <div class=\"social-media-wrapper social-media-wrapper--socials-right\">\n    <div class=\"social-media__content social-media__content--socials-right\">\n\n      \n        \n          <ul class=\"social-media-image-wrapper social-media-image-wrapper--center\" role=\"list\"><li class=\"social-media-image\">\n                <a href=\"https://www.instagram.com/inashot.life\" class=\"social-media-image-link focus-visible button button--secondary button--social-media-icon focus-visible color-background-4 background\" aria-describedby=\"a11y-external-message\">\n                  <div class=\"button__content\">\n                    <span class=\"button__label visually-hidden\">Instagram</span>\n  "
+  },
+  {
+    "id": "shopify-section-sections--29572445634924__footer",
+    "tagName": "div",
+    "className": "shopify-section shopify-section-group-footer-group",
+    "previewText": "IN'A SHOT\nNew flavours. Exclusive drops. Early access. Don't miss out.\nEmail Address\nSign Up\n\nI agree to the Privacy Policy and Terms of Use.\n\nCONTACT\n\nEmail - cheers@inashot.life\n\nAddress - M/S IN'A SHOT, Flat No- 201, Sarika Apartment, Priyadarshi Nagar, Rupaspur, Patna, Bihar - 800014\n\nInstagram\nFacebook\nPRODUCTS\nSeed Mix\nRoasted Edamame\nCrunchy Edamame\nCUSTOMER SERVICE\nFAQs\nAccount\nContact\nINFORMATION\nPrivacy Policy\nTerms & Condition\nRefund policy\nAbout Us\n© 2026 IN'A Shot. Powered by Shopif",
+    "images": [],
+    "svgsCount": 6,
+    "headings": [
+      {
+        "tag": "a",
+        "text": "IN'A SHOT",
+        "href": "/"
+      },
+      {
+        "tag": "button",
+        "text": "Sign Up",
+        "href": null
+      },
+      {
+        "tag": "p",
+        "text": "I agree to the Privacy Policy and Terms of Use.",
+        "href": null
+      },
+      {
+        "tag": "p",
+        "text": "This field is required",
+        "href": null
+      },
+      {
+        "tag": "h3",
+        "text": "CONTACT",
+        "href": null
+      },
+      {
+        "tag": "p",
+        "text": "Email - cheers@inashot.life",
+        "href": null
+      },
+      {
+        "tag": "p",
+        "text": "Address - M/S IN'A SHOT, Flat No- 201, Sarika Apartment, Priyadarshi Nagar, Rupaspur, Patna, Bihar - 800014",
+        "href": null
+      },
+      {
+        "tag": "a",
+        "text": "Instagram",
+        "href": "https://www.instagram.com/inashot.life"
+      },
+      {
+        "tag": "a",
+        "text": "Facebook",
+        "href": "https://www.facebook.com/inashot.life/"
+      },
+      {
+        "tag": "h2",
+        "text": "Products",
+        "href": null
+      },
+      {
+        "tag": "a",
+        "text": "Seed Mix",
+        "href": "/collections/edamame"
+      },
+      {
+        "tag": "a",
+        "text": "Roasted Edamame",
+        "href": "/collections/nuts"
+      },
+      {
+        "tag": "a",
+        "text": "Crunchy Edamame",
+        "href": "/collections/crunchy-edamame"
+      },
+      {
+        "tag": "h2",
+        "text": "PRODUCTS",
+        "href": null
+      },
+      {
+        "tag": "a",
+        "text": "Seed Mix",
+        "href": "/collections/edamame"
+      },
+      {
+        "tag": "a",
+        "text": "Roasted Edamame",
+        "href": "/collections/nuts"
+      },
+      {
+        "tag": "a",
+        "text": "Crunchy Edamame",
+        "href": "/collections/crunchy-edamame"
+      },
+      {
+        "tag": "h2",
+        "text": "Customer Service",
+        "href": null
+      },
+      {
+        "tag": "a",
+        "text": "FAQs",
+        "href": "/pages/faq"
+      },
+      {
+        "tag": "a",
+        "text": "Account",
+        "href": "https://shopify.com/98472821100/account/profile?locale=en&region_country=IN&buyer_flags=eyJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJqc3A3OWItbTcubXlzaG9waWZ5LmNvbSIsImZsYWdzIjpbXSwiZXhwIjoxNzk1NTcyMzYwLCJuYmYiOjE3OTQ5Njc1NjB9.Rr2mmi-Q2dKY_t9sMaj7Gg9t-5wwDMp4xeCEeAv7MQI"
+      },
+      {
+        "tag": "a",
+        "text": "Contact",
+        "href": "/pages/contact"
+      },
+      {
+        "tag": "h2",
+        "text": "CUSTOMER SERVICE",
+        "href": null
+      },
+      {
+        "tag": "a",
+        "text": "FAQs",
+        "href": "/pages/faq"
+      },
+      {
+        "tag": "a",
+        "text": "Account",
+        "href": "https://shopify.com/98472821100/account/profile?locale=en&region_country=IN&buyer_flags=eyJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJqc3A3OWItbTcubXlzaG9waWZ5LmNvbSIsImZsYWdzIjpbXSwiZXhwIjoxNzk1NTcyMzYwLCJuYmYiOjE3OTQ5Njc1NjB9.Rr2mmi-Q2dKY_t9sMaj7Gg9t-5wwDMp4xeCEeAv7MQI"
+      },
+      {
+        "tag": "a",
+        "text": "Contact",
+        "href": "/pages/contact"
+      },
+      {
+        "tag": "h2",
+        "text": "Information",
+        "href": null
+      },
+      {
+        "tag": "a",
+        "text": "Privacy Policy",
+        "href": "/policies/privacy-policy"
+      },
+      {
+        "tag": "a",
+        "text": "Terms & Condition",
+        "href": "/"
+      },
+      {
+        "tag": "a",
+        "text": "Refund policy",
+        "href": "/policies/refund-policy"
+      },
+      {
+        "tag": "a",
+        "text": "About Us",
+        "href": "/pages/about-us"
+      },
+      {
+        "tag": "h2",
+        "text": "INFORMATION",
+        "href": null
+      },
+      {
+        "tag": "a",
+        "text": "Privacy Policy",
+        "href": "/policies/privacy-policy"
+      },
+      {
+        "tag": "a",
+        "text": "Terms & Condition",
+        "href": "/"
+      },
+      {
+        "tag": "a",
+        "text": "Refund policy",
+        "href": "/policies/refund-policy"
+      },
+      {
+        "tag": "a",
+        "text": "About Us",
+        "href": "/pages/about-us"
+      },
+      {
+        "tag": "a",
+        "text": "IN'A Shot",
+        "href": "/"
+      },
+      {
+        "tag": "a",
+        "text": "Powered by Shopify",
+        "href": "https://www.shopify.com?utm_campaign=poweredby&utm_medium=shopify&utm_source=onlinestore"
+      }
+    ],
+    "innerHtmlPreview": "<link href=\"//www.inashot.life/cdn/shop/t/8/assets/section-footer.css?v=81691204550392207471794573177\" rel=\"stylesheet\" type=\"text/css\" media=\"all\"><script src=\"//www.inashot.life/cdn/shop/t/8/assets/footer.js?v=34419994363572008291794573177\" defer=\"defer\"></script>\n\n<style data-shopify=\"\">\n  #shopify-section-sections--29572445634924__footer {\n  padding-top: 0;\n\n  padding-bottom: 0;\n}\n\n@media screen and (min-width: 750px) { #shopify-section-sections--29572445634924__footer {\n  padding-top: 0;\n\n  padding-bottom: 0;\n} }\n\n@media screen and (min-width: 1360px) { #shopify-section-sections--29572445634924__footer {\n  padding-top: 0;\n\n  padding-bottom: 0;\n\n} }\n\n</style>\n\n<footer class=\"footer color-scheme-532186f7-5400-4da8-867a-7eceb69be8ce background\"><div class=\"footer-top-container\">\n      <div class=\"container\">\n        <div class=\"footer-top\" style=\"--footer-logo-width: 420px;\">\n          \n<a href=\"/\" class=\"footer-logo focus-inset\"><span class=\"footer-logo__text h3\">IN'A Shot</span></a>\n<div class=\"footer-subscribe-form-container\">\n              <form method=\"post\" action=\"/contact#contact_form\" id=\"contact_form\" accept-charset=\"UTF-8\" class=\"footer-subscribe-form\"><input type=\"hidden\" name=\"form_type\" value=\"customer\" style=\"\"><input type=\"hidden\" name=\"utf8\" value=\"✓\" style=\"\">\n<div class=\"footer-subscribe-form__text body-normal\">\n                    New flavours. Exclusive drops. Early access. Don't miss out.\n                  </div><div class=\"footer-subscribe-form__main\">\n                  <div class=\"footer-subscribe-form__inner\">\n                    <input type=\"hidden\" name=\"contact[tags]\" value=\"newsletter\" style=\"\">\n                    <div class=\"footer-subscribe-form__input-wrapper\">\n                      <input id=\"NewsletterForm--sections--29572445634924__footer\" type=\"email\" dir=\"ltr\" name=\"contact[email]\" display:=\"\" block;=\"\" class=\"footer-subscribe-form__input\" value=\"\" aria-required=\"true\" autocorrect=\"off\" autocapitalize=\"off\" autocomplete=\"email"
+  },
+  {
+    "id": "section-7",
+    "tagName": "footer",
+    "className": "footer color-scheme-532186f7-5400-4da8-867a-7eceb69be8ce background",
+    "previewText": "IN'A SHOT\nNew flavours. Exclusive drops. Early access. Don't miss out.\nEmail Address\nSign Up\n\nI agree to the Privacy Policy and Terms of Use.\n\nCONTACT\n\nEmail - cheers@inashot.life\n\nAddress - M/S IN'A SHOT, Flat No- 201, Sarika Apartment, Priyadarshi Nagar, Rupaspur, Patna, Bihar - 800014\n\nInstagram\nFacebook\nPRODUCTS\nSeed Mix\nRoasted Edamame\nCrunchy Edamame\nCUSTOMER SERVICE\nFAQs\nAccount\nContact\nINFORMATION\nPrivacy Policy\nTerms & Condition\nRefund policy\nAbout Us\n© 2026 IN'A Shot. Powered by Shopif",
+    "images": [],
+    "svgsCount": 6,
+    "headings": [
+      {
+        "tag": "a",
+        "text": "IN'A SHOT",
+        "href": "/"
+      },
+      {
+        "tag": "button",
+        "text": "Sign Up",
+        "href": null
+      },
+      {
+        "tag": "p",
+        "text": "I agree to the Privacy Policy and Terms of Use.",
+        "href": null
+      },
+      {
+        "tag": "p",
+        "text": "This field is required",
+        "href": null
+      },
+      {
+        "tag": "h3",
+        "text": "CONTACT",
+        "href": null
+      },
+      {
+        "tag": "p",
+        "text": "Email - cheers@inashot.life",
+        "href": null
+      },
+      {
+        "tag": "p",
+        "text": "Address - M/S IN'A SHOT, Flat No- 201, Sarika Apartment, Priyadarshi Nagar, Rupaspur, Patna, Bihar - 800014",
+        "href": null
+      },
+      {
+        "tag": "a",
+        "text": "Instagram",
+        "href": "https://www.instagram.com/inashot.life"
+      },
+      {
+        "tag": "a",
+        "text": "Facebook",
+        "href": "https://www.facebook.com/inashot.life/"
+      },
+      {
+        "tag": "h2",
+        "text": "Products",
+        "href": null
+      },
+      {
+        "tag": "a",
+        "text": "Seed Mix",
+        "href": "/collections/edamame"
+      },
+      {
+        "tag": "a",
+        "text": "Roasted Edamame",
+        "href": "/collections/nuts"
+      },
+      {
+        "tag": "a",
+        "text": "Crunchy Edamame",
+        "href": "/collections/crunchy-edamame"
+      },
+      {
+        "tag": "h2",
+        "text": "PRODUCTS",
+        "href": null
+      },
+      {
+        "tag": "a",
+        "text": "Seed Mix",
+        "href": "/collections/edamame"
+      },
+      {
+        "tag": "a",
+        "text": "Roasted Edamame",
+        "href": "/collections/nuts"
+      },
+      {
+        "tag": "a",
+        "text": "Crunchy Edamame",
+        "href": "/collections/crunchy-edamame"
+      },
+      {
+        "tag": "h2",
+        "text": "Customer Service",
+        "href": null
+      },
+      {
+        "tag": "a",
+        "text": "FAQs",
+        "href": "/pages/faq"
+      },
+      {
+        "tag": "a",
+        "text": "Account",
+        "href": "https://shopify.com/98472821100/account/profile?locale=en&region_country=IN&buyer_flags=eyJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJqc3A3OWItbTcubXlzaG9waWZ5LmNvbSIsImZsYWdzIjpbXSwiZXhwIjoxNzk1NTcyMzYwLCJuYmYiOjE3OTQ5Njc1NjB9.Rr2mmi-Q2dKY_t9sMaj7Gg9t-5wwDMp4xeCEeAv7MQI"
+      },
+      {
+        "tag": "a",
+        "text": "Contact",
+        "href": "/pages/contact"
+      },
+      {
+        "tag": "h2",
+        "text": "CUSTOMER SERVICE",
+        "href": null
+      },
+      {
+        "tag": "a",
+        "text": "FAQs",
+        "href": "/pages/faq"
+      },
+      {
+        "tag": "a",
+        "text": "Account",
+        "href": "https://shopify.com/98472821100/account/profile?locale=en&region_country=IN&buyer_flags=eyJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJqc3A3OWItbTcubXlzaG9waWZ5LmNvbSIsImZsYWdzIjpbXSwiZXhwIjoxNzk1NTcyMzYwLCJuYmYiOjE3OTQ5Njc1NjB9.Rr2mmi-Q2dKY_t9sMaj7Gg9t-5wwDMp4xeCEeAv7MQI"
+      },
+      {
+        "tag": "a",
+        "text": "Contact",
+        "href": "/pages/contact"
+      },
+      {
+        "tag": "h2",
+        "text": "Information",
+        "href": null
+      },
+      {
+        "tag": "a",
+        "text": "Privacy Policy",
+        "href": "/policies/privacy-policy"
+      },
+      {
+        "tag": "a",
+        "text": "Terms & Condition",
+        "href": "/"
+      },
+      {
+        "tag": "a",
+        "text": "Refund policy",
+        "href": "/policies/refund-policy"
+      },
+      {
+        "tag": "a",
+        "text": "About Us",
+        "href": "/pages/about-us"
+      },
+      {
+        "tag": "h2",
+        "text": "INFORMATION",
+        "href": null
+      },
+      {
+        "tag": "a",
+        "text": "Privacy Policy",
+        "href": "/policies/privacy-policy"
+      },
+      {
+        "tag": "a",
+        "text": "Terms & Condition",
+        "href": "/"
+      },
+      {
+        "tag": "a",
+        "text": "Refund policy",
+        "href": "/policies/refund-policy"
+      },
+      {
+        "tag": "a",
+        "text": "About Us",
+        "href": "/pages/about-us"
+      },
+      {
+        "tag": "a",
+        "text": "IN'A Shot",
+        "href": "/"
+      },
+      {
+        "tag": "a",
+        "text": "Powered by Shopify",
+        "href": "https://www.shopify.com?utm_campaign=poweredby&utm_medium=shopify&utm_source=onlinestore"
+      }
+    ],
+    "innerHtmlPreview": "<div class=\"footer-top-container\">\n      <div class=\"container\">\n        <div class=\"footer-top\" style=\"--footer-logo-width: 420px;\">\n          \n<a href=\"/\" class=\"footer-logo focus-inset\"><span class=\"footer-logo__text h3\">IN'A Shot</span></a>\n<div class=\"footer-subscribe-form-container\">\n              <form method=\"post\" action=\"/contact#contact_form\" id=\"contact_form\" accept-charset=\"UTF-8\" class=\"footer-subscribe-form\"><input type=\"hidden\" name=\"form_type\" value=\"customer\" style=\"\"><input type=\"hidden\" name=\"utf8\" value=\"✓\" style=\"\">\n<div class=\"footer-subscribe-form__text body-normal\">\n                    New flavours. Exclusive drops. Early access. Don't miss out.\n                  </div><div class=\"footer-subscribe-form__main\">\n                  <div class=\"footer-subscribe-form__inner\">\n                    <input type=\"hidden\" name=\"contact[tags]\" value=\"newsletter\" style=\"\">\n                    <div class=\"footer-subscribe-form__input-wrapper\">\n                      <input id=\"NewsletterForm--sections--29572445634924__footer\" type=\"email\" dir=\"ltr\" name=\"contact[email]\" display:=\"\" block;=\"\" class=\"footer-subscribe-form__input\" value=\"\" aria-required=\"true\" autocorrect=\"off\" autocapitalize=\"off\" autocomplete=\"email\" pattern=\"[a-z0-9._%+\\-]+@[a-z0-9.\\-]+\\.[a-z]{2,}$\" placeholder=\"Email Address\" required=\"\" style=\"\">\n                      <label class=\"visually-hidden\" for=\"NewsletterForm--sections--29572445634924__footer\">Email Address</label>\n                    </div>\n                    <button type=\"submit\" class=\"button button--primary\">\n                      <div class=\"button__content\">\n                        \n                        <span class=\"button__label\" data-label=\"Sign Up\">Sign Up</span>\n                      </div>\n                      <span class=\"animated-button-circle\"></span>\n                    </button>\n                  </div><div class=\"footer-subscribe-form-checkbox\" style=\"padding-left: 0px;\">\n                      <input type=\"c"
+  }
+]

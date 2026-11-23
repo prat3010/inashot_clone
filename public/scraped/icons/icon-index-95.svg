@@ -1,0 +1,14 @@
+<svg viewBox="0 0 132 132">
+              <defs>
+                <path id="circlePath" d="
+                    M 66,66
+                    m -38, 0
+                    a 38,38 0 1,1 76,0
+                    a 38,38 0 1,1 -76,0" transform="rotate(180,66,66)"></path>
+              </defs>
+              <text>
+                <textPath xlink:href="#circlePath" textLength="200">
+                  10G   PROTEIN   PACK
+                </textPath>
+              </text>
+            </svg>

@@ -1,0 +1,1197 @@
+<div id="shopify-section-sections--29572445733228__header" class="shopify-section shopify-section-group-header-group shopify-section-header"><script src="//www.inashot.life/cdn/shop/t/8/assets/header.js?v=101612012280570871781794573177" defer="defer"></script><link rel="stylesheet" href="//www.inashot.life/cdn/shop/t/8/assets/component-search.css?v=113360489914788872261794573177" media="all" onload="this.media='all'">
+  <link rel="stylesheet" href="//www.inashot.life/cdn/shop/t/8/assets/component-card-small.css?v=51176768967371378641794573177" media="all" onload="this.media='all'"><link rel="stylesheet" href="//www.inashot.life/cdn/shop/t/8/assets/component-desktop-burger.css?v=36803469559730762771794573177" media="all" onload="this.media='all'"><style>
+    :root {
+      --header-height: 86px;
+    }
+  </style><style>
+  @media screen and (min-width: 1100px) {
+    header-drawer {
+      display: none;
+    }
+  }
+
+  burger-menu {
+    position: relative;
+  }
+
+  .burger-menu {
+    position: fixed;
+    z-index: 1000;
+    width: 100%;
+    height: calc(100vh - (var(--ann-height)));
+    height: calc(var(--vh, 1vh) * 100 - var(--ann-height));
+    height: calc(100dvh - var(--ann-height));
+    top: 0;
+    left: 0;
+    pointer-events: none;
+    visibility: hidden;
+    opacity: 0;
+    background-color: rgb(var(--color-background));
+    transition: opacity 0.35s ease, visibility 0.35s ease;
+    display: flex;
+    overflow: hidden;
+  }
+
+  .burger-menu__button {
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 2.4rem;
+    height: 2.4rem;
+    background: transparent;
+    color: rgb(var(--color-foreground));
+    transition: opacity var(--duration-default) ease-in-out;
+    transform: translateZ(0);
+    backface-visibility: hidden;
+  }
+
+  .burger-menu__button svg {
+    transition: color 0.4s cubic-bezier(0.602, 0.007, 0.374, 0.995);
+  }
+
+  @media screen and (hover: hover) and (pointer: fine) {
+    .burger-menu__button:hover {
+      opacity: var(--hover-opacity);
+    }
+  }
+
+  .list-menu {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+
+  .list-menu__item {
+    display: inline;
+  }
+
+  .list-menu__item--link {
+    text-decoration: none;
+    padding-bottom: 1rem;
+    padding-top: 1rem;
+  }
+
+  @media screen and (min-width: 750px) {
+    .list-menu__item--link {
+      padding-bottom: 1rem;
+      padding-top: 1rem;
+    }
+  }
+
+  
+
+  .header__menu-item,
+  .header__heading-link,
+  .header__cart,
+  .menu-drawer__utility-account-body,
+  .menu-drawer__menu-item,
+  .mobile-mega-menu__tab,
+  .mega-menu__menu-list-link,
+  .predictive-search__result-tab-title,
+  .mega-menu-menu__heading, 
+  .mobile-mega-menu-menu__heading,
+  .header__search-subtitle,
+  .menu-drawer__search-and-account,
+  .header__column .header__search-text, 
+  .header__column .header__localization-button,
+  .header__account-text {
+    font-family: var(--font-header-menu-family);
+    font-style: var(--font-header-menu-style);
+    font-weight: var(--font-header-menu-weight);
+    font-size: calc(var(--font-header-menu-text-scale) * 1rem);
+    text-transform: var(--font-header-menu-text-transform);
+    letter-spacing: var(--font-header-menu-letter-spacing);
+  }
+
+  .header__account-text {
+    text-rendering: geometricPrecision;
+  }
+
+  .mega-menu-menu__heading, 
+  .mobile-mega-menu-menu__heading,
+  .header__search-subtitle {
+    font-weight: bold;
+  }
+</style><style>
+  body:has(main > .overlay-section:first-child) .shopify-section-header:not(.shopify-section-header-sticky) .header-wrapper,
+  body:has(main > .overlay-section:first-child) .shopify-section-header:not(.shopify-section-header-sticky) .header-compact__wrapper,
+  body:has(main > .overlay-section:first-child) .shopify-section-header:not(.shopify-section-header-sticky) .header-burger__burger,
+  body:has(main > .overlay-section:first-child) .shopify-section-header:not(.shopify-section-header-sticky) .header-burger__cart {
+   	--color-background: 0,0,0;
+   	--color-background-secondary: 55,55,55;
+   	--color-foreground: 255,255,255;
+   	--color-foreground-secondary: 255, 255, 255;
+   	--color-border: 255,255,255;
+   }
+
+   body:has(main > .overlay-section:first-child) .shopify-section-header:not(.shopify-section-header-sticky) .header-wrapper.header-wrapper--full {
+    	background: transparent;
+   }
+
+      
+
+      @media screen and (hover: hover) and (pointer: fine) {
+        body:has(main > .overlay-section:first-child) .shopify-section-header:not(.shopify-section-header-sticky):hover .header-wrapper.header-wrapper--full {
+          --color-background: 0,0,0;
+          --color-background-secondary: 55,55,55;
+          --color-foreground: 255,255,255;
+          --color-foreground-secondary: 255, 255, 255;
+          --color-border: 255,255,255;
+        }
+
+        body:has(main > .overlay-section:first-child) .shopify-section-header:not(.shopify-section-header-sticky):hover .header-wrapper.header-wrapper--full {
+          background: rgb(var(--color-background));
+        }}
+
+      
+      .shopify-section-header ~ main > .overlay-section:first-child {
+        margin-top: calc(-1 * var(--header-height)) !important;
+      }
+
+      .shopify-section-header ~ main > .overlay-section:first-child .image-parallax-with-text-container {
+        padding-top: var(--header-height) !important;
+      }
+
+      .shopify-section-header ~ main > .overlay-section:first-child .slideshow-type-1 {
+        padding-top: var(--header-height) !important;
+      }
+
+      .shopify-section-header ~ main > .overlay-section:first-child .hero-main {
+        padding-top: var(--header-height) !important;
+      }
+
+      .shopify-section-header:has(.header-burger) ~ main > .overlay-section:first-child .hero-main {
+        padding-top: 0 !important;
+      }
+
+      @media screen and (max-width: 989.99px) {
+        .shopify-section-header:has(.header-burger) ~ main > .overlay-section:first-child .hero-content {
+          padding-top: var(--header-height) !important;
+        }
+      }
+
+      @media screen and (min-width: 990px) {
+        .shopify-section-header:has(.header-burger) ~ main > .overlay-section:first-child .hero-content {
+          padding-top: 1.6rem !important;
+        }
+      }
+
+      @media screen and (max-width: 749.99px) {
+        .shopify-section-header ~ main > .overlay-section:first-child .slideshow--mobile-full-height::before {
+          padding-bottom: calc((var(--vh, 1vh) * 100) - var(--announcement-height)) !important;
+          padding-bottom: calc(100svh - var(--announcement-height)) !important;
+        }
+
+        .shopify-section-header ~ main > .overlay-section:first-child .slideshow-type-2.slideshow--mobile-full-height {
+          height: calc((var(--vh, 1vh) * 100) - var(--announcement-height)) !important;
+          height: calc(100svh - var(--announcement-height)) !important;
+        }
+      }
+
+      @media screen and (min-width: 750px) {
+        .shopify-section-header ~ main > .overlay-section:first-child .slideshow--desktop-full-height::before {
+          padding-bottom: calc((var(--vh, 1vh) * 100) - var(--announcement-height)) !important;
+          padding-bottom: calc(100svh - var(--announcement-height)) !important;
+        }
+
+        .shopify-section-header ~ main > .overlay-section:first-child .slideshow-type-2.slideshow--desktop-full-height {
+          height: calc((var(--vh, 1vh) * 100) - var(--announcement-height)) !important;
+          height: calc(100svh - var(--announcement-height)) !important;
+        }
+      }
+
+      @media screen and (max-width: 749.99px) {
+        .shopify-section-header ~ main > .overlay-section:first-child .slideshow-type-1.slideshow--mobile-full-height::before {
+          padding-bottom: calc((var(--vh, 1vh) * 100) - var(--announcement-height) - var(--header-height)) !important;
+          padding-bottom: calc(100svh - var(--announcement-height) - var(--header-height)) !important;
+        }
+      }
+
+      @media screen and (min-width: 750px) {
+        .shopify-section-header ~ main > .overlay-section:first-child .slideshow-type-1.slideshow--desktop-full-height::before {
+          padding-bottom: calc((var(--vh, 1vh) * 100) - var(--announcement-height) - var(--header-height)) !important;
+          padding-bottom: calc(100svh - var(--announcement-height) - var(--header-height)) !important;
+        }
+      }
+
+      @media screen and (max-width: 575.99px) {
+        .shopify-section-header ~ main > .overlay-section:first-child .hero--mobile-full-height::before {
+          padding-bottom: calc((var(--vh, 1vh) * 100) - var(--announcement-height)) !important;
+          padding-bottom: calc(100svh - var(--announcement-height)) !important;
+        }
+      }
+
+      @media screen and (min-width: 576px) {
+        .shopify-section-header ~ main > .overlay-section:first-child .hero--desktop-full-height::before {
+          padding-bottom: calc((var(--vh, 1vh) * 100) - var(--announcement-height)) !important;
+          padding-bottom: calc(100svh - var(--announcement-height)) !important;
+        }
+      }
+</style>
+
+<script src="//www.inashot.life/cdn/shop/t/8/assets/details-disclosure.js?v=136346506035946899621794573177" defer="defer"></script>
+<sticky-header data-sticky-type="on-scroll-up" class="header-wrapper header-wrapper--compact"><header class="header header-compact header--left-logo header--has-menu header--overlay-mode container">
+  
+
+  
+    <div class="header-compact__wrapper color-background-4">
+  <burger-menu>
+  
+
+  <style>
+    @media screen and (min-height: 400px) and (min-width: 750px) {
+      .burger-menu__menu--with-image,
+      .burger-menu__menu:has(.burger-menu__image-wrapper) {
+        padding-inline-end: 34rem;
+      }
+    }
+
+    @media screen and (min-height: 400px) and (min-width: 990px) {
+      .burger-menu__menu--with-image,
+      .burger-menu__menu:has(.burger-menu__image-wrapper) {
+        padding-inline-end: 44rem;
+      }
+    }
+
+    @media screen and (max-height: 399px) {
+      .burger-menu__menu--with-image,
+      .burger-menu__menu:has(.burger-menu__image-wrapper) {
+        min-height: 400px;
+      }
+
+      .burger-menu__image-wrapper--main {
+        position: static;
+      }
+
+      .burger-menu__image-wrapper--link {
+        justify-content: flex-start;
+      }
+    }
+  </style>
+  <div class="burger-menu__container" style="--image-height: 400px;"><button class="burger-menu__button burger-menu__open button--unstyled focus-inset no-js-hidden" aria-label="Open desktop burger menu">
+        <svg class="icon icon-hamburger" width="22" height="16" viewBox="0 0 22 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M22 15C22 15.5523 21.5523 16 21 16H1C0.447716 16 0 15.5523 0 15C0 14.4477 0.447715 14 1 14H21C21.5523 14 22 14.4477 22 15ZM22 8C22 8.55229 21.5523 9 21 9H1C0.447716 9 0 8.55229 0 8C0 7.44772 0.447715 7 1 7H21C21.5523 7 22 7.44772 22 8ZM22 1C22 1.55228 21.5523 2 21 2H1C0.447716 2 0 1.55228 0 1C0 0.447715 0.447715 0 1 0H21C21.5523 0 22 0.447715 22 1Z" fill="currentColor"></path>
+</svg>
+      </button><div class="burger-menu color-scheme-2808953a-3491-4eea-b87b-43455ad11a4d" role="dialog" aria-modal="true" aria-label="Burger menu" tabindex="-1">
+      <div class="burger-menu__wrapper">
+        <div class="burger-menu__top">
+          <button class="burger-menu__close button--unstyled focus-inset modal-close-button" aria-label="Close desktop burger menu">
+            <svg class="icon icon-close" width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M20 4L4 20M20 20L4 4.00001" stroke="currentColor" stroke-width="1.5" stroke-linecap="square"></path>
+</svg>
+
+          </button>
+
+          
+
+          
+          <a href="/" class="header__heading-link focus-inset 1.0" style="width: 56px; --padding_bottom: 100.0%; "><img srcset="//www.inashot.life/cdn/shop/files/logo_in_a_shot_d764db0c-90a3-4ef9-af49-a3c5ef4b0dc2.png?v=1776246475&amp;width=56 1x, //www.inashot.life/cdn/shop/files/logo_in_a_shot_d764db0c-90a3-4ef9-af49-a3c5ef4b0dc2.png?v=1776246475&amp;width=112 2x" src="//www.inashot.life/cdn/shop/files/logo_in_a_shot_d764db0c-90a3-4ef9-af49-a3c5ef4b0dc2.png?v=1776246475&amp;width=56" class="header__heading-logo" width="56" height="auto" alt="IN'A Shot" loading="lazy"></a>
+
+          <div class="burger-menu__icons"><div class="burger-menu__icons-wrapper"><header-search class="header__search header__search--icon">
+  <a href="/search" class="header__icon header__icon--search focus-inset modal__toggle" aria-haspopup="dialog" role="button" aria-label="Search">
+    
+      <svg class="icon icon-search" width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path fill-rule="evenodd" clip-rule="evenodd" d="M10.812 18.624C15.1265 18.624 18.624 15.1265 18.624 10.812C18.624 6.49756 15.1265 3 10.812 3C6.49756 3 3 6.49756 3 10.812C3 15.1265 6.49756 18.624 10.812 18.624Z" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"></path>
+  <path d="M16.2559 16.7383L20.5151 21.006" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"></path>
+</svg>
+    
+    
+  </a>
+  <div class="header__search-overlay"></div>
+  <div class="header__search-inner search color-background-1" role="dialog" aria-modal="true" aria-label="Search">
+    <div class="header__search-content">
+      <div class="header__search-container">
+        <div class="container">
+          <div class="header__search-heading">
+            <button class="header__search-close focus-inset body-normal" aria-label="Close">
+              <svg class="icon icon-close" width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M20 4L4 20M20 20L4 4.00001" stroke="currentColor" stroke-width="1.5" stroke-linecap="square"></path>
+</svg>
+
+            </button>
+          </div>
+        </div><predictive-search class="search-modal__form" data-loading-text="Loading..."><form action="/search" method="get" role="search" class="search search__form">
+            <div class="search__form-inner">
+              <div class="container">
+                <div class="field">
+                  
+                  <input class="search__input h2" id="Search-In-Modal" type="search" dir="ltr" name="q" value="" placeholder="Search..." role="combobox" aria-expanded="false" aria-owns="predictive-search-results-list" aria-controls="predictive-search-results-list" aria-haspopup="listbox" aria-autocomplete="list" autocorrect="off" autocomplete="off" autocapitalize="off" spellcheck="false">
+                  <label class="visually-hidden" for="Search-In-Modal">Search</label>
+                  <input type="hidden" name="options[prefix]" value="last">
+                  <button class="search__button field__button focus-inset" aria-label="Search">
+                    <svg class="icon icon-search-input" width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M27.8435 29.0455C28.1755 29.3774 28.7136 29.3774 29.0456 29.0455C29.3775 28.7135 29.3775 28.1753 29.0456 27.8434L28.4446 28.4444L27.8435 29.0455ZM24.0524 13.8039H23.2024C23.2024 18.9945 18.9946 23.2023 13.804 23.2023V24.0523V24.9023C19.9335 24.9023 24.9024 19.9334 24.9024 13.8039H24.0524ZM13.804 24.0523V23.2023C8.61346 23.2023 4.40566 18.9945 4.40566 13.8039H3.55566H2.70566C2.70566 19.9334 7.67457 24.9023 13.804 24.9023V24.0523ZM3.55566 13.8039H4.40566C4.40566 8.61333 8.61346 4.40554 13.804 4.40554V3.55554V2.70554C7.67457 2.70554 2.70566 7.67445 2.70566 13.8039H3.55566ZM13.804 3.55554V4.40554C18.9946 4.40554 23.2024 8.61333 23.2024 13.8039H24.0524H24.9024C24.9024 7.67445 19.9335 2.70554 13.804 2.70554V3.55554ZM21.1243 21.1242L20.5233 21.7252L27.8435 29.0455L28.4446 28.4444L29.0456 27.8434L21.7253 20.5231L21.1243 21.1242Z" fill="currentColor"></path>
+</svg>
+
+                  </button>
+                  <button class="search__button search__button--reset field__button focus-inset hidden" aria-label="Reset search">
+                    <svg class="icon icon-close" width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M20 4L4 20M20 20L4 4.00001" stroke="currentColor" stroke-width="1.5" stroke-linecap="square"></path>
+</svg>
+
+                  </button>
+                </div>
+              </div>
+            </div><div class="predictive-search predictive-search--header container" tabindex="-1" data-predictive-search="">
+                <div class="predictive-search__loading-state">
+                  <svg aria-hidden="true" focusable="false" role="presentation" class="spinner" viewBox="0 0 66 66" xmlns="http://www.w3.org/2000/svg">
+  <circle class="path" fill="none" stroke-width="5" cx="33" cy="33" r="30"></circle>
+</svg>
+
+                </div>
+              </div>
+
+              <span class="predictive-search-status visually-hidden" role="status" aria-hidden="true"></span></form></predictive-search><div class="container" data-header-popular="">
+            <div class="header__search-wrapper header__search-wrapper--2-menus"><div class="header__search-popular">
+                  
+                    <div class="header__search-subtitle">
+                      Popular searches
+                    </div>
+                  
+                  <div class="header__search-popular-links body-small"><a href="/collections/nuts" class="header__search-popular-link" aria-label="Seed mix">
+                        <span>Seed mix</span>
+                      </a></div>
+                </div><div class="header__search-products-wrapper"><div class="header__search-subtitle">
+                      Popular items
+                    </div><div class="header__search-products">
+                        
+
+
+
+
+<product-card-small class="card-small js-color-swatches-wrapper color-scheme-2808953a-3491-4eea-b87b-43455ad11a4d" data-product="chilly-cheese-roasted-edamame" data-product-title="Chilli Cheese Roasted Edamame" data-product-columns="" data-product-img-ratio="0.76" data-product-img-fit="cover">
+  <div class="card-small-image-link-wrapper card-small-image-link-wrapper--hover-secondary_image" tabindex="-1">
+    
+    <div class="card-small-media" style="padding-bottom: 130.8%;">
+<img src="//www.inashot.life/cdn/shop/files/Basket1_29234f3b-a4c4-4d73-ad5e-0e3512367e00.png?v=1794314079&amp;width=4267" alt="Chilli Cheese Roasted Edamame" srcset="//www.inashot.life/cdn/shop/files/Basket1_29234f3b-a4c4-4d73-ad5e-0e3512367e00.png?v=1794314079&amp;width=360 360w, //www.inashot.life/cdn/shop/files/Basket1_29234f3b-a4c4-4d73-ad5e-0e3512367e00.png?v=1794314079&amp;width=535 535w, //www.inashot.life/cdn/shop/files/Basket1_29234f3b-a4c4-4d73-ad5e-0e3512367e00.png?v=1794314079&amp;width=720 720w, //www.inashot.life/cdn/shop/files/Basket1_29234f3b-a4c4-4d73-ad5e-0e3512367e00.png?v=1794314079&amp;width=940 940w, //www.inashot.life/cdn/shop/files/Basket1_29234f3b-a4c4-4d73-ad5e-0e3512367e00.png?v=1794314079&amp;width=1066 1066w, //www.inashot.life/cdn/shop/files/Basket1_29234f3b-a4c4-4d73-ad5e-0e3512367e00.png?v=1794314079&amp;width=1200 1200w, //www.inashot.life/cdn/shop/files/Basket1_29234f3b-a4c4-4d73-ad5e-0e3512367e00.png?v=1794314079&amp;width=1400 1400w, //www.inashot.life/cdn/shop/files/Basket1_29234f3b-a4c4-4d73-ad5e-0e3512367e00.png?v=1794314079&amp;width=1600 1600w, //www.inashot.life/cdn/shop/files/Basket1_29234f3b-a4c4-4d73-ad5e-0e3512367e00.png?v=1794314079&amp;width=1800 1800w, //www.inashot.life/cdn/shop/files/Basket1_29234f3b-a4c4-4d73-ad5e-0e3512367e00.png?v=1794314079&amp;width=2000 2000w, //www.inashot.life/cdn/shop/files/Basket1_29234f3b-a4c4-4d73-ad5e-0e3512367e00.png?v=1794314079&amp;width=2200 2200w, //www.inashot.life/cdn/shop/files/Basket1_29234f3b-a4c4-4d73-ad5e-0e3512367e00.png?v=1794314079&amp;width=2400 2400w, //www.inashot.life/cdn/shop/files/Basket1_29234f3b-a4c4-4d73-ad5e-0e3512367e00.png?v=1794314079&amp;width=2600 2600w" width="4267" height="4267" loading="lazy" class="motion-reduce media--first" sizes="(min-width: 576px) calc(1.32 * 30.2rem), 100vw" style="
+object-fit: cover;">
+<img src="//www.inashot.life/cdn/shop/files/RoastedChilliCheese.png?v=1794547495&amp;width=2000" alt="Chilli Cheese Roasted Edamame" srcset="//www.inashot.life/cdn/shop/files/RoastedChilliCheese.png?v=1794547495&amp;width=360 360w, //www.inashot.life/cdn/shop/files/RoastedChilliCheese.png?v=1794547495&amp;width=535 535w, //www.inashot.life/cdn/shop/files/RoastedChilliCheese.png?v=1794547495&amp;width=720 720w, //www.inashot.life/cdn/shop/files/RoastedChilliCheese.png?v=1794547495&amp;width=940 940w, //www.inashot.life/cdn/shop/files/RoastedChilliCheese.png?v=1794547495&amp;width=1066 1066w, //www.inashot.life/cdn/shop/files/RoastedChilliCheese.png?v=1794547495&amp;width=1200 1200w, //www.inashot.life/cdn/shop/files/RoastedChilliCheese.png?v=1794547495&amp;width=1400 1400w, //www.inashot.life/cdn/shop/files/RoastedChilliCheese.png?v=1794547495&amp;width=1600 1600w, //www.inashot.life/cdn/shop/files/RoastedChilliCheese.png?v=1794547495&amp;width=1800 1800w, //www.inashot.life/cdn/shop/files/RoastedChilliCheese.png?v=1794547495&amp;width=2000 2000w" width="2000" height="2000" loading="lazy" class="motion-reduce media--second" sizes="(min-width: 576px) calc(1.32 * 30.2rem), 100vw" style="
+object-fit: cover;">
+</div>
+
+    
+    <a href="/products/chilly-cheese-roasted-edamame" class="link card-small-link-overlay js-color-swatches-link" aria-label="Product link"></a>
+  </div>
+
+  
+  <div class="card-small-information">
+    <div class="card-small-information__wrapper">
+      <div class="card-small-information__group"><div class="card-small__vendor body-xs">
+            <span class="visually-hidden">Vendor:</span>
+            
+              In a Shot
+            
+          </div><div class="card-small__title-price-wrapper">
+          <h3 class="card-small__title">
+            <a class="full-unstyled-link" href="/products/chilly-cheese-roasted-edamame">Chilli Cheese Roasted Edamame</a>
+          </h3>
+
+          
+<div class="
+    price  price--on-sale ">
+  <dl><div class="price__regular">
+      <dt class="visually-hidden">
+        <span class="visually-hidden visually-hidden--inline">Regular price</span>
+      </dt>
+      <dd>
+        <span class="price-item price-item--regular" dir="ltr">
+          Rs. 531.00
+        </span>
+      </dd>
+    </div>
+    <div class="price__sale">
+      <dt class="visually-hidden">
+        <span class="visually-hidden visually-hidden--inline">Sale price</span>
+      </dt>
+      <dd>
+        <span class="price-item price-item--sale" dir="ltr">
+          Rs. 531.00
+        </span>
+      </dd>
+      <dt class="price__compare visually-hidden">
+        <span class="visually-hidden visually-hidden--inline">Regular price</span>
+      </dt>
+      <dd class="price__compare">
+        <s class="price-item price-item--regular" dir="ltr">
+          Rs. 540.00
+        </s>
+      </dd>
+    </div>
+    <dl class="unit-price caption hidden">
+      <dt class="visually-hidden">Unit price</dt>
+      <dd>
+        <span></span>
+        <span aria-hidden="true">/</span>
+        <span class="visually-hidden">&nbsp;per&nbsp;</span>
+        <span></span>
+      </dd>
+    </dl>
+  </dl>
+</div>
+
+        </div>
+      </div>
+
+      
+      <div class="product-parameters"></div>
+    </div>
+  </div></product-card-small>
+
+
+                        
+
+
+
+
+<product-card-small class="card-small js-color-swatches-wrapper color-scheme-2808953a-3491-4eea-b87b-43455ad11a4d" data-product="nimbu-pudina-seed-mix" data-product-title="Nimbu Pudina Seed Mix" data-product-columns="" data-product-img-ratio="0.76" data-product-img-fit="cover">
+  <div class="card-small-image-link-wrapper card-small-image-link-wrapper--hover-secondary_image" tabindex="-1">
+    
+    <div class="card-small-media" style="padding-bottom: 130.8%;">
+<img src="//www.inashot.life/cdn/shop/files/Basket_2_1.png?v=1794397263&amp;width=2048" alt="Nimbu Pudina Seed Mix" srcset="//www.inashot.life/cdn/shop/files/Basket_2_1.png?v=1794397263&amp;width=360 360w, //www.inashot.life/cdn/shop/files/Basket_2_1.png?v=1794397263&amp;width=535 535w, //www.inashot.life/cdn/shop/files/Basket_2_1.png?v=1794397263&amp;width=720 720w, //www.inashot.life/cdn/shop/files/Basket_2_1.png?v=1794397263&amp;width=940 940w, //www.inashot.life/cdn/shop/files/Basket_2_1.png?v=1794397263&amp;width=1066 1066w, //www.inashot.life/cdn/shop/files/Basket_2_1.png?v=1794397263&amp;width=1200 1200w, //www.inashot.life/cdn/shop/files/Basket_2_1.png?v=1794397263&amp;width=1400 1400w, //www.inashot.life/cdn/shop/files/Basket_2_1.png?v=1794397263&amp;width=1600 1600w, //www.inashot.life/cdn/shop/files/Basket_2_1.png?v=1794397263&amp;width=1800 1800w, //www.inashot.life/cdn/shop/files/Basket_2_1.png?v=1794397263&amp;width=2000 2000w" width="2048" height="2048" loading="lazy" class="motion-reduce media--first" sizes="(min-width: 576px) calc(1.32 * 30.2rem), 100vw" style="
+object-fit: cover;">
+<img src="//www.inashot.life/cdn/shop/files/SeedNimbuPudina.png?v=1794553021&amp;width=2000" alt="Nimbu Pudina Seed Mix" srcset="//www.inashot.life/cdn/shop/files/SeedNimbuPudina.png?v=1794553021&amp;width=360 360w, //www.inashot.life/cdn/shop/files/SeedNimbuPudina.png?v=1794553021&amp;width=535 535w, //www.inashot.life/cdn/shop/files/SeedNimbuPudina.png?v=1794553021&amp;width=720 720w, //www.inashot.life/cdn/shop/files/SeedNimbuPudina.png?v=1794553021&amp;width=940 940w, //www.inashot.life/cdn/shop/files/SeedNimbuPudina.png?v=1794553021&amp;width=1066 1066w, //www.inashot.life/cdn/shop/files/SeedNimbuPudina.png?v=1794553021&amp;width=1200 1200w, //www.inashot.life/cdn/shop/files/SeedNimbuPudina.png?v=1794553021&amp;width=1400 1400w, //www.inashot.life/cdn/shop/files/SeedNimbuPudina.png?v=1794553021&amp;width=1600 1600w, //www.inashot.life/cdn/shop/files/SeedNimbuPudina.png?v=1794553021&amp;width=1800 1800w, //www.inashot.life/cdn/shop/files/SeedNimbuPudina.png?v=1794553021&amp;width=2000 2000w" width="2000" height="2000" loading="lazy" class="motion-reduce media--second" sizes="(min-width: 576px) calc(1.32 * 30.2rem), 100vw" style="
+object-fit: cover;">
+</div>
+
+    
+    <a href="/products/nimbu-pudina-seed-mix" class="link card-small-link-overlay js-color-swatches-link" aria-label="Product link"></a>
+  </div>
+
+  
+  <div class="card-small-information">
+    <div class="card-small-information__wrapper">
+      <div class="card-small-information__group"><div class="card-small__vendor body-xs">
+            <span class="visually-hidden">Vendor:</span>
+            
+              In a Shot
+            
+          </div><div class="card-small__title-price-wrapper">
+          <h3 class="card-small__title">
+            <a class="full-unstyled-link" href="/products/nimbu-pudina-seed-mix">Nimbu Pudina Seed Mix</a>
+          </h3>
+
+          
+<div class="
+    price  price--on-sale ">
+  <dl><div class="price__regular">
+      <dt class="visually-hidden">
+        <span class="visually-hidden visually-hidden--inline">Regular price</span>
+      </dt>
+      <dd>
+        <span class="price-item price-item--regular" dir="ltr">
+          Rs. 480.00
+        </span>
+      </dd>
+    </div>
+    <div class="price__sale">
+      <dt class="visually-hidden">
+        <span class="visually-hidden visually-hidden--inline">Sale price</span>
+      </dt>
+      <dd>
+        <span class="price-item price-item--sale" dir="ltr">
+          Rs. 480.00
+        </span>
+      </dd>
+      <dt class="price__compare visually-hidden">
+        <span class="visually-hidden visually-hidden--inline">Regular price</span>
+      </dt>
+      <dd class="price__compare">
+        <s class="price-item price-item--regular" dir="ltr">
+          Rs. 600.00
+        </s>
+      </dd>
+    </div>
+    <dl class="unit-price caption hidden">
+      <dt class="visually-hidden">Unit price</dt>
+      <dd>
+        <span></span>
+        <span aria-hidden="true">/</span>
+        <span class="visually-hidden">&nbsp;per&nbsp;</span>
+        <span></span>
+      </dd>
+    </dl>
+  </dl>
+</div>
+
+        </div>
+      </div>
+
+      
+      <div class="product-parameters"></div>
+    </div>
+  </div></product-card-small>
+
+
+                        
+
+
+
+
+<product-card-small class="card-small js-color-swatches-wrapper color-scheme-2808953a-3491-4eea-b87b-43455ad11a4d" data-product="magic-masala-seed-mix" data-product-title="Magic Masala Seed Mix" data-product-columns="" data-product-img-ratio="0.76" data-product-img-fit="cover">
+  <div class="card-small-image-link-wrapper card-small-image-link-wrapper--hover-secondary_image" tabindex="-1">
+    
+    <div class="card-small-media" style="padding-bottom: 130.8%;">
+<img src="//www.inashot.life/cdn/shop/files/Basket_2.png?v=1794396714&amp;width=2048" alt="Magic Masala Seed Mix" srcset="//www.inashot.life/cdn/shop/files/Basket_2.png?v=1794396714&amp;width=360 360w, //www.inashot.life/cdn/shop/files/Basket_2.png?v=1794396714&amp;width=535 535w, //www.inashot.life/cdn/shop/files/Basket_2.png?v=1794396714&amp;width=720 720w, //www.inashot.life/cdn/shop/files/Basket_2.png?v=1794396714&amp;width=940 940w, //www.inashot.life/cdn/shop/files/Basket_2.png?v=1794396714&amp;width=1066 1066w, //www.inashot.life/cdn/shop/files/Basket_2.png?v=1794396714&amp;width=1200 1200w, //www.inashot.life/cdn/shop/files/Basket_2.png?v=1794396714&amp;width=1400 1400w, //www.inashot.life/cdn/shop/files/Basket_2.png?v=1794396714&amp;width=1600 1600w, //www.inashot.life/cdn/shop/files/Basket_2.png?v=1794396714&amp;width=1800 1800w, //www.inashot.life/cdn/shop/files/Basket_2.png?v=1794396714&amp;width=2000 2000w" width="2048" height="2048" loading="lazy" class="motion-reduce media--first" sizes="(min-width: 576px) calc(1.32 * 30.2rem), 100vw" style="
+object-fit: cover;">
+<img src="//www.inashot.life/cdn/shop/files/SeedMagicMasala.png?v=1794552192&amp;width=2000" alt="Magic Masala Seed Mix" srcset="//www.inashot.life/cdn/shop/files/SeedMagicMasala.png?v=1794552192&amp;width=360 360w, //www.inashot.life/cdn/shop/files/SeedMagicMasala.png?v=1794552192&amp;width=535 535w, //www.inashot.life/cdn/shop/files/SeedMagicMasala.png?v=1794552192&amp;width=720 720w, //www.inashot.life/cdn/shop/files/SeedMagicMasala.png?v=1794552192&amp;width=940 940w, //www.inashot.life/cdn/shop/files/SeedMagicMasala.png?v=1794552192&amp;width=1066 1066w, //www.inashot.life/cdn/shop/files/SeedMagicMasala.png?v=1794552192&amp;width=1200 1200w, //www.inashot.life/cdn/shop/files/SeedMagicMasala.png?v=1794552192&amp;width=1400 1400w, //www.inashot.life/cdn/shop/files/SeedMagicMasala.png?v=1794552192&amp;width=1600 1600w, //www.inashot.life/cdn/shop/files/SeedMagicMasala.png?v=1794552192&amp;width=1800 1800w, //www.inashot.life/cdn/shop/files/SeedMagicMasala.png?v=1794552192&amp;width=2000 2000w" width="2000" height="2000" loading="lazy" class="motion-reduce media--second" sizes="(min-width: 576px) calc(1.32 * 30.2rem), 100vw" style="
+object-fit: cover;">
+</div>
+
+    
+    <a href="/products/magic-masala-seed-mix" class="link card-small-link-overlay js-color-swatches-link" aria-label="Product link"></a>
+  </div>
+
+  
+  <div class="card-small-information">
+    <div class="card-small-information__wrapper">
+      <div class="card-small-information__group"><div class="card-small__vendor body-xs">
+            <span class="visually-hidden">Vendor:</span>
+            
+              In a Shot
+            
+          </div><div class="card-small__title-price-wrapper">
+          <h3 class="card-small__title">
+            <a class="full-unstyled-link" href="/products/magic-masala-seed-mix">Magic Masala Seed Mix</a>
+          </h3>
+
+          
+<div class="
+    price  price--on-sale ">
+  <dl><div class="price__regular">
+      <dt class="visually-hidden">
+        <span class="visually-hidden visually-hidden--inline">Regular price</span>
+      </dt>
+      <dd>
+        <span class="price-item price-item--regular" dir="ltr">
+          Rs. 480.00
+        </span>
+      </dd>
+    </div>
+    <div class="price__sale">
+      <dt class="visually-hidden">
+        <span class="visually-hidden visually-hidden--inline">Sale price</span>
+      </dt>
+      <dd>
+        <span class="price-item price-item--sale" dir="ltr">
+          Rs. 480.00
+        </span>
+      </dd>
+      <dt class="price__compare visually-hidden">
+        <span class="visually-hidden visually-hidden--inline">Regular price</span>
+      </dt>
+      <dd class="price__compare">
+        <s class="price-item price-item--regular" dir="ltr">
+          Rs. 600.00
+        </s>
+      </dd>
+    </div>
+    <dl class="unit-price caption hidden">
+      <dt class="visually-hidden">Unit price</dt>
+      <dd>
+        <span></span>
+        <span aria-hidden="true">/</span>
+        <span class="visually-hidden">&nbsp;per&nbsp;</span>
+        <span></span>
+      </dd>
+    </dl>
+  </dl>
+</div>
+
+        </div>
+      </div>
+
+      
+      <div class="product-parameters"></div>
+    </div>
+  </div></product-card-small>
+
+</div>
+                </div></div>
+          </div></div>
+    </div>
+  </div>
+</header-search>
+
+
+
+  <div class="header__account header__account--icon">
+    <a href=" https://www.inashot.life/customer_authentication/redirect?locale=en&amp;region_country=IN " class="header__icon header__icon--account">
+      
+        <svg class="icon icon-account" width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path fill-rule="evenodd" clip-rule="evenodd" d="M21 21C21 17.134 16.9706 14 12 14C7.02944 14 3 17.134 3 21Z" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"></path>
+  <rect x="8" y="3" width="8" height="8" rx="4" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"></rect>
+</svg>
+
+      
+      
+    </a>
+  </div>
+
+
+<div class="header__cart header__cart--icon ">
+  <a href="/cart" class="header__icon header__icon--cart focus-inset" id="cart-icon-bubble-burger" aria-label="View Cart" role="button" aria-haspopup="dialog"><svg class="icon icon-cart" width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M17.5383 11.0757C17.5383 4.22808 16.0783 0.921875 11.9999 0.921875C7.92148 0.921875 6.46143 4.22808 6.46143 11.0757" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"></path>
+  <path d="M22.5736 8.47656H1.42676L3.17533 21.3996H20.825L22.5736 8.47656Z" stroke="currentColor" stroke-width="1.7" stroke-linejoin="round"></path>
+</svg>
+
+<span class="header__cart-text header__icon-text">
+  Cart (0)
+</span>
+
+
+</a>
+</div>
+
+            </div>
+          </div>
+        </div>
+
+        
+
+        
+          <nav class="burger-menu__menu "><ul class="burger-menu__menu-list" role="list"><li class="burger-menu__menu-list-item burger-menu__menu-list--submenu">
+                    <a href="https://www.inashot.life/collections/" class="burger-menu__menu-item h3  focus-inset" aria-label="Shop all">
+                      <span class="burger-menu__menu-item-title" title="Shop all">
+                        <span>Shop all</span>
+                      </span>
+                      
+                        <svg class="icon icon-arrow-down" width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg" tabindex="0">
+  <path d="M14 8L10 12L6 8" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+</svg>
+
+                      
+                    </a>
+                    
+                      
+
+
+
+<ul class="burger-menu__submenu  motion-reduce" role="list"><li class="header__submenu-li active"><a href="/collections/combos" class=" burger-menu__menu-item  h4  list-menu__item focus-inset ">
+          <span class="burger-menu__menu-item-title"><span>Combos</span></span>
+        </a></li><li class="header__submenu-li active"><a href="/collections/nuts" class=" burger-menu__menu-item  h4  list-menu__item focus-inset ">
+          <span class="burger-menu__menu-item-title"><span>Roasted Edamame</span></span>
+        </a></li><li class="header__submenu-li active"><a href="/collections/crunchy-edamame" class=" burger-menu__menu-item  h4  list-menu__item focus-inset ">
+          <span class="burger-menu__menu-item-title"><span>Crunchy Edamame</span></span>
+        </a></li><li class="header__submenu-li active"><a href="/collections/edamame" class=" burger-menu__menu-item  h4  list-menu__item focus-inset ">
+          <span class="burger-menu__menu-item-title"><span>Seed mix</span></span>
+        </a></li><li class="header__submenu-li"><a href="https://www.inashot.life/collections/all" class=" burger-menu__menu-item  h4  list-menu__item focus-inset ">
+          <span class="burger-menu__menu-item-title"><span>All</span></span>
+        </a></li>
+</ul>
+
+                    
+                  </li><li class="burger-menu__menu-list-item">
+                    <a href="/pages/faq" class="burger-menu__menu-item h3  focus-inset" aria-label="FAQ">
+                      <span class="burger-menu__menu-item-title" title="FAQ">
+                        <span>FAQ</span>
+                      </span>
+                      
+                    </a>
+                    
+                  </li><li class="burger-menu__menu-list-item">
+                    <a href="/pages/about-us" class="burger-menu__menu-item h3  focus-inset" aria-label="About Us">
+                      <span class="burger-menu__menu-item-title" title="About Us">
+                        <span>About Us</span>
+                      </span>
+                      
+                    </a>
+                    
+                  </li><li class="burger-menu__menu-list-item">
+                    <a href="/blogs/latest-blog" class="burger-menu__menu-item h3  focus-inset" aria-label="Blogs">
+                      <span class="burger-menu__menu-item-title" title="Blogs">
+                        <span>Blogs</span>
+                      </span>
+                      
+                    </a>
+                    
+                  </li><li class="burger-menu__menu-list-item">
+                    <a href="/pages/contact" class="burger-menu__menu-item h3  focus-inset" aria-label="Contact Us">
+                      <span class="burger-menu__menu-item-title" title="Contact Us">
+                        <span>Contact Us</span>
+                      </span>
+                      
+                    </a>
+                    
+                  </li><li class="burger-menu__menu-list-item">
+                    <a href="https://shopify.com/98472821100/account/orders?locale=en&amp;region_country=IN&amp;buyer_flags=eyJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJqc3A3OWItbTcubXlzaG9waWZ5LmNvbSIsImZsYWdzIjpbXSwiZXhwIjoxNzk1NTc1ODA0LCJuYmYiOjE3OTQ5NzEwMDR9.QLLDvSbQyS_D6EGg5YdH47VXMX259aNkB3wV-ySydbw" class="burger-menu__menu-item h3  focus-inset" aria-label="My Orders">
+                      <span class="burger-menu__menu-item-title" title="My Orders">
+                        <span>My Orders</span>
+                      </span>
+                      
+                    </a>
+                    
+                  </li></ul>
+          </nav>
+        
+
+        
+
+        
+
+
+        
+
+<div class="burger-menu__bottom">
+            <div class="burger-menu__bottom-mobile">
+<div class="burger-menu__bottom-icons"><header-search class="header__search header__search--icon">
+  <a href="/search" class="header__icon header__icon--search focus-inset modal__toggle" aria-haspopup="dialog" role="button" aria-label="Search">
+    
+      <svg class="icon icon-search" width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path fill-rule="evenodd" clip-rule="evenodd" d="M10.812 18.624C15.1265 18.624 18.624 15.1265 18.624 10.812C18.624 6.49756 15.1265 3 10.812 3C6.49756 3 3 6.49756 3 10.812C3 15.1265 6.49756 18.624 10.812 18.624Z" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"></path>
+  <path d="M16.2559 16.7383L20.5151 21.006" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"></path>
+</svg>
+    
+    
+  </a>
+  <div class="header__search-overlay"></div>
+  <div class="header__search-inner search color-background-1" role="dialog" aria-modal="true" aria-label="Search">
+    <div class="header__search-content">
+      <div class="header__search-container">
+        <div class="container">
+          <div class="header__search-heading">
+            <button class="header__search-close focus-inset body-normal" aria-label="Close">
+              <svg class="icon icon-close" width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M20 4L4 20M20 20L4 4.00001" stroke="currentColor" stroke-width="1.5" stroke-linecap="square"></path>
+</svg>
+
+            </button>
+          </div>
+        </div><predictive-search class="search-modal__form" data-loading-text="Loading..."><form action="/search" method="get" role="search" class="search search__form">
+            <div class="search__form-inner">
+              <div class="container">
+                <div class="field">
+                  
+                  <input class="search__input h2" id="Search-In-Modal-BurgerBottom" type="search" dir="ltr" name="q" value="" placeholder="Search..." role="combobox" aria-expanded="false" aria-owns="predictive-search-results-list" aria-controls="predictive-search-results-list" aria-haspopup="listbox" aria-autocomplete="list" autocorrect="off" autocomplete="off" autocapitalize="off" spellcheck="false">
+                  <label class="visually-hidden" for="Search-In-Modal-BurgerBottom">Search</label>
+                  <input type="hidden" name="options[prefix]" value="last">
+                  <button class="search__button field__button focus-inset" aria-label="Search">
+                    <svg class="icon icon-search-input" width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M27.8435 29.0455C28.1755 29.3774 28.7136 29.3774 29.0456 29.0455C29.3775 28.7135 29.3775 28.1753 29.0456 27.8434L28.4446 28.4444L27.8435 29.0455ZM24.0524 13.8039H23.2024C23.2024 18.9945 18.9946 23.2023 13.804 23.2023V24.0523V24.9023C19.9335 24.9023 24.9024 19.9334 24.9024 13.8039H24.0524ZM13.804 24.0523V23.2023C8.61346 23.2023 4.40566 18.9945 4.40566 13.8039H3.55566H2.70566C2.70566 19.9334 7.67457 24.9023 13.804 24.9023V24.0523ZM3.55566 13.8039H4.40566C4.40566 8.61333 8.61346 4.40554 13.804 4.40554V3.55554V2.70554C7.67457 2.70554 2.70566 7.67445 2.70566 13.8039H3.55566ZM13.804 3.55554V4.40554C18.9946 4.40554 23.2024 8.61333 23.2024 13.8039H24.0524H24.9024C24.9024 7.67445 19.9335 2.70554 13.804 2.70554V3.55554ZM21.1243 21.1242L20.5233 21.7252L27.8435 29.0455L28.4446 28.4444L29.0456 27.8434L21.7253 20.5231L21.1243 21.1242Z" fill="currentColor"></path>
+</svg>
+
+                  </button>
+                  <button class="search__button search__button--reset field__button focus-inset hidden" aria-label="Reset search">
+                    <svg class="icon icon-close" width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M20 4L4 20M20 20L4 4.00001" stroke="currentColor" stroke-width="1.5" stroke-linecap="square"></path>
+</svg>
+
+                  </button>
+                </div>
+              </div>
+            </div><div class="predictive-search predictive-search--header container" tabindex="-1" data-predictive-search="">
+                <div class="predictive-search__loading-state">
+                  <svg aria-hidden="true" focusable="false" role="presentation" class="spinner" viewBox="0 0 66 66" xmlns="http://www.w3.org/2000/svg">
+  <circle class="path" fill="none" stroke-width="5" cx="33" cy="33" r="30"></circle>
+</svg>
+
+                </div>
+              </div>
+
+              <span class="predictive-search-status visually-hidden" role="status" aria-hidden="true"></span></form></predictive-search><div class="container" data-header-popular="">
+            <div class="header__search-wrapper header__search-wrapper--2-menus"><div class="header__search-popular">
+                  
+                    <div class="header__search-subtitle">
+                      Popular searches
+                    </div>
+                  
+                  <div class="header__search-popular-links body-small"><a href="/collections/nuts" class="header__search-popular-link" aria-label="Seed mix">
+                        <span>Seed mix</span>
+                      </a></div>
+                </div><div class="header__search-products-wrapper"><div class="header__search-subtitle">
+                      Popular items
+                    </div><div class="header__search-products">
+                        
+
+
+
+
+<product-card-small class="card-small js-color-swatches-wrapper color-scheme-2808953a-3491-4eea-b87b-43455ad11a4d" data-product="chilly-cheese-roasted-edamame" data-product-title="Chilli Cheese Roasted Edamame" data-product-columns="" data-product-img-ratio="0.76" data-product-img-fit="cover">
+  <div class="card-small-image-link-wrapper card-small-image-link-wrapper--hover-secondary_image" tabindex="-1">
+    
+    <div class="card-small-media" style="padding-bottom: 130.8%;">
+<img src="//www.inashot.life/cdn/shop/files/Basket1_29234f3b-a4c4-4d73-ad5e-0e3512367e00.png?v=1794314079&amp;width=4267" alt="Chilli Cheese Roasted Edamame" srcset="//www.inashot.life/cdn/shop/files/Basket1_29234f3b-a4c4-4d73-ad5e-0e3512367e00.png?v=1794314079&amp;width=360 360w, //www.inashot.life/cdn/shop/files/Basket1_29234f3b-a4c4-4d73-ad5e-0e3512367e00.png?v=1794314079&amp;width=535 535w, //www.inashot.life/cdn/shop/files/Basket1_29234f3b-a4c4-4d73-ad5e-0e3512367e00.png?v=1794314079&amp;width=720 720w, //www.inashot.life/cdn/shop/files/Basket1_29234f3b-a4c4-4d73-ad5e-0e3512367e00.png?v=1794314079&amp;width=940 940w, //www.inashot.life/cdn/shop/files/Basket1_29234f3b-a4c4-4d73-ad5e-0e3512367e00.png?v=1794314079&amp;width=1066 1066w, //www.inashot.life/cdn/shop/files/Basket1_29234f3b-a4c4-4d73-ad5e-0e3512367e00.png?v=1794314079&amp;width=1200 1200w, //www.inashot.life/cdn/shop/files/Basket1_29234f3b-a4c4-4d73-ad5e-0e3512367e00.png?v=1794314079&amp;width=1400 1400w, //www.inashot.life/cdn/shop/files/Basket1_29234f3b-a4c4-4d73-ad5e-0e3512367e00.png?v=1794314079&amp;width=1600 1600w, //www.inashot.life/cdn/shop/files/Basket1_29234f3b-a4c4-4d73-ad5e-0e3512367e00.png?v=1794314079&amp;width=1800 1800w, //www.inashot.life/cdn/shop/files/Basket1_29234f3b-a4c4-4d73-ad5e-0e3512367e00.png?v=1794314079&amp;width=2000 2000w, //www.inashot.life/cdn/shop/files/Basket1_29234f3b-a4c4-4d73-ad5e-0e3512367e00.png?v=1794314079&amp;width=2200 2200w, //www.inashot.life/cdn/shop/files/Basket1_29234f3b-a4c4-4d73-ad5e-0e3512367e00.png?v=1794314079&amp;width=2400 2400w, //www.inashot.life/cdn/shop/files/Basket1_29234f3b-a4c4-4d73-ad5e-0e3512367e00.png?v=1794314079&amp;width=2600 2600w" width="4267" height="4267" loading="lazy" class="motion-reduce media--first" sizes="(min-width: 576px) calc(1.32 * 30.2rem), 100vw" style="
+object-fit: cover;">
+<img src="//www.inashot.life/cdn/shop/files/RoastedChilliCheese.png?v=1794547495&amp;width=2000" alt="Chilli Cheese Roasted Edamame" srcset="//www.inashot.life/cdn/shop/files/RoastedChilliCheese.png?v=1794547495&amp;width=360 360w, //www.inashot.life/cdn/shop/files/RoastedChilliCheese.png?v=1794547495&amp;width=535 535w, //www.inashot.life/cdn/shop/files/RoastedChilliCheese.png?v=1794547495&amp;width=720 720w, //www.inashot.life/cdn/shop/files/RoastedChilliCheese.png?v=1794547495&amp;width=940 940w, //www.inashot.life/cdn/shop/files/RoastedChilliCheese.png?v=1794547495&amp;width=1066 1066w, //www.inashot.life/cdn/shop/files/RoastedChilliCheese.png?v=1794547495&amp;width=1200 1200w, //www.inashot.life/cdn/shop/files/RoastedChilliCheese.png?v=1794547495&amp;width=1400 1400w, //www.inashot.life/cdn/shop/files/RoastedChilliCheese.png?v=1794547495&amp;width=1600 1600w, //www.inashot.life/cdn/shop/files/RoastedChilliCheese.png?v=1794547495&amp;width=1800 1800w, //www.inashot.life/cdn/shop/files/RoastedChilliCheese.png?v=1794547495&amp;width=2000 2000w" width="2000" height="2000" loading="lazy" class="motion-reduce media--second" sizes="(min-width: 576px) calc(1.32 * 30.2rem), 100vw" style="
+object-fit: cover;">
+</div>
+
+    
+    <a href="/products/chilly-cheese-roasted-edamame" class="link card-small-link-overlay js-color-swatches-link" aria-label="Product link"></a>
+  </div>
+
+  
+  <div class="card-small-information">
+    <div class="card-small-information__wrapper">
+      <div class="card-small-information__group"><div class="card-small__vendor body-xs">
+            <span class="visually-hidden">Vendor:</span>
+            
+              In a Shot
+            
+          </div><div class="card-small__title-price-wrapper">
+          <h3 class="card-small__title">
+            <a class="full-unstyled-link" href="/products/chilly-cheese-roasted-edamame">Chilli Cheese Roasted Edamame</a>
+          </h3>
+
+          
+<div class="
+    price  price--on-sale ">
+  <dl><div class="price__regular">
+      <dt class="visually-hidden">
+        <span class="visually-hidden visually-hidden--inline">Regular price</span>
+      </dt>
+      <dd>
+        <span class="price-item price-item--regular" dir="ltr">
+          Rs. 531.00
+        </span>
+      </dd>
+    </div>
+    <div class="price__sale">
+      <dt class="visually-hidden">
+        <span class="visually-hidden visually-hidden--inline">Sale price</span>
+      </dt>
+      <dd>
+        <span class="price-item price-item--sale" dir="ltr">
+          Rs. 531.00
+        </span>
+      </dd>
+      <dt class="price__compare visually-hidden">
+        <span class="visually-hidden visually-hidden--inline">Regular price</span>
+      </dt>
+      <dd class="price__compare">
+        <s class="price-item price-item--regular" dir="ltr">
+          Rs. 540.00
+        </s>
+      </dd>
+    </div>
+    <dl class="unit-price caption hidden">
+      <dt class="visually-hidden">Unit price</dt>
+      <dd>
+        <span></span>
+        <span aria-hidden="true">/</span>
+        <span class="visually-hidden">&nbsp;per&nbsp;</span>
+        <span></span>
+      </dd>
+    </dl>
+  </dl>
+</div>
+
+        </div>
+      </div>
+
+      
+      <div class="product-parameters"></div>
+    </div>
+  </div></product-card-small>
+
+
+                        
+
+
+
+
+<product-card-small class="card-small js-color-swatches-wrapper color-scheme-2808953a-3491-4eea-b87b-43455ad11a4d" data-product="nimbu-pudina-seed-mix" data-product-title="Nimbu Pudina Seed Mix" data-product-columns="" data-product-img-ratio="0.76" data-product-img-fit="cover">
+  <div class="card-small-image-link-wrapper card-small-image-link-wrapper--hover-secondary_image" tabindex="-1">
+    
+    <div class="card-small-media" style="padding-bottom: 130.8%;">
+<img src="//www.inashot.life/cdn/shop/files/Basket_2_1.png?v=1794397263&amp;width=2048" alt="Nimbu Pudina Seed Mix" srcset="//www.inashot.life/cdn/shop/files/Basket_2_1.png?v=1794397263&amp;width=360 360w, //www.inashot.life/cdn/shop/files/Basket_2_1.png?v=1794397263&amp;width=535 535w, //www.inashot.life/cdn/shop/files/Basket_2_1.png?v=1794397263&amp;width=720 720w, //www.inashot.life/cdn/shop/files/Basket_2_1.png?v=1794397263&amp;width=940 940w, //www.inashot.life/cdn/shop/files/Basket_2_1.png?v=1794397263&amp;width=1066 1066w, //www.inashot.life/cdn/shop/files/Basket_2_1.png?v=1794397263&amp;width=1200 1200w, //www.inashot.life/cdn/shop/files/Basket_2_1.png?v=1794397263&amp;width=1400 1400w, //www.inashot.life/cdn/shop/files/Basket_2_1.png?v=1794397263&amp;width=1600 1600w, //www.inashot.life/cdn/shop/files/Basket_2_1.png?v=1794397263&amp;width=1800 1800w, //www.inashot.life/cdn/shop/files/Basket_2_1.png?v=1794397263&amp;width=2000 2000w" width="2048" height="2048" loading="lazy" class="motion-reduce media--first" sizes="(min-width: 576px) calc(1.32 * 30.2rem), 100vw" style="
+object-fit: cover;">
+<img src="//www.inashot.life/cdn/shop/files/SeedNimbuPudina.png?v=1794553021&amp;width=2000" alt="Nimbu Pudina Seed Mix" srcset="//www.inashot.life/cdn/shop/files/SeedNimbuPudina.png?v=1794553021&amp;width=360 360w, //www.inashot.life/cdn/shop/files/SeedNimbuPudina.png?v=1794553021&amp;width=535 535w, //www.inashot.life/cdn/shop/files/SeedNimbuPudina.png?v=1794553021&amp;width=720 720w, //www.inashot.life/cdn/shop/files/SeedNimbuPudina.png?v=1794553021&amp;width=940 940w, //www.inashot.life/cdn/shop/files/SeedNimbuPudina.png?v=1794553021&amp;width=1066 1066w, //www.inashot.life/cdn/shop/files/SeedNimbuPudina.png?v=1794553021&amp;width=1200 1200w, //www.inashot.life/cdn/shop/files/SeedNimbuPudina.png?v=1794553021&amp;width=1400 1400w, //www.inashot.life/cdn/shop/files/SeedNimbuPudina.png?v=1794553021&amp;width=1600 1600w, //www.inashot.life/cdn/shop/files/SeedNimbuPudina.png?v=1794553021&amp;width=1800 1800w, //www.inashot.life/cdn/shop/files/SeedNimbuPudina.png?v=1794553021&amp;width=2000 2000w" width="2000" height="2000" loading="lazy" class="motion-reduce media--second" sizes="(min-width: 576px) calc(1.32 * 30.2rem), 100vw" style="
+object-fit: cover;">
+</div>
+
+    
+    <a href="/products/nimbu-pudina-seed-mix" class="link card-small-link-overlay js-color-swatches-link" aria-label="Product link"></a>
+  </div>
+
+  
+  <div class="card-small-information">
+    <div class="card-small-information__wrapper">
+      <div class="card-small-information__group"><div class="card-small__vendor body-xs">
+            <span class="visually-hidden">Vendor:</span>
+            
+              In a Shot
+            
+          </div><div class="card-small__title-price-wrapper">
+          <h3 class="card-small__title">
+            <a class="full-unstyled-link" href="/products/nimbu-pudina-seed-mix">Nimbu Pudina Seed Mix</a>
+          </h3>
+
+          
+<div class="
+    price  price--on-sale ">
+  <dl><div class="price__regular">
+      <dt class="visually-hidden">
+        <span class="visually-hidden visually-hidden--inline">Regular price</span>
+      </dt>
+      <dd>
+        <span class="price-item price-item--regular" dir="ltr">
+          Rs. 480.00
+        </span>
+      </dd>
+    </div>
+    <div class="price__sale">
+      <dt class="visually-hidden">
+        <span class="visually-hidden visually-hidden--inline">Sale price</span>
+      </dt>
+      <dd>
+        <span class="price-item price-item--sale" dir="ltr">
+          Rs. 480.00
+        </span>
+      </dd>
+      <dt class="price__compare visually-hidden">
+        <span class="visually-hidden visually-hidden--inline">Regular price</span>
+      </dt>
+      <dd class="price__compare">
+        <s class="price-item price-item--regular" dir="ltr">
+          Rs. 600.00
+        </s>
+      </dd>
+    </div>
+    <dl class="unit-price caption hidden">
+      <dt class="visually-hidden">Unit price</dt>
+      <dd>
+        <span></span>
+        <span aria-hidden="true">/</span>
+        <span class="visually-hidden">&nbsp;per&nbsp;</span>
+        <span></span>
+      </dd>
+    </dl>
+  </dl>
+</div>
+
+        </div>
+      </div>
+
+      
+      <div class="product-parameters"></div>
+    </div>
+  </div></product-card-small>
+
+
+                        
+
+
+
+
+<product-card-small class="card-small js-color-swatches-wrapper color-scheme-2808953a-3491-4eea-b87b-43455ad11a4d" data-product="magic-masala-seed-mix" data-product-title="Magic Masala Seed Mix" data-product-columns="" data-product-img-ratio="0.76" data-product-img-fit="cover">
+  <div class="card-small-image-link-wrapper card-small-image-link-wrapper--hover-secondary_image" tabindex="-1">
+    
+    <div class="card-small-media" style="padding-bottom: 130.8%;">
+<img src="//www.inashot.life/cdn/shop/files/Basket_2.png?v=1794396714&amp;width=2048" alt="Magic Masala Seed Mix" srcset="//www.inashot.life/cdn/shop/files/Basket_2.png?v=1794396714&amp;width=360 360w, //www.inashot.life/cdn/shop/files/Basket_2.png?v=1794396714&amp;width=535 535w, //www.inashot.life/cdn/shop/files/Basket_2.png?v=1794396714&amp;width=720 720w, //www.inashot.life/cdn/shop/files/Basket_2.png?v=1794396714&amp;width=940 940w, //www.inashot.life/cdn/shop/files/Basket_2.png?v=1794396714&amp;width=1066 1066w, //www.inashot.life/cdn/shop/files/Basket_2.png?v=1794396714&amp;width=1200 1200w, //www.inashot.life/cdn/shop/files/Basket_2.png?v=1794396714&amp;width=1400 1400w, //www.inashot.life/cdn/shop/files/Basket_2.png?v=1794396714&amp;width=1600 1600w, //www.inashot.life/cdn/shop/files/Basket_2.png?v=1794396714&amp;width=1800 1800w, //www.inashot.life/cdn/shop/files/Basket_2.png?v=1794396714&amp;width=2000 2000w" width="2048" height="2048" loading="lazy" class="motion-reduce media--first" sizes="(min-width: 576px) calc(1.32 * 30.2rem), 100vw" style="
+object-fit: cover;">
+<img src="//www.inashot.life/cdn/shop/files/SeedMagicMasala.png?v=1794552192&amp;width=2000" alt="Magic Masala Seed Mix" srcset="//www.inashot.life/cdn/shop/files/SeedMagicMasala.png?v=1794552192&amp;width=360 360w, //www.inashot.life/cdn/shop/files/SeedMagicMasala.png?v=1794552192&amp;width=535 535w, //www.inashot.life/cdn/shop/files/SeedMagicMasala.png?v=1794552192&amp;width=720 720w, //www.inashot.life/cdn/shop/files/SeedMagicMasala.png?v=1794552192&amp;width=940 940w, //www.inashot.life/cdn/shop/files/SeedMagicMasala.png?v=1794552192&amp;width=1066 1066w, //www.inashot.life/cdn/shop/files/SeedMagicMasala.png?v=1794552192&amp;width=1200 1200w, //www.inashot.life/cdn/shop/files/SeedMagicMasala.png?v=1794552192&amp;width=1400 1400w, //www.inashot.life/cdn/shop/files/SeedMagicMasala.png?v=1794552192&amp;width=1600 1600w, //www.inashot.life/cdn/shop/files/SeedMagicMasala.png?v=1794552192&amp;width=1800 1800w, //www.inashot.life/cdn/shop/files/SeedMagicMasala.png?v=1794552192&amp;width=2000 2000w" width="2000" height="2000" loading="lazy" class="motion-reduce media--second" sizes="(min-width: 576px) calc(1.32 * 30.2rem), 100vw" style="
+object-fit: cover;">
+</div>
+
+    
+    <a href="/products/magic-masala-seed-mix" class="link card-small-link-overlay js-color-swatches-link" aria-label="Product link"></a>
+  </div>
+
+  
+  <div class="card-small-information">
+    <div class="card-small-information__wrapper">
+      <div class="card-small-information__group"><div class="card-small__vendor body-xs">
+            <span class="visually-hidden">Vendor:</span>
+            
+              In a Shot
+            
+          </div><div class="card-small__title-price-wrapper">
+          <h3 class="card-small__title">
+            <a class="full-unstyled-link" href="/products/magic-masala-seed-mix">Magic Masala Seed Mix</a>
+          </h3>
+
+          
+<div class="
+    price  price--on-sale ">
+  <dl><div class="price__regular">
+      <dt class="visually-hidden">
+        <span class="visually-hidden visually-hidden--inline">Regular price</span>
+      </dt>
+      <dd>
+        <span class="price-item price-item--regular" dir="ltr">
+          Rs. 480.00
+        </span>
+      </dd>
+    </div>
+    <div class="price__sale">
+      <dt class="visually-hidden">
+        <span class="visually-hidden visually-hidden--inline">Sale price</span>
+      </dt>
+      <dd>
+        <span class="price-item price-item--sale" dir="ltr">
+          Rs. 480.00
+        </span>
+      </dd>
+      <dt class="price__compare visually-hidden">
+        <span class="visually-hidden visually-hidden--inline">Regular price</span>
+      </dt>
+      <dd class="price__compare">
+        <s class="price-item price-item--regular" dir="ltr">
+          Rs. 600.00
+        </s>
+      </dd>
+    </div>
+    <dl class="unit-price caption hidden">
+      <dt class="visually-hidden">Unit price</dt>
+      <dd>
+        <span></span>
+        <span aria-hidden="true">/</span>
+        <span class="visually-hidden">&nbsp;per&nbsp;</span>
+        <span></span>
+      </dd>
+    </dl>
+  </dl>
+</div>
+
+        </div>
+      </div>
+
+      
+      <div class="product-parameters"></div>
+    </div>
+  </div></product-card-small>
+
+</div>
+                </div></div>
+          </div></div>
+    </div>
+  </div>
+</header-search>
+
+
+
+  <div class="header__account header__account--icon">
+    <a href=" https://www.inashot.life/customer_authentication/redirect?locale=en&amp;region_country=IN " class="header__icon header__icon--account">
+      
+        <svg class="icon icon-account" width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path fill-rule="evenodd" clip-rule="evenodd" d="M21 21C21 17.134 16.9706 14 12 14C7.02944 14 3 17.134 3 21Z" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"></path>
+  <rect x="8" y="3" width="8" height="8" rx="4" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"></rect>
+</svg>
+
+      
+      
+    </a>
+  </div>
+</div>
+              
+            </div>
+
+            
+              <div class="burger-menu__copyright burger-menu__copyright--desktop-show">
+                <span class="burger-menu__copyright-content body-xs">
+                  ©
+                  2026
+                  <a href="/" title="">IN'A Shot</a>.
+                </span>
+                <span class="burger-menu__copyright-content body-xs"><a target="_blank" rel="nofollow" href="https://www.shopify.com?utm_campaign=poweredby&amp;utm_medium=shopify&amp;utm_source=onlinestore">Powered by Shopify</a></span>
+              </div>
+            
+<ul class="list list-social list-unstyled list-social--mobile-show list-social--desktop-show" role="list"><li class="list-social__item">
+                    <a href="https://www.instagram.com/inashot.life" class="list-social__link" aria-describedby="a11y-external-message"><svg class="icon icon-instagram" width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M6.54902 1.7243C5.66235 1.76613 5.05685 1.90763 4.52752 2.11563C3.97968 2.32913 3.51535 2.61563 3.05334 3.0793C2.59134 3.54297 2.30684 4.00764 2.09484 4.55631C1.88967 5.08681 1.75067 5.69281 1.71151 6.57998C1.67234 7.46715 1.66367 7.75232 1.66801 10.0153C1.67234 12.2783 1.68234 12.562 1.72534 13.451C1.76767 14.3375 1.90867 14.9428 2.11667 15.4723C2.33051 16.0202 2.61668 16.4843 3.08051 16.9465C3.54435 17.4087 4.00868 17.6925 4.55868 17.9049C5.08868 18.1097 5.69485 18.2494 6.58186 18.2882C7.46886 18.327 7.75436 18.336 10.0167 18.3317C12.279 18.3274 12.5639 18.3174 13.4527 18.2752C14.3415 18.233 14.9437 18.091 15.4734 17.884C16.0212 17.6697 16.4857 17.384 16.9476 16.92C17.4094 16.456 17.6937 15.991 17.9056 15.442C18.1109 14.912 18.2504 14.3058 18.2889 13.4195C18.3277 12.53 18.3369 12.246 18.3326 9.98333C18.3282 7.72065 18.3181 7.43698 18.2759 6.54831C18.2337 5.65964 18.0926 5.05614 17.8847 4.52631C17.6706 3.97847 17.3847 3.51464 16.9211 3.05214C16.4574 2.58963 15.9921 2.30547 15.4432 2.09413C14.9129 1.88896 14.307 1.74913 13.42 1.7108C12.533 1.67246 12.2475 1.66263 9.98437 1.66696C7.72119 1.6713 7.43786 1.68096 6.54902 1.7243ZM6.64636 16.789C5.83385 16.7537 5.39268 16.6187 5.09868 16.5057C4.70935 16.3557 4.43202 16.1743 4.13901 15.8842C3.84601 15.594 3.66601 15.3157 3.51401 14.9272C3.39984 14.6332 3.26234 14.1925 3.22434 13.38C3.18301 12.5018 3.17434 12.2382 3.16951 10.0133C3.16468 7.78849 3.17318 7.52515 3.21168 6.64665C3.24634 5.83481 3.38218 5.39314 3.49501 5.09931C3.64501 4.70947 3.82568 4.43264 4.11651 4.13981C4.40735 3.84697 4.68485 3.66664 5.07368 3.51464C5.36735 3.39997 5.80802 3.26364 6.62019 3.22497C7.49903 3.1833 7.76236 3.17497 9.98687 3.17014C12.2114 3.1653 12.4754 3.17364 13.3545 3.2123C14.1664 3.24764 14.6082 3.38214 14.9017 3.49564C15.2912 3.64564 15.5684 3.8258 15.8612 4.11714C16.1541 4.40847 16.3346 4.68497 16.4866 5.07464C16.6014 5.36748 16.7377 5.80798 16.7761 6.62065C16.8179 7.49948 16.8274 7.76299 16.8314 9.98733C16.8354 12.2117 16.8276 12.4758 16.7891 13.354C16.7536 14.1665 16.6189 14.6078 16.5057 14.9022C16.3557 15.2913 16.1749 15.5688 15.8839 15.8615C15.5929 16.1542 15.3157 16.3345 14.9267 16.4865C14.6334 16.601 14.1922 16.7377 13.3807 16.7764C12.5019 16.8177 12.2385 16.8263 10.0132 16.8312C7.78786 16.836 7.52536 16.827 6.64652 16.789M13.4399 5.54548C13.4402 5.74327 13.4992 5.93653 13.6094 6.1008C13.7195 6.26508 13.8759 6.39299 14.0588 6.46836C14.2417 6.54373 14.4428 6.56318 14.6367 6.52425C14.8307 6.48531 15.0087 6.38974 15.1483 6.24962C15.2879 6.1095 15.3828 5.93113 15.421 5.73706C15.4593 5.54299 15.4391 5.34195 15.363 5.15935C15.287 4.97676 15.1585 4.82082 14.9938 4.71125C14.8291 4.60168 14.6357 4.54341 14.4379 4.54381C14.1727 4.54434 13.9186 4.65016 13.7315 4.838C13.5443 5.02584 13.4394 5.28032 13.4399 5.54548ZM5.72152 10.0077C5.72619 12.371 7.64553 14.2825 10.0084 14.278C12.3712 14.2735 14.284 12.3543 14.2795 9.99099C14.275 7.62765 12.3552 5.71564 9.99203 5.72031C7.62886 5.72498 5.71702 7.64465 5.72152 10.0077ZM7.22252 10.0047C7.22144 9.45526 7.38329 8.91787 7.68762 8.46045C7.99195 8.00303 8.42508 7.64613 8.93225 7.43488C9.43942 7.22363 9.99784 7.16751 10.5369 7.27363C11.076 7.37975 11.5714 7.64333 11.9607 8.03105C12.35 8.41877 12.6155 8.91321 12.7238 9.45184C12.832 9.99048 12.7781 10.5491 12.5689 11.0571C12.3596 11.5651 12.0044 11.9997 11.5482 12.3058C11.092 12.6119 10.5553 12.7759 10.0059 12.777C9.64106 12.7778 9.27968 12.7067 8.94236 12.5677C8.60504 12.4288 8.29839 12.2248 8.03993 11.9674C7.78146 11.7099 7.57624 11.4041 7.43599 11.0673C7.29574 10.7306 7.2232 10.3695 7.22252 10.0047Z" fill="currentColor"></path>
+</svg><span class="visually-hidden">Instagram</span>
+                    </a>
+                  </li><li class="list-social__item">
+                    <a href="https://www.facebook.com/inashot.life/" class="list-social__link" aria-describedby="a11y-external-message"><svg aria-hidden="true" focusable="false" role="presentation" class="icon icon-facebook" width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path fill="currentColor" fill-rule="evenodd" clip-rule="evenodd" d="M14.0083 7.57403C14.4385 7.1859 15.1043 7.2282 15.1531 7.23032L17.9392 7.22926L18 3.31516L17.5796 3.21469C17.3103 3.15019 16.4859 3 14.6687 3C11.433 3 9.2585 5.20506 9.2585 8.48566V9.36663H6V13.5969H9.2585V21H13.6032V13.5969H17.0376L17.635 9.36663H13.6032V8.71833C13.6032 8.20329 13.74 7.81728 14.0083 7.57403Z"></path>
+</svg>
+<span class="visually-hidden">Facebook</span>
+                    </a>
+                  </li></ul></div></div>
+    </div>
+  </div>
+</burger-menu>
+
+
+  
+
+
+<h1 class="header__heading">
+<a href="/" class="header__heading-link focus-inset 1.7857142857142858" style="width: 56px; --padding_bottom: 55.99999999999999%; "><img srcset="//www.inashot.life/cdn/shop/files/In_a_shot_final_logo.png?v=1790575380&amp;width=56 1x, //www.inashot.life/cdn/shop/files/In_a_shot_final_logo.png?v=1790575380&amp;width=112 2x" src="//www.inashot.life/cdn/shop/files/In_a_shot_final_logo.png?v=1790575380&amp;width=56" class="header__heading-logo" width="56" height="auto" alt="IN'A Shot" loading="lazy"></a></h1>
+
+  
+
+<div class="header__cart header__cart--icon ">
+  <a href="/cart" class="header__icon header__icon--cart focus-inset" id="cart-icon-bubble" aria-label="View Cart" role="button" aria-haspopup="dialog"><svg class="icon icon-cart" width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M17.5383 11.0757C17.5383 4.22808 16.0783 0.921875 11.9999 0.921875C7.92148 0.921875 6.46143 4.22808 6.46143 11.0757" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"></path>
+  <path d="M22.5736 8.47656H1.42676L3.17533 21.3996H20.825L22.5736 8.47656Z" stroke="currentColor" stroke-width="1.7" stroke-linejoin="round"></path>
+</svg>
+
+<span class="header__cart-text header__icon-text">
+  Cart (0)
+</span>
+
+
+</a>
+</div>
+
+</div>
+
+  
+</header></sticky-header>
+
+<script type="application/ld+json">
+  {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "IN\u0026#39;A Shot",
+    
+      "logo": "https:files\/In_a_shot_final_logo.png",
+    
+    "sameAs": [
+      "",
+      "https:\/\/www.facebook.com\/inashot.life\/",
+      "",
+      "https:\/\/www.instagram.com\/inashot.life",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "url": "https:\/\/www.inashot.life"
+  }
+</script>
+
+<script>
+  const calcHeader = () => {
+    const header = document.querySelector('.shopify-section-header');
+    const headerBurger = document.querySelector('.burger-menu__top');
+    const headerObserver = new ResizeObserver((entries) => {
+      const headerHeight = header.getBoundingClientRect().height.toFixed(2);
+      const headerBurgerHeight = headerBurger?.getBoundingClientRect().height.toFixed(2);
+
+      document.documentElement.style.setProperty('--header-height', `${headerHeight}px`);
+      if (headerBurgerHeight)
+        document.documentElement.style.setProperty('--header-burger-height', `${headerBurgerHeight}px`);
+
+      document.querySelectorAll('.header__inline-menu .list-menu--submenu').forEach((item) => {
+        item.addEventListener('mouseenter', (event) => {
+          item.querySelectorAll('.header__submenu .header__submenu').forEach((submenu) => {
+            submenu.style.setProperty('--clientY', `${submenu.getBoundingClientRect().top}px`);
+          });
+        });
+      });
+    });
+    if (header) headerObserver.observe(header);
+  };
+
+  calcHeader();
+
+  document.addEventListener('shopify:section:load', calcHeader);
+  document.addEventListener('shopify:section:unload', calcHeader);
+  document.addEventListener('shopify:section:reorder', calcHeader);
+</script>
+  <script type="application/ld+json">
+    {
+      "@context": "http://schema.org",
+      "@type": "WebSite",
+      "name": "IN\u0026#39;A Shot",
+      "potentialAction": {
+        "@type": "SearchAction",
+        "target": "https:\/\/www.inashot.life\/search?q={search_term_string}",
+        "query-input": "required name=search_term_string"
+      },
+      "url": "https:\/\/www.inashot.life"
+    }
+  </script></div>

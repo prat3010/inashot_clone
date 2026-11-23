@@ -1,0 +1,2457 @@
+{
+  "products": [
+    {
+      "id": 15483631468908,
+      "title": "Seed Mix Combo",
+      "handle": "assorted-seed-mix-combo-nimbu-pudina-magic-masala-plain-roasted-salt-peri-peri",
+      "body_html": "<p dir=\"ltr\">Pack of 8 (30g Each) | Nimbu Pudina, Magic Masala, Plain Roasted Salt &amp; Peri Peri</p>",
+      "published_at": "2026-11-12T14:08:03+05:30",
+      "created_at": "2026-11-12T14:08:01+05:30",
+      "updated_at": "2026-11-18T07:35:53+05:30",
+      "vendor": "IN'A Shot",
+      "product_type": "",
+      "tags": [],
+      "variants": [
+        {
+          "id": 68145763582316,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": null,
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "472.00",
+          "grams": 0,
+          "compare_at_price": "480.00",
+          "position": 1,
+          "product_id": 15483631468908,
+          "created_at": "2026-11-12T14:08:01+05:30",
+          "updated_at": "2026-11-18T07:35:53+05:30"
+        }
+      ],
+      "images": [
+        {
+          "id": 64483890135404,
+          "created_at": "2026-11-16T13:36:26+05:30",
+          "position": 1,
+          "updated_at": "2026-11-16T13:36:29+05:30",
+          "product_id": 15483631468908,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0984/7282/1100/files/SeedMixBasket.png?v=1794816389",
+          "width": 2000,
+          "height": 2000
+        },
+        {
+          "id": 64416209076588,
+          "created_at": "2026-11-13T12:40:47+05:30",
+          "position": 2,
+          "updated_at": "2026-11-13T12:40:48+05:30",
+          "product_id": 15483631468908,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0984/7282/1100/files/ComboSeed_1.png?v=1794553848",
+          "width": 2000,
+          "height": 2000
+        },
+        {
+          "id": 64403088114028,
+          "created_at": "2026-11-12T14:07:49+05:30",
+          "position": 3,
+          "updated_at": "2026-11-12T14:07:52+05:30",
+          "product_id": 15483631468908,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0984/7282/1100/files/IASBOP.png?v=1794472672",
+          "width": 4500,
+          "height": 4500
+        },
+        {
+          "id": 64403088146796,
+          "created_at": "2026-11-12T14:07:49+05:30",
+          "position": 4,
+          "updated_at": "2026-11-12T14:07:51+05:30",
+          "product_id": 15483631468908,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0984/7282/1100/files/3Artboard2.png?v=1794472671",
+          "width": 1080,
+          "height": 1080
+        },
+        {
+          "id": 64403088179564,
+          "created_at": "2026-11-12T14:07:49+05:30",
+          "position": 5,
+          "updated_at": "2026-11-12T14:07:52+05:30",
+          "product_id": 15483631468908,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0984/7282/1100/files/2.1Artboard11.png?v=1794472672",
+          "width": 1600,
+          "height": 1600
+        },
+        {
+          "id": 64403088212332,
+          "created_at": "2026-11-12T14:07:49+05:30",
+          "position": 6,
+          "updated_at": "2026-11-12T14:07:51+05:30",
+          "product_id": 15483631468908,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0984/7282/1100/files/4Artboard3.png?v=1794472671",
+          "width": 1080,
+          "height": 1080
+        },
+        {
+          "id": 64403088245100,
+          "created_at": "2026-11-12T14:07:49+05:30",
+          "position": 7,
+          "updated_at": "2026-11-12T14:07:51+05:30",
+          "product_id": 15483631468908,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0984/7282/1100/files/7Artboard9.png?v=1794472671",
+          "width": 1080,
+          "height": 1080
+        },
+        {
+          "id": 64403088277868,
+          "created_at": "2026-11-12T14:07:49+05:30",
+          "position": 8,
+          "updated_at": "2026-11-12T14:07:51+05:30",
+          "product_id": 15483631468908,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0984/7282/1100/files/6Artboard4.png?v=1794472671",
+          "width": 1080,
+          "height": 1080
+        },
+        {
+          "id": 64403088310636,
+          "created_at": "2026-11-12T14:07:49+05:30",
+          "position": 9,
+          "updated_at": "2026-11-12T14:07:51+05:30",
+          "product_id": 15483631468908,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0984/7282/1100/files/5Artboard5.png?v=1794472671",
+          "width": 1080,
+          "height": 1080
+        },
+        {
+          "id": 64403088343404,
+          "created_at": "2026-11-12T14:07:49+05:30",
+          "position": 10,
+          "updated_at": "2026-11-12T14:07:51+05:30",
+          "product_id": 15483631468908,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0984/7282/1100/files/9Artboard6.png?v=1794472671",
+          "width": 1080,
+          "height": 1080
+        },
+        {
+          "id": 64403088376172,
+          "created_at": "2026-11-12T14:07:49+05:30",
+          "position": 11,
+          "updated_at": "2026-11-12T14:07:51+05:30",
+          "product_id": 15483631468908,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0984/7282/1100/files/10Artboard7.png?v=1794472671",
+          "width": 1080,
+          "height": 1080
+        },
+        {
+          "id": 64403088408940,
+          "created_at": "2026-11-12T14:07:49+05:30",
+          "position": 12,
+          "updated_at": "2026-11-12T14:07:51+05:30",
+          "product_id": 15483631468908,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0984/7282/1100/files/8Artboard8.png?v=1794472671",
+          "width": 1080,
+          "height": 1080
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 15483597193580,
+      "title": "Roasted + Crunchy Edamame Combo",
+      "handle": "roasted-crunchy-edamame-combo-pack-of-8-30g-each-achari-peri-peri-chilli-cheese-barbeque",
+      "body_html": "<p dir=\"ltr\">Pack of 8 (30g Each) | Achari, Peri Peri, Chilli Cheese &amp; Barbeque</p>",
+      "published_at": "2026-11-12T13:59:04+05:30",
+      "created_at": "2026-11-12T13:59:02+05:30",
+      "updated_at": "2026-11-18T07:35:53+05:30",
+      "vendor": "IN'A Shot",
+      "product_type": "",
+      "tags": [],
+      "variants": [
+        {
+          "id": 68145658233196,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": null,
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "472.00",
+          "grams": 0,
+          "compare_at_price": "480.00",
+          "position": 1,
+          "product_id": 15483597193580,
+          "created_at": "2026-11-12T13:59:02+05:30",
+          "updated_at": "2026-11-18T07:35:53+05:30"
+        }
+      ],
+      "images": [
+        {
+          "id": 64402865095020,
+          "created_at": "2026-11-12T13:56:56+05:30",
+          "position": 1,
+          "updated_at": "2026-11-12T13:57:00+05:30",
+          "product_id": 15483597193580,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0984/7282/1100/files/Basket_8.png?v=1794472020",
+          "width": 2000,
+          "height": 2000
+        },
+        {
+          "id": 64408357011820,
+          "created_at": "2026-11-12T19:37:05+05:30",
+          "position": 2,
+          "updated_at": "2026-11-12T19:37:08+05:30",
+          "product_id": 15483597193580,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0984/7282/1100/files/Combo1.png?v=1794492428",
+          "width": 2000,
+          "height": 2000
+        },
+        {
+          "id": 64483903603052,
+          "created_at": "2026-11-16T13:49:31+05:30",
+          "position": 3,
+          "updated_at": "2026-11-16T13:49:33+05:30",
+          "product_id": 15483597193580,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0984/7282/1100/files/Combo1_1.png?v=1794817173",
+          "width": 2000,
+          "height": 2000
+        },
+        {
+          "id": 64402865127788,
+          "created_at": "2026-11-12T13:56:56+05:30",
+          "position": 4,
+          "updated_at": "2026-11-12T13:56:58+05:30",
+          "product_id": 15483597193580,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0984/7282/1100/files/Artboard9_2.png?v=1794472018",
+          "width": 1080,
+          "height": 1080
+        },
+        {
+          "id": 64402865160556,
+          "created_at": "2026-11-12T13:56:56+05:30",
+          "position": 5,
+          "updated_at": "2026-11-12T13:56:59+05:30",
+          "product_id": 15483597193580,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0984/7282/1100/files/FlavourAnalysis_1.png?v=1794472019",
+          "width": 2000,
+          "height": 2000
+        },
+        {
+          "id": 64402865193324,
+          "created_at": "2026-11-12T13:56:56+05:30",
+          "position": 6,
+          "updated_at": "2026-11-12T13:57:00+05:30",
+          "product_id": 15483597193580,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0984/7282/1100/files/Artboard1_1.png?v=1794472020",
+          "width": 2533,
+          "height": 2533
+        },
+        {
+          "id": 64402865226092,
+          "created_at": "2026-11-12T13:56:56+05:30",
+          "position": 7,
+          "updated_at": "2026-11-12T13:56:59+05:30",
+          "product_id": 15483597193580,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0984/7282/1100/files/Lifestyle1_3.png?v=1794472019",
+          "width": 2000,
+          "height": 2000
+        },
+        {
+          "id": 64402865258860,
+          "created_at": "2026-11-12T13:56:56+05:30",
+          "position": 8,
+          "updated_at": "2026-11-12T13:56:58+05:30",
+          "product_id": 15483597193580,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0984/7282/1100/files/Lifestyle3_1.jpg?v=1794472018",
+          "width": 2048,
+          "height": 2048
+        },
+        {
+          "id": 64402865291628,
+          "created_at": "2026-11-12T13:56:56+05:30",
+          "position": 9,
+          "updated_at": "2026-11-12T13:56:57+05:30",
+          "product_id": 15483597193580,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0984/7282/1100/files/WhatsAppImage2026-10-31at12.30.18_1.jpg?v=1794472017",
+          "width": 1600,
+          "height": 1600
+        },
+        {
+          "id": 64402865324396,
+          "created_at": "2026-11-12T13:56:56+05:30",
+          "position": 10,
+          "updated_at": "2026-11-12T13:56:58+05:30",
+          "product_id": 15483597193580,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0984/7282/1100/files/WhatsAppImage2026-10-31at15.32.44_1.jpg?v=1794472018",
+          "width": 1600,
+          "height": 1600
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 15483596636524,
+      "title": "Roasted Edamame Combo",
+      "handle": "spicy-trio-roasted-edamame-combo-achari-chilli-cheese-peri-peri",
+      "body_html": "<p dir=\"ltr\">Pack of 9 (30g Each) | Achari, Chilli Cheese &amp; Peri Peri</p>",
+      "published_at": "2026-11-12T13:58:56+05:30",
+      "created_at": "2026-11-12T13:58:54+05:30",
+      "updated_at": "2026-11-18T07:35:53+05:30",
+      "vendor": "IN'A Shot",
+      "product_type": "",
+      "tags": [],
+      "variants": [
+        {
+          "id": 68145657545068,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": null,
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "531.00",
+          "grams": 0,
+          "compare_at_price": "540.00",
+          "position": 1,
+          "product_id": 15483596636524,
+          "created_at": "2026-11-12T13:58:54+05:30",
+          "updated_at": "2026-11-18T07:35:53+05:30"
+        }
+      ],
+      "images": [
+        {
+          "id": 64402905629036,
+          "created_at": "2026-11-12T13:58:52+05:30",
+          "position": 1,
+          "updated_at": "2026-11-12T13:58:56+05:30",
+          "product_id": 15483596636524,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0984/7282/1100/files/Basket2_0c370844-bfa7-4ce5-9b60-29f4e3f4cfda.png?v=1794472136",
+          "width": 2533,
+          "height": 2533
+        },
+        {
+          "id": 64408344920428,
+          "created_at": "2026-11-12T19:35:45+05:30",
+          "position": 2,
+          "updated_at": "2026-11-12T19:35:47+05:30",
+          "product_id": 15483596636524,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0984/7282/1100/files/ComboRoasted.png?v=1794492347",
+          "width": 2000,
+          "height": 2000
+        },
+        {
+          "id": 64483904553324,
+          "created_at": "2026-11-16T13:50:50+05:30",
+          "position": 3,
+          "updated_at": "2026-11-16T13:50:52+05:30",
+          "product_id": 15483596636524,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0984/7282/1100/files/ComboRoasted_1.png?v=1794817252",
+          "width": 2000,
+          "height": 2000
+        },
+        {
+          "id": 64402905661804,
+          "created_at": "2026-11-12T13:58:52+05:30",
+          "position": 4,
+          "updated_at": "2026-11-12T13:58:54+05:30",
+          "product_id": 15483596636524,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0984/7282/1100/files/Artboard9_3.png?v=1794472134",
+          "width": 1080,
+          "height": 1080
+        },
+        {
+          "id": 64402905694572,
+          "created_at": "2026-11-12T13:58:52+05:30",
+          "position": 5,
+          "updated_at": "2026-11-12T13:58:55+05:30",
+          "product_id": 15483596636524,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0984/7282/1100/files/Flavoursanalysis.png?v=1794472135",
+          "width": 2048,
+          "height": 2048
+        },
+        {
+          "id": 64402905727340,
+          "created_at": "2026-11-12T13:58:52+05:30",
+          "position": 6,
+          "updated_at": "2026-11-12T13:58:56+05:30",
+          "product_id": 15483596636524,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0984/7282/1100/files/Artboard3.png?v=1794472136",
+          "width": 2533,
+          "height": 2533
+        },
+        {
+          "id": 64402905760108,
+          "created_at": "2026-11-12T13:58:52+05:30",
+          "position": 7,
+          "updated_at": "2026-11-12T13:58:56+05:30",
+          "product_id": 15483596636524,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0984/7282/1100/files/Artboard2_1.png?v=1794472136",
+          "width": 2533,
+          "height": 2533
+        },
+        {
+          "id": 64402905792876,
+          "created_at": "2026-11-12T13:58:52+05:30",
+          "position": 8,
+          "updated_at": "2026-11-12T13:58:55+05:30",
+          "product_id": 15483596636524,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0984/7282/1100/files/Artboard1_2.png?v=1794472135",
+          "width": 2533,
+          "height": 2533
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 15483588575596,
+      "title": "Crunchy Edamame Combo",
+      "handle": "crunchy-edamame-combo-korean-kimchi-wasabi-jalapeno-tomato-basil",
+      "body_html": "<p dir=\"ltr\">Pack of 8 (30g Each) | Korean Kimchi, Wasabi, Jalapeno &amp; Tomato Basil</p>",
+      "published_at": "2026-11-12T13:56:45+05:30",
+      "created_at": "2026-11-12T13:56:44+05:30",
+      "updated_at": "2026-11-18T07:35:53+05:30",
+      "vendor": "IN'A Shot",
+      "product_type": "",
+      "tags": [],
+      "variants": [
+        {
+          "id": 68145642078572,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": null,
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "472.00",
+          "grams": 0,
+          "compare_at_price": "480.00",
+          "position": 1,
+          "product_id": 15483588575596,
+          "created_at": "2026-11-12T13:56:44+05:30",
+          "updated_at": "2026-11-18T07:35:53+05:30"
+        }
+      ],
+      "images": [
+        {
+          "id": 64402815713644,
+          "created_at": "2026-11-12T13:54:20+05:30",
+          "position": 1,
+          "updated_at": "2026-11-12T13:54:24+05:30",
+          "product_id": 15483588575596,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0984/7282/1100/files/Basket_7.png?v=1794471864",
+          "width": 2000,
+          "height": 2000
+        },
+        {
+          "id": 64408381129068,
+          "created_at": "2026-11-12T19:39:17+05:30",
+          "position": 2,
+          "updated_at": "2026-11-12T19:39:18+05:30",
+          "product_id": 15483588575596,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0984/7282/1100/files/Combo2.png?v=1794492558",
+          "width": 2000,
+          "height": 2000
+        },
+        {
+          "id": 64483905372524,
+          "created_at": "2026-11-16T13:51:44+05:30",
+          "position": 3,
+          "updated_at": "2026-11-16T13:51:47+05:30",
+          "product_id": 15483588575596,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0984/7282/1100/files/Combo2_1.png?v=1794817307",
+          "width": 2000,
+          "height": 2000
+        },
+        {
+          "id": 64402815746412,
+          "created_at": "2026-11-12T13:54:20+05:30",
+          "position": 4,
+          "updated_at": "2026-11-12T13:54:22+05:30",
+          "product_id": 15483588575596,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0984/7282/1100/files/Artboard9_1.png?v=1794471862",
+          "width": 1080,
+          "height": 1080
+        },
+        {
+          "id": 64402815779180,
+          "created_at": "2026-11-12T13:54:20+05:30",
+          "position": 5,
+          "updated_at": "2026-11-12T13:54:24+05:30",
+          "product_id": 15483588575596,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0984/7282/1100/files/FlavorAnalysis.png?v=1794471864",
+          "width": 2000,
+          "height": 2000
+        },
+        {
+          "id": 64402815811948,
+          "created_at": "2026-11-12T13:54:20+05:30",
+          "position": 6,
+          "updated_at": "2026-11-12T13:54:23+05:30",
+          "product_id": 15483588575596,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0984/7282/1100/files/Artboard2.png?v=1794471863",
+          "width": 2533,
+          "height": 2533
+        },
+        {
+          "id": 64402815844716,
+          "created_at": "2026-11-12T13:54:20+05:30",
+          "position": 7,
+          "updated_at": "2026-11-12T13:54:24+05:30",
+          "product_id": 15483588575596,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0984/7282/1100/files/lifestyle1_2.png?v=1794471864",
+          "width": 2000,
+          "height": 2000
+        },
+        {
+          "id": 64402815877484,
+          "created_at": "2026-11-12T13:54:20+05:30",
+          "position": 8,
+          "updated_at": "2026-11-12T13:54:23+05:30",
+          "product_id": 15483588575596,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0984/7282/1100/files/lifestyle2_1.png?v=1794471863",
+          "width": 2000,
+          "height": 2000
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 15481490932076,
+      "title": "Wasabi Crunchy Edamame",
+      "handle": "wasabi-crunchy-edamame",
+      "body_html": "<p dir=\"ltr\">Pack of 8 (30g Each) | Wasabi</p>",
+      "published_at": "2026-11-11T17:48:02+05:30",
+      "created_at": "2026-11-11T17:48:00+05:30",
+      "updated_at": "2026-11-18T07:35:53+05:30",
+      "vendor": "IN'A Shot",
+      "product_type": "",
+      "tags": [],
+      "variants": [
+        {
+          "id": 68137363013996,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": null,
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "472.00",
+          "grams": 0,
+          "compare_at_price": "480.00",
+          "position": 1,
+          "product_id": 15481490932076,
+          "created_at": "2026-11-11T17:48:00+05:30",
+          "updated_at": "2026-11-18T07:35:53+05:30"
+        }
+      ],
+      "images": [
+        {
+          "id": 64382537302380,
+          "created_at": "2026-11-11T17:47:50+05:30",
+          "position": 1,
+          "updated_at": "2026-11-11T17:47:54+05:30",
+          "product_id": 15481490932076,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0984/7282/1100/files/Basket_2_5.png?v=1794399474",
+          "width": 2048,
+          "height": 2048
+        },
+        {
+          "id": 64416235487596,
+          "created_at": "2026-11-13T12:43:28+05:30",
+          "position": 2,
+          "updated_at": "2026-11-13T12:43:30+05:30",
+          "product_id": 15481490932076,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0984/7282/1100/files/CrunchyWasabi.png?v=1794554010",
+          "width": 2000,
+          "height": 2000
+        },
+        {
+          "id": 64483896000876,
+          "created_at": "2026-11-16T13:42:25+05:30",
+          "position": 3,
+          "updated_at": "2026-11-16T13:42:26+05:30",
+          "product_id": 15481490932076,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0984/7282/1100/files/CrunchyWasabi_1.png?v=1794816746",
+          "width": 2000,
+          "height": 2000
+        },
+        {
+          "id": 64382537269612,
+          "created_at": "2026-11-11T17:47:50+05:30",
+          "position": 4,
+          "updated_at": "2026-11-11T17:47:52+05:30",
+          "product_id": 15481490932076,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0984/7282/1100/files/Basket.psd.png?v=1794399472",
+          "width": 1080,
+          "height": 1080
+        },
+        {
+          "id": 64382537335148,
+          "created_at": "2026-11-11T17:47:50+05:30",
+          "position": 5,
+          "updated_at": "2026-11-11T17:47:54+05:30",
+          "product_id": 15481490932076,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0984/7282/1100/files/Flavour_11.png?v=1794399474",
+          "width": 2048,
+          "height": 2048
+        },
+        {
+          "id": 64382537367916,
+          "created_at": "2026-11-11T17:47:50+05:30",
+          "position": 6,
+          "updated_at": "2026-11-11T17:47:54+05:30",
+          "product_id": 15481490932076,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0984/7282/1100/files/Basket_5.png?v=1794399474",
+          "width": 2048,
+          "height": 2048
+        },
+        {
+          "id": 64382537400684,
+          "created_at": "2026-11-11T17:47:50+05:30",
+          "position": 7,
+          "updated_at": "2026-11-11T17:47:53+05:30",
+          "product_id": 15481490932076,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0984/7282/1100/files/Lifestyle_1_3.png?v=1794399473",
+          "width": 2000,
+          "height": 2000
+        },
+        {
+          "id": 64382537433452,
+          "created_at": "2026-11-11T17:47:50+05:30",
+          "position": 8,
+          "updated_at": "2026-11-11T17:47:53+05:30",
+          "product_id": 15481490932076,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0984/7282/1100/files/Lifestyle_2_3.png?v=1794399473",
+          "width": 2048,
+          "height": 2048
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 15481490866540,
+      "title": "Barbeque Crunchy Edamame",
+      "handle": "barbeque-crunchy-edamame",
+      "body_html": "<p dir=\"ltr\">Pack of 8 (30g Each) | Barbeque</p>",
+      "published_at": "2026-11-11T17:46:17+05:30",
+      "created_at": "2026-11-11T17:46:15+05:30",
+      "updated_at": "2026-11-18T07:35:53+05:30",
+      "vendor": "IN'A Shot",
+      "product_type": "",
+      "tags": [],
+      "variants": [
+        {
+          "id": 68137361801580,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": null,
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "472.00",
+          "grams": 0,
+          "compare_at_price": "480.00",
+          "position": 1,
+          "product_id": 15481490866540,
+          "created_at": "2026-11-11T17:46:15+05:30",
+          "updated_at": "2026-11-18T07:35:53+05:30"
+        }
+      ],
+      "images": [
+        {
+          "id": 64382532845932,
+          "created_at": "2026-11-11T17:46:06+05:30",
+          "position": 1,
+          "updated_at": "2026-11-11T17:46:10+05:30",
+          "product_id": 15481490866540,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0984/7282/1100/files/Basket_2_4.png?v=1794399370",
+          "width": 2048,
+          "height": 2048
+        },
+        {
+          "id": 64416248758636,
+          "created_at": "2026-11-13T12:44:40+05:30",
+          "position": 2,
+          "updated_at": "2026-11-13T12:44:42+05:30",
+          "product_id": 15481490866540,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0984/7282/1100/files/CrunchyBBQ.png?v=1794554082",
+          "width": 2000,
+          "height": 2000
+        },
+        {
+          "id": 64483896590700,
+          "created_at": "2026-11-16T13:43:06+05:30",
+          "position": 3,
+          "updated_at": "2026-11-16T13:43:08+05:30",
+          "product_id": 15481490866540,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0984/7282/1100/files/CrunchyBBQ_1.png?v=1794816788",
+          "width": 2000,
+          "height": 2000
+        },
+        {
+          "id": 64382532878700,
+          "created_at": "2026-11-11T17:46:06+05:30",
+          "position": 4,
+          "updated_at": "2026-11-11T17:46:08+05:30",
+          "product_id": 15481490866540,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0984/7282/1100/files/OneShot.png?v=1794399368",
+          "width": 1080,
+          "height": 1080
+        },
+        {
+          "id": 64382532911468,
+          "created_at": "2026-11-11T17:46:06+05:30",
+          "position": 5,
+          "updated_at": "2026-11-11T17:46:10+05:30",
+          "product_id": 15481490866540,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0984/7282/1100/files/Flavour_10.png?v=1794399370",
+          "width": 2048,
+          "height": 2048
+        },
+        {
+          "id": 64382532944236,
+          "created_at": "2026-11-11T17:46:06+05:30",
+          "position": 6,
+          "updated_at": "2026-11-11T17:46:11+05:30",
+          "product_id": 15481490866540,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0984/7282/1100/files/Basket_4.png?v=1794399371",
+          "width": 2048,
+          "height": 2048
+        },
+        {
+          "id": 64382532977004,
+          "created_at": "2026-11-11T17:46:06+05:30",
+          "position": 7,
+          "updated_at": "2026-11-11T17:46:08+05:30",
+          "product_id": 15481490866540,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0984/7282/1100/files/Lifestyle_1.jpg?v=1794399368",
+          "width": 2048,
+          "height": 2048
+        },
+        {
+          "id": 64382533009772,
+          "created_at": "2026-11-11T17:46:06+05:30",
+          "position": 8,
+          "updated_at": "2026-11-11T17:46:09+05:30",
+          "product_id": 15481490866540,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0984/7282/1100/files/Lifestyle_2_2.png?v=1794399369",
+          "width": 1402,
+          "height": 1402
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 15481490702700,
+      "title": "Jalapeno Crunchy Edamame",
+      "handle": "jalapeno-crunchy-edamame",
+      "body_html": "<p dir=\"ltr\">Pack of 8 (30g Each) | Jalapeno</p>",
+      "published_at": "2026-11-11T17:44:50+05:30",
+      "created_at": "2026-11-11T17:44:48+05:30",
+      "updated_at": "2026-11-18T07:35:53+05:30",
+      "vendor": "IN'A Shot",
+      "product_type": "",
+      "tags": [],
+      "variants": [
+        {
+          "id": 68137361539436,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": null,
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "472.00",
+          "grams": 0,
+          "compare_at_price": "480.00",
+          "position": 1,
+          "product_id": 15481490702700,
+          "created_at": "2026-11-11T17:44:48+05:30",
+          "updated_at": "2026-11-18T07:35:53+05:30"
+        }
+      ],
+      "images": [
+        {
+          "id": 64382511776108,
+          "created_at": "2026-11-11T17:44:38+05:30",
+          "position": 1,
+          "updated_at": "2026-11-11T17:44:41+05:30",
+          "product_id": 15481490702700,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0984/7282/1100/files/Basket_2_3.png?v=1794399281",
+          "width": 2048,
+          "height": 2048
+        },
+        {
+          "id": 64416263045484,
+          "created_at": "2026-11-13T12:45:59+05:30",
+          "position": 2,
+          "updated_at": "2026-11-13T12:46:00+05:30",
+          "product_id": 15481490702700,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0984/7282/1100/files/CrunchyJalapeno.png?v=1794554160",
+          "width": 2000,
+          "height": 2000
+        },
+        {
+          "id": 64483898753388,
+          "created_at": "2026-11-16T13:44:31+05:30",
+          "position": 3,
+          "updated_at": "2026-11-16T13:44:33+05:30",
+          "product_id": 15481490702700,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0984/7282/1100/files/CrunchyJalapeno_1.png?v=1794816873",
+          "width": 2000,
+          "height": 2000
+        },
+        {
+          "id": 64382511808876,
+          "created_at": "2026-11-11T17:44:38+05:30",
+          "position": 4,
+          "updated_at": "2026-11-11T17:44:42+05:30",
+          "product_id": 15481490702700,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0984/7282/1100/files/Flavour_9.png?v=1794399282",
+          "width": 2048,
+          "height": 2048
+        },
+        {
+          "id": 64382511841644,
+          "created_at": "2026-11-11T17:44:38+05:30",
+          "position": 5,
+          "updated_at": "2026-11-11T17:44:40+05:30",
+          "product_id": 15481490702700,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0984/7282/1100/files/OneShot2.png?v=1794399280",
+          "width": 1080,
+          "height": 1080
+        },
+        {
+          "id": 64382511874412,
+          "created_at": "2026-11-11T17:44:38+05:30",
+          "position": 6,
+          "updated_at": "2026-11-11T17:44:43+05:30",
+          "product_id": 15481490702700,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0984/7282/1100/files/Basket_3.png?v=1794399283",
+          "width": 2048,
+          "height": 2048
+        },
+        {
+          "id": 64382511907180,
+          "created_at": "2026-11-11T17:44:38+05:30",
+          "position": 7,
+          "updated_at": "2026-11-11T17:44:40+05:30",
+          "product_id": 15481490702700,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0984/7282/1100/files/Lifestyle_1_2.png?v=1794399280",
+          "width": 1254,
+          "height": 1254
+        },
+        {
+          "id": 64382511939948,
+          "created_at": "2026-11-11T17:44:38+05:30",
+          "position": 8,
+          "updated_at": "2026-11-11T17:44:39+05:30",
+          "product_id": 15481490702700,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0984/7282/1100/files/Lifestyle_2.jpg?v=1794399279",
+          "width": 1254,
+          "height": 1254
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 15481490604396,
+      "title": "Tomato Basil Crunchy Edamame",
+      "handle": "tomato-basil-crunchy-edamame",
+      "body_html": "<p dir=\"ltr\">Pack of 8 (30g Each) | Tomato Basil</p>",
+      "published_at": "2026-11-11T17:43:21+05:30",
+      "created_at": "2026-11-11T17:43:20+05:30",
+      "updated_at": "2026-11-18T07:35:53+05:30",
+      "vendor": "IN'A Shot",
+      "product_type": "",
+      "tags": [],
+      "variants": [
+        {
+          "id": 68137361408364,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": null,
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "472.00",
+          "grams": 0,
+          "compare_at_price": "480.00",
+          "position": 1,
+          "product_id": 15481490604396,
+          "created_at": "2026-11-11T17:43:20+05:30",
+          "updated_at": "2026-11-18T07:35:53+05:30"
+        }
+      ],
+      "images": [
+        {
+          "id": 64382489756012,
+          "created_at": "2026-11-11T17:43:12+05:30",
+          "position": 1,
+          "updated_at": "2026-11-11T17:43:15+05:30",
+          "product_id": 15481490604396,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0984/7282/1100/files/Basket_2_2_44e38a87-54d0-4408-b6be-f693bfe0993a.png?v=1794399195",
+          "width": 2048,
+          "height": 2048
+        },
+        {
+          "id": 64416273105260,
+          "created_at": "2026-11-13T12:46:57+05:30",
+          "position": 2,
+          "updated_at": "2026-11-13T12:46:59+05:30",
+          "product_id": 15481490604396,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0984/7282/1100/files/CrunchyTomatoBasil.png?v=1794554219",
+          "width": 2000,
+          "height": 2000
+        },
+        {
+          "id": 64483899965804,
+          "created_at": "2026-11-16T13:45:26+05:30",
+          "position": 3,
+          "updated_at": "2026-11-16T13:45:28+05:30",
+          "product_id": 15481490604396,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0984/7282/1100/files/CrunchyTomatoBasil_1.png?v=1794816928",
+          "width": 2000,
+          "height": 2000
+        },
+        {
+          "id": 64382489788780,
+          "created_at": "2026-11-11T17:43:12+05:30",
+          "position": 4,
+          "updated_at": "2026-11-11T17:43:16+05:30",
+          "product_id": 15481490604396,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0984/7282/1100/files/Flavour_8.png?v=1794399196",
+          "width": 2048,
+          "height": 2048
+        },
+        {
+          "id": 64382489821548,
+          "created_at": "2026-11-11T17:43:12+05:30",
+          "position": 5,
+          "updated_at": "2026-11-11T17:43:14+05:30",
+          "product_id": 15481490604396,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0984/7282/1100/files/OneShot4.png?v=1794399194",
+          "width": 1080,
+          "height": 1080
+        },
+        {
+          "id": 64382489854316,
+          "created_at": "2026-11-11T17:43:12+05:30",
+          "position": 6,
+          "updated_at": "2026-11-11T17:43:17+05:30",
+          "product_id": 15481490604396,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0984/7282/1100/files/basket_2_b025446e-493b-4036-a2b5-bcb4ffce1eff.png?v=1794399197",
+          "width": 2048,
+          "height": 2048
+        },
+        {
+          "id": 64382489887084,
+          "created_at": "2026-11-11T17:43:12+05:30",
+          "position": 7,
+          "updated_at": "2026-11-11T17:43:15+05:30",
+          "product_id": 15481490604396,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0984/7282/1100/files/Lifestyle_1_1_b53a1cb9-83d1-47c1-b971-35475e1350a1.png?v=1794399195",
+          "width": 2048,
+          "height": 2048
+        },
+        {
+          "id": 64382489919852,
+          "created_at": "2026-11-11T17:43:12+05:30",
+          "position": 8,
+          "updated_at": "2026-11-11T17:43:15+05:30",
+          "product_id": 15481490604396,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0984/7282/1100/files/Lifestyle_2_1_20e9fbf8-723c-447c-815b-64d6223066b8.png?v=1794399195",
+          "width": 2000,
+          "height": 2000
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 15481490538860,
+      "title": "Korean Kimchi Crunchy Edamame",
+      "handle": "korean-kimchi-crunchy-edamame",
+      "body_html": "<p dir=\"ltr\">Pack of 8 (30g Each) | Korean Kimchi</p>",
+      "published_at": "2026-11-11T17:41:42+05:30",
+      "created_at": "2026-11-11T17:41:40+05:30",
+      "updated_at": "2026-11-18T07:35:53+05:30",
+      "vendor": "IN'A Shot",
+      "product_type": "",
+      "tags": [],
+      "variants": [
+        {
+          "id": 68137361342828,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": null,
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "472.00",
+          "grams": 0,
+          "compare_at_price": "480.00",
+          "position": 1,
+          "product_id": 15481490538860,
+          "created_at": "2026-11-11T17:41:40+05:30",
+          "updated_at": "2026-11-18T07:35:53+05:30"
+        }
+      ],
+      "images": [
+        {
+          "id": 64382461542764,
+          "created_at": "2026-11-11T17:41:26+05:30",
+          "position": 1,
+          "updated_at": "2026-11-11T17:41:30+05:30",
+          "product_id": 15481490538860,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0984/7282/1100/files/Basket_2_1_4c271f17-3df7-4fe6-be50-84d582b571c1.png?v=1794399090",
+          "width": 2048,
+          "height": 2048
+        },
+        {
+          "id": 64416282837356,
+          "created_at": "2026-11-13T12:47:51+05:30",
+          "position": 2,
+          "updated_at": "2026-11-13T12:47:52+05:30",
+          "product_id": 15481490538860,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0984/7282/1100/files/CrunchyKoreanKimchi.png?v=1794554272",
+          "width": 2000,
+          "height": 2000
+        },
+        {
+          "id": 64483900129644,
+          "created_at": "2026-11-16T13:46:05+05:30",
+          "position": 3,
+          "updated_at": "2026-11-16T13:46:07+05:30",
+          "product_id": 15481490538860,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0984/7282/1100/files/CrunchyKoreanKimchi_1.png?v=1794816967",
+          "width": 2000,
+          "height": 2000
+        },
+        {
+          "id": 64382461575532,
+          "created_at": "2026-11-11T17:41:26+05:30",
+          "position": 4,
+          "updated_at": "2026-11-11T17:41:29+05:30",
+          "product_id": 15481490538860,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0984/7282/1100/files/Flavour_7.png?v=1794399089",
+          "width": 2048,
+          "height": 2048
+        },
+        {
+          "id": 64382461608300,
+          "created_at": "2026-11-11T17:41:26+05:30",
+          "position": 5,
+          "updated_at": "2026-11-11T17:41:30+05:30",
+          "product_id": 15481490538860,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0984/7282/1100/files/basket_1_02b9a9be-686d-4abe-abde-0374290837a7.png?v=1794399090",
+          "width": 2048,
+          "height": 2048
+        },
+        {
+          "id": 64382461641068,
+          "created_at": "2026-11-11T17:41:26+05:30",
+          "position": 6,
+          "updated_at": "2026-11-11T17:41:28+05:30",
+          "product_id": 15481490538860,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0984/7282/1100/files/Lifestyle_1_93389aeb-5ff2-4683-8801-94cc3b49f43d.png?v=1794399088",
+          "width": 1448,
+          "height": 1448
+        },
+        {
+          "id": 64382461673836,
+          "created_at": "2026-11-11T17:41:26+05:30",
+          "position": 7,
+          "updated_at": "2026-11-11T17:41:28+05:30",
+          "product_id": 15481490538860,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0984/7282/1100/files/Lifestyle_2_b9f1e94d-0a51-42dd-abf1-5622204d3b95.png?v=1794399088",
+          "width": 2000,
+          "height": 2000
+        },
+        {
+          "id": 64382461706604,
+          "created_at": "2026-11-11T17:41:26+05:30",
+          "position": 8,
+          "updated_at": "2026-11-11T17:41:27+05:30",
+          "product_id": 15481490538860,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0984/7282/1100/files/OneShot3.png?v=1794399087",
+          "width": 1080,
+          "height": 1080
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 15481490276716,
+      "title": "Chilli Cheese Crunchy Edamame",
+      "handle": "chilli-cheese-crunchy-edamame",
+      "body_html": "<p dir=\"ltr\">Pack of 8 (30g Each) | Chilli Cheese</p>",
+      "published_at": "2026-11-11T17:39:37+05:30",
+      "created_at": "2026-11-11T17:39:36+05:30",
+      "updated_at": "2026-11-18T07:35:53+05:30",
+      "vendor": "IN'A Shot",
+      "product_type": "",
+      "tags": [],
+      "variants": [
+        {
+          "id": 68137360949612,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": null,
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "472.00",
+          "grams": 0,
+          "compare_at_price": "480.00",
+          "position": 1,
+          "product_id": 15481490276716,
+          "created_at": "2026-11-11T17:39:36+05:30",
+          "updated_at": "2026-11-18T07:35:53+05:30"
+        }
+      ],
+      "images": [
+        {
+          "id": 64382418616684,
+          "created_at": "2026-11-11T17:38:37+05:30",
+          "position": 1,
+          "updated_at": "2026-11-11T17:38:41+05:30",
+          "product_id": 15481490276716,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0984/7282/1100/files/Basket_2_093580a3-c559-4e65-9c28-5ac1d805fc94.png?v=1794398921",
+          "width": 2048,
+          "height": 2048
+        },
+        {
+          "id": 64416293093740,
+          "created_at": "2026-11-13T12:48:45+05:30",
+          "position": 2,
+          "updated_at": "2026-11-13T12:48:46+05:30",
+          "product_id": 15481490276716,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0984/7282/1100/files/CrunchyChilliCheese.png?v=1794554326",
+          "width": 2000,
+          "height": 2000
+        },
+        {
+          "id": 64483900293484,
+          "created_at": "2026-11-16T13:46:41+05:30",
+          "position": 3,
+          "updated_at": "2026-11-16T13:46:44+05:30",
+          "product_id": 15481490276716,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0984/7282/1100/files/CrunchyChilliCheese_1.png?v=1794817004",
+          "width": 2000,
+          "height": 2000
+        },
+        {
+          "id": 64382418682220,
+          "created_at": "2026-11-11T17:38:37+05:30",
+          "position": 4,
+          "updated_at": "2026-11-11T17:38:41+05:30",
+          "product_id": 15481490276716,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0984/7282/1100/files/Flavour_6.png?v=1794398921",
+          "width": 2048,
+          "height": 2048
+        },
+        {
+          "id": 64382418583916,
+          "created_at": "2026-11-11T17:38:37+05:30",
+          "position": 5,
+          "updated_at": "2026-11-11T17:38:39+05:30",
+          "product_id": 15481490276716,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0984/7282/1100/files/OneShot1.png?v=1794398919",
+          "width": 1080,
+          "height": 1080
+        },
+        {
+          "id": 64382418649452,
+          "created_at": "2026-11-11T17:38:37+05:30",
+          "position": 6,
+          "updated_at": "2026-11-11T17:38:42+05:30",
+          "product_id": 15481490276716,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0984/7282/1100/files/Basket_6a03abcf-eed5-4159-b955-1c7d5571df96.png?v=1794398922",
+          "width": 2048,
+          "height": 2048
+        },
+        {
+          "id": 64382418518380,
+          "created_at": "2026-11-11T17:38:37+05:30",
+          "position": 7,
+          "updated_at": "2026-11-11T17:38:40+05:30",
+          "product_id": 15481490276716,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0984/7282/1100/files/Lifestyle1.png?v=1794398920",
+          "width": 2000,
+          "height": 2000
+        },
+        {
+          "id": 64382418551148,
+          "created_at": "2026-11-11T17:38:37+05:30",
+          "position": 8,
+          "updated_at": "2026-11-11T17:38:41+05:30",
+          "product_id": 15481490276716,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0984/7282/1100/files/Lifestyle2_f79945cb-b994-4b09-a5b8-831d4daf40cf.png?v=1794398921",
+          "width": 2048,
+          "height": 2048
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 15098213761388,
+      "title": "Chilli Cheese Roasted Edamame",
+      "handle": "chilly-cheese-roasted-edamame",
+      "body_html": "<p dir=\"ltr\">Pack of 9 (30g Each) | Chilli Cheese</p>",
+      "published_at": "2026-04-24T12:57:30+05:30",
+      "created_at": "2026-04-24T12:57:30+05:30",
+      "updated_at": "2026-11-18T07:35:53+05:30",
+      "vendor": "In a Shot",
+      "product_type": "Roasted Edamame",
+      "tags": [
+        "Cream Onion",
+        "Edamame",
+        "Guilt Free",
+        "Healthy Snack",
+        "High Protein",
+        "In a Shot",
+        "Plant Protein",
+        "Roasted Edamame",
+        "Vegetarian"
+      ],
+      "variants": [
+        {
+          "id": 53676473516396,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "INS-ED-CO",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "531.00",
+          "grams": 30,
+          "compare_at_price": "540.00",
+          "position": 1,
+          "product_id": 15098213761388,
+          "created_at": "2026-04-28T17:41:27+05:30",
+          "updated_at": "2026-11-18T07:35:53+05:30"
+        }
+      ],
+      "images": [
+        {
+          "id": 64367864054124,
+          "created_at": "2026-11-10T18:04:32+05:30",
+          "position": 1,
+          "updated_at": "2026-11-10T18:04:39+05:30",
+          "product_id": 15098213761388,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0984/7282/1100/files/Basket1_29234f3b-a4c4-4d73-ad5e-0e3512367e00.png?v=1794314079",
+          "width": 4267,
+          "height": 4267
+        },
+        {
+          "id": 64413971874156,
+          "created_at": "2026-11-13T10:54:53+05:30",
+          "position": 2,
+          "updated_at": "2026-11-13T10:54:55+05:30",
+          "product_id": 15098213761388,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0984/7282/1100/files/RoastedChilliCheese.png?v=1794547495",
+          "width": 2000,
+          "height": 2000
+        },
+        {
+          "id": 64414395236716,
+          "created_at": "2026-11-13T11:10:37+05:30",
+          "position": 3,
+          "updated_at": "2026-11-13T11:10:39+05:30",
+          "product_id": 15098213761388,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0984/7282/1100/files/RoastedChilliCheeseBack.png?v=1794548439",
+          "width": 2000,
+          "height": 2000
+        },
+        {
+          "id": 64367863955820,
+          "created_at": "2026-11-10T18:04:32+05:30",
+          "position": 4,
+          "updated_at": "2026-11-10T18:04:35+05:30",
+          "product_id": 15098213761388,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0984/7282/1100/files/Lifestlye1_508f9a74-8317-45d8-94c5-0438bb4a426b.png?v=1794314075",
+          "width": 2000,
+          "height": 2000
+        },
+        {
+          "id": 64367863890284,
+          "created_at": "2026-11-10T18:04:32+05:30",
+          "position": 5,
+          "updated_at": "2026-11-10T18:04:37+05:30",
+          "product_id": 15098213761388,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0984/7282/1100/files/Flavour_03734dab-f706-471e-aac0-221fd71e8788.png?v=1794314077",
+          "width": 2816,
+          "height": 2816
+        },
+        {
+          "id": 64367863988588,
+          "created_at": "2026-11-10T18:04:32+05:30",
+          "position": 6,
+          "updated_at": "2026-11-10T18:04:35+05:30",
+          "product_id": 15098213761388,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0984/7282/1100/files/Lifestyle2_ee0f9cf8-4a57-4d0f-9e0e-d4880f2bf8c6.png?v=1794314075",
+          "width": 2000,
+          "height": 2000
+        },
+        {
+          "id": 64367864021356,
+          "created_at": "2026-11-10T18:04:32+05:30",
+          "position": 7,
+          "updated_at": "2026-11-10T18:04:35+05:30",
+          "product_id": 15098213761388,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0984/7282/1100/files/Lifestyle3_5dd8d044-4ab0-4773-92fe-7ce7aa654dd9.png?v=1794314075",
+          "width": 2000,
+          "height": 2000
+        },
+        {
+          "id": 64367864086892,
+          "created_at": "2026-11-10T18:04:32+05:30",
+          "position": 8,
+          "updated_at": "2026-11-10T18:04:40+05:30",
+          "product_id": 15098213761388,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0984/7282/1100/files/Basket2_07cbf243-529e-49a3-ba15-3ddc804dbcb6.png?v=1794314080",
+          "width": 3200,
+          "height": 3200
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 15098213597548,
+      "title": "Achari Roasted Edamame",
+      "handle": "achari-roasted-edamame",
+      "body_html": "<p dir=\"ltr\">Pack of 9 (30g Each) | Achari</p>",
+      "published_at": "2026-04-24T12:57:27+05:30",
+      "created_at": "2026-04-24T12:57:27+05:30",
+      "updated_at": "2026-11-18T07:35:53+05:30",
+      "vendor": "In a Shot",
+      "product_type": "Roasted Edamame",
+      "tags": [
+        "Achari",
+        "Edamame",
+        "Guilt Free",
+        "Healthy Snack",
+        "High Protein",
+        "In a Shot",
+        "Plant Protein",
+        "Roasted Edamame",
+        "Vegetarian"
+      ],
+      "variants": [
+        {
+          "id": 53676473942380,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "INS-ED-AC",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "531.00",
+          "grams": 30,
+          "compare_at_price": "540.00",
+          "position": 1,
+          "product_id": 15098213597548,
+          "created_at": "2026-04-28T17:42:14+05:30",
+          "updated_at": "2026-11-18T07:35:53+05:30"
+        }
+      ],
+      "images": [
+        {
+          "id": 64367796846956,
+          "created_at": "2026-11-10T17:30:02+05:30",
+          "position": 1,
+          "updated_at": "2026-11-10T17:30:07+05:30",
+          "product_id": 15098213597548,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0984/7282/1100/files/Basket1.png?v=1794312007",
+          "width": 3200,
+          "height": 3200
+        },
+        {
+          "id": 64415646187884,
+          "created_at": "2026-11-13T12:00:36+05:30",
+          "position": 2,
+          "updated_at": "2026-11-13T12:00:37+05:30",
+          "product_id": 15098213597548,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0984/7282/1100/files/RoastedAchari.png?v=1794551437",
+          "width": 2000,
+          "height": 2000
+        },
+        {
+          "id": 64415646155116,
+          "created_at": "2026-11-13T12:00:36+05:30",
+          "position": 3,
+          "updated_at": "2026-11-13T12:00:38+05:30",
+          "product_id": 15098213597548,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0984/7282/1100/files/RoastedAchari_1.png?v=1794551438",
+          "width": 2000,
+          "height": 2000
+        },
+        {
+          "id": 64367796814188,
+          "created_at": "2026-11-10T17:30:02+05:30",
+          "position": 4,
+          "updated_at": "2026-11-10T17:30:05+05:30",
+          "product_id": 15098213597548,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0984/7282/1100/files/Lifestyle3.png?v=1794312005",
+          "width": 2000,
+          "height": 2000
+        },
+        {
+          "id": 64367796912492,
+          "created_at": "2026-11-10T17:30:02+05:30",
+          "position": 5,
+          "updated_at": "2026-11-10T17:30:07+05:30",
+          "product_id": 15098213597548,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0984/7282/1100/files/Flavour.png?v=1794312007",
+          "width": 2816,
+          "height": 2816
+        },
+        {
+          "id": 64367796978028,
+          "created_at": "2026-11-10T17:30:02+05:30",
+          "position": 6,
+          "updated_at": "2026-11-10T17:30:05+05:30",
+          "product_id": 15098213597548,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0984/7282/1100/files/Lifestlye1.png?v=1794312005",
+          "width": 2000,
+          "height": 2000
+        },
+        {
+          "id": 64367797010796,
+          "created_at": "2026-11-10T17:30:02+05:30",
+          "position": 7,
+          "updated_at": "2026-11-10T17:30:04+05:30",
+          "product_id": 15098213597548,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0984/7282/1100/files/Lifestyle2.png?v=1794312004",
+          "width": 2000,
+          "height": 2000
+        },
+        {
+          "id": 64367796879724,
+          "created_at": "2026-11-10T17:30:02+05:30",
+          "position": 8,
+          "updated_at": "2026-11-10T17:30:07+05:30",
+          "product_id": 15098213597548,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0984/7282/1100/files/Basket2.png?v=1794312007",
+          "width": 2134,
+          "height": 2134
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 15098213499244,
+      "title": "Peri Peri Roasted Edamame",
+      "handle": "peri-peri-roasted-edamame",
+      "body_html": "<p dir=\"ltr\">Pack of 9 (30g Each) | Peri Peri</p>",
+      "published_at": "2026-04-24T12:57:26+05:30",
+      "created_at": "2026-04-24T12:57:26+05:30",
+      "updated_at": "2026-11-18T07:35:53+05:30",
+      "vendor": "In a Shot",
+      "product_type": "Roasted Edamame",
+      "tags": [
+        "Edamame",
+        "Guilt Free",
+        "Healthy Snack",
+        "High Protein",
+        "In a Shot",
+        "Peri Peri",
+        "Plant Protein",
+        "Roasted Edamame",
+        "Vegetarian"
+      ],
+      "variants": [
+        {
+          "id": 68127040831852,
+          "title": "Pack of 9",
+          "option1": "Pack of 9",
+          "option2": null,
+          "option3": null,
+          "sku": "INS-ED-PP-1",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "531.00",
+          "grams": 30,
+          "compare_at_price": "540.00",
+          "position": 1,
+          "product_id": 15098213499244,
+          "created_at": "2026-11-10T18:13:49+05:30",
+          "updated_at": "2026-11-18T07:35:53+05:30"
+        },
+        {
+          "id": 68127040864620,
+          "title": "Pack of 18",
+          "option1": "Pack of 18",
+          "option2": null,
+          "option3": null,
+          "sku": "INS-ED-PP-2",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": false,
+          "price": "987.66",
+          "grams": 30,
+          "compare_at_price": "1062.00",
+          "position": 2,
+          "product_id": 15098213499244,
+          "created_at": "2026-11-10T18:13:49+05:30",
+          "updated_at": "2026-11-18T07:35:53+05:30"
+        },
+        {
+          "id": 68127040897388,
+          "title": "Pack of 27",
+          "option1": "Pack of 27",
+          "option2": null,
+          "option3": null,
+          "sku": "INS-ED-PP-3",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": false,
+          "price": "1433.70",
+          "grams": 30,
+          "compare_at_price": "1593.00",
+          "position": 3,
+          "product_id": 15098213499244,
+          "created_at": "2026-11-10T18:13:49+05:30",
+          "updated_at": "2026-11-18T07:35:53+05:30"
+        }
+      ],
+      "images": [
+        {
+          "id": 64367872016748,
+          "created_at": "2026-11-10T18:08:34+05:30",
+          "position": 1,
+          "updated_at": "2026-11-10T18:08:38+05:30",
+          "product_id": 15098213499244,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0984/7282/1100/files/Basket.png?v=1794314318",
+          "width": 2000,
+          "height": 2000
+        },
+        {
+          "id": 64415726698860,
+          "created_at": "2026-11-13T12:04:02+05:30",
+          "position": 2,
+          "updated_at": "2026-11-13T12:04:04+05:30",
+          "product_id": 15098213499244,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0984/7282/1100/files/RoastedPeriPeri.png?v=1794551644",
+          "width": 2000,
+          "height": 2000
+        },
+        {
+          "id": 64415726666092,
+          "created_at": "2026-11-13T12:04:02+05:30",
+          "position": 3,
+          "updated_at": "2026-11-13T12:04:04+05:30",
+          "product_id": 15098213499244,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0984/7282/1100/files/RoastedPeriPeri_1.png?v=1794551644",
+          "width": 2000,
+          "height": 2000
+        },
+        {
+          "id": 64367871983980,
+          "created_at": "2026-11-10T18:08:34+05:30",
+          "position": 4,
+          "updated_at": "2026-11-10T18:08:36+05:30",
+          "product_id": 15098213499244,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0984/7282/1100/files/Artboard9.png?v=1794314316",
+          "width": 1080,
+          "height": 1080
+        },
+        {
+          "id": 64367872082284,
+          "created_at": "2026-11-10T18:08:34+05:30",
+          "position": 5,
+          "updated_at": "2026-11-10T18:08:37+05:30",
+          "product_id": 15098213499244,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0984/7282/1100/files/Flavour_d76921d2-f5ff-4f52-83d9-690d0d6afe49.png?v=1794314317",
+          "width": 2000,
+          "height": 2000
+        },
+        {
+          "id": 64367872147820,
+          "created_at": "2026-11-10T18:08:34+05:30",
+          "position": 6,
+          "updated_at": "2026-11-10T18:08:37+05:30",
+          "product_id": 15098213499244,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0984/7282/1100/files/Lifestyle4.png?v=1794314317",
+          "width": 2000,
+          "height": 2000
+        },
+        {
+          "id": 64367872180588,
+          "created_at": "2026-11-10T18:08:34+05:30",
+          "position": 7,
+          "updated_at": "2026-11-10T18:08:37+05:30",
+          "product_id": 15098213499244,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0984/7282/1100/files/Lifestyle5.png?v=1794314317",
+          "width": 2000,
+          "height": 2000
+        },
+        {
+          "id": 64367871951212,
+          "created_at": "2026-11-10T18:08:34+05:30",
+          "position": 8,
+          "updated_at": "2026-11-10T18:08:38+05:30",
+          "product_id": 15098213499244,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0984/7282/1100/files/lifestyle6.png?v=1794314318",
+          "width": 2000,
+          "height": 2678
+        }
+      ],
+      "options": [
+        {
+          "name": "Packs",
+          "position": 1,
+          "values": [
+            "Pack of 9",
+            "Pack of 18",
+            "Pack of 27"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 15098213433708,
+      "title": "Magic Masala Seed Mix",
+      "handle": "magic-masala-seed-mix",
+      "body_html": "<p dir=\"ltr\">Pack of 8 (30g Each) | Magic Masala</p>",
+      "published_at": "2026-04-24T12:57:24+05:30",
+      "created_at": "2026-04-24T12:57:24+05:30",
+      "updated_at": "2026-11-18T07:35:53+05:30",
+      "vendor": "In a Shot",
+      "product_type": "Seed Mix",
+      "tags": [
+        "Guilt Free",
+        "Healthy Snack",
+        "High Fiber",
+        "High Protein",
+        "In a Shot",
+        "Magic Masala",
+        "Roasted Seeds",
+        "Seed Mix",
+        "Vegetarian"
+      ],
+      "variants": [
+        {
+          "id": 53676474270060,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "INS-SM-MM",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "480.00",
+          "grams": 30,
+          "compare_at_price": "600.00",
+          "position": 1,
+          "product_id": 15098213433708,
+          "created_at": "2026-04-28T17:43:15+05:30",
+          "updated_at": "2026-11-18T07:35:53+05:30"
+        }
+      ],
+      "images": [
+        {
+          "id": 64381908746604,
+          "created_at": "2026-11-11T17:01:52+05:30",
+          "position": 1,
+          "updated_at": "2026-11-11T17:01:54+05:30",
+          "product_id": 15098213433708,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0984/7282/1100/files/Basket_2.png?v=1794396714",
+          "width": 2048,
+          "height": 2048
+        },
+        {
+          "id": 64415823102316,
+          "created_at": "2026-11-13T12:13:10+05:30",
+          "position": 2,
+          "updated_at": "2026-11-13T12:13:12+05:30",
+          "product_id": 15098213433708,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0984/7282/1100/files/SeedMagicMasala.png?v=1794552192",
+          "width": 2000,
+          "height": 2000
+        },
+        {
+          "id": 64415823757676,
+          "created_at": "2026-11-13T12:13:13+05:30",
+          "position": 3,
+          "updated_at": "2026-11-13T12:13:15+05:30",
+          "product_id": 15098213433708,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0984/7282/1100/files/SeedMagicMasala_1.png?v=1794552195",
+          "width": 2000,
+          "height": 2000
+        },
+        {
+          "id": 64381905830252,
+          "created_at": "2026-11-11T17:01:25+05:30",
+          "position": 4,
+          "updated_at": "2026-11-11T17:01:28+05:30",
+          "product_id": 15098213433708,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0984/7282/1100/files/Flavour_c7ff3c86-0547-4b96-9c09-02940c4d8df4.png?v=1794396688",
+          "width": 2048,
+          "height": 2048
+        },
+        {
+          "id": 64381908713836,
+          "created_at": "2026-11-11T17:01:51+05:30",
+          "position": 5,
+          "updated_at": "2026-11-11T17:01:53+05:30",
+          "product_id": 15098213433708,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0984/7282/1100/files/Benifits.png?v=1794396713",
+          "width": 1080,
+          "height": 1080
+        },
+        {
+          "id": 64381895868780,
+          "created_at": "2026-11-11T17:00:48+05:30",
+          "position": 6,
+          "updated_at": "2026-11-11T17:00:52+05:30",
+          "product_id": 15098213433708,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0984/7282/1100/files/Lifestyle_2.png?v=1794396652",
+          "width": 2048,
+          "height": 2048
+        },
+        {
+          "id": 64381908648300,
+          "created_at": "2026-11-11T17:01:51+05:30",
+          "position": 7,
+          "updated_at": "2026-11-11T17:01:55+05:30",
+          "product_id": 15098213433708,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0984/7282/1100/files/Basket_1.png?v=1794396715",
+          "width": 2048,
+          "height": 2048
+        },
+        {
+          "id": 64381894754668,
+          "created_at": "2026-11-11T17:00:47+05:30",
+          "position": 8,
+          "updated_at": "2026-11-11T17:00:50+05:30",
+          "product_id": 15098213433708,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0984/7282/1100/files/Lifestyle_1.png?v=1794396650",
+          "width": 2048,
+          "height": 2048
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 15098213335404,
+      "title": "Roasted Salted Seed Mix",
+      "handle": "roasted-salted-seed-mix",
+      "body_html": "<p dir=\"ltr\">Pack of 8 (30g Each) | Roasted Salted</p>",
+      "published_at": "2026-04-24T12:57:22+05:30",
+      "created_at": "2026-04-24T12:57:22+05:30",
+      "updated_at": "2026-11-18T07:35:53+05:30",
+      "vendor": "In a Shot",
+      "product_type": "Seed Mix",
+      "tags": [
+        "Guilt Free",
+        "Healthy Snack",
+        "High Fiber",
+        "High Protein",
+        "In a Shot",
+        "Roasted Salted",
+        "Roasted Seeds",
+        "Seed Mix",
+        "Vegetarian"
+      ],
+      "variants": [
+        {
+          "id": 53676474597740,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "INS-SM-RS",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "480.00",
+          "grams": 30,
+          "compare_at_price": "600.00",
+          "position": 1,
+          "product_id": 15098213335404,
+          "created_at": "2026-04-28T17:43:53+05:30",
+          "updated_at": "2026-11-18T07:35:53+05:30"
+        }
+      ],
+      "images": [
+        {
+          "id": 64382236721516,
+          "created_at": "2026-11-11T17:24:46+05:30",
+          "position": 1,
+          "updated_at": "2026-11-11T17:24:49+05:30",
+          "product_id": 15098213335404,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0984/7282/1100/files/Basket_2_67157704-3c81-4612-a689-976adfce2837.png?v=1794398089",
+          "width": 2048,
+          "height": 2048
+        },
+        {
+          "id": 64415880806764,
+          "created_at": "2026-11-13T12:24:58+05:30",
+          "position": 2,
+          "updated_at": "2026-11-13T12:25:00+05:30",
+          "product_id": 15098213335404,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0984/7282/1100/files/SeedPlain.png?v=1794552900",
+          "width": 2000,
+          "height": 2000
+        },
+        {
+          "id": 64415883297132,
+          "created_at": "2026-11-13T12:25:04+05:30",
+          "position": 3,
+          "updated_at": "2026-11-13T12:25:06+05:30",
+          "product_id": 15098213335404,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0984/7282/1100/files/SeedPlain_1.png?v=1794552906",
+          "width": 2000,
+          "height": 2000
+        },
+        {
+          "id": 64382236557676,
+          "created_at": "2026-11-11T17:24:44+05:30",
+          "position": 4,
+          "updated_at": "2026-11-11T17:24:46+05:30",
+          "product_id": 15098213335404,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0984/7282/1100/files/Benifits_861a3081-69e8-49cf-b26f-a3d94ac73f0b.png?v=1794398086",
+          "width": 1080,
+          "height": 1080
+        },
+        {
+          "id": 64382236623212,
+          "created_at": "2026-11-11T17:24:44+05:30",
+          "position": 5,
+          "updated_at": "2026-11-11T17:24:46+05:30",
+          "product_id": 15098213335404,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0984/7282/1100/files/ONE_SHOT.png?v=1794398086",
+          "width": 1080,
+          "height": 1080
+        },
+        {
+          "id": 64382236787052,
+          "created_at": "2026-11-11T17:24:46+05:30",
+          "position": 6,
+          "updated_at": "2026-11-11T17:24:50+05:30",
+          "product_id": 15098213335404,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0984/7282/1100/files/Lifestyle_2_9918d1af-e3b7-4ef3-b510-dbdcb7b8702b.png?v=1794398090",
+          "width": 2400,
+          "height": 2400
+        },
+        {
+          "id": 64382236819820,
+          "created_at": "2026-11-11T17:24:46+05:30",
+          "position": 7,
+          "updated_at": "2026-11-11T17:24:51+05:30",
+          "product_id": 15098213335404,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0984/7282/1100/files/Basket_1_ae960150-b2e5-46f1-9f46-9ebe36844d22.png?v=1794398091",
+          "width": 2048,
+          "height": 2048
+        },
+        {
+          "id": 64382236590444,
+          "created_at": "2026-11-11T17:24:44+05:30",
+          "position": 8,
+          "updated_at": "2026-11-11T17:24:46+05:30",
+          "product_id": 15098213335404,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0984/7282/1100/files/Lifestyle_1_d7d82adf-82c7-4e19-874f-20674d0703f9.png?v=1794398086",
+          "width": 1080,
+          "height": 1080
+        },
+        {
+          "id": 64382236754284,
+          "created_at": "2026-11-11T17:24:46+05:30",
+          "position": 9,
+          "updated_at": "2026-11-11T17:24:49+05:30",
+          "product_id": 15098213335404,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0984/7282/1100/files/Flavour_4a99366e-9376-464d-8ce5-0e4a8264ba6b.png?v=1794398089",
+          "width": 2048,
+          "height": 2048
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 15098213269868,
+      "title": "Nimbu Pudina Seed Mix",
+      "handle": "nimbu-pudina-seed-mix",
+      "body_html": "<p dir=\"ltr\">Pack of 8 (30g Each) | Nimbu Pudina</p>",
+      "published_at": "2026-04-24T12:57:21+05:30",
+      "created_at": "2026-04-24T12:57:21+05:30",
+      "updated_at": "2026-11-18T07:35:53+05:30",
+      "vendor": "In a Shot",
+      "product_type": "Seed Mix",
+      "tags": [
+        "Guilt Free",
+        "Healthy Snack",
+        "High Fiber",
+        "High Protein",
+        "In a Shot",
+        "Nimbu Pudina",
+        "Roasted Seeds",
+        "Seed Mix",
+        "Vegetarian"
+      ],
+      "variants": [
+        {
+          "id": 53676474761580,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "INS-SM-NP",
+          "requires_shipping": true,
+          "taxable": false,
+          "featured_image": null,
+          "available": true,
+          "price": "480.00",
+          "grams": 30,
+          "compare_at_price": "600.00",
+          "position": 1,
+          "product_id": 15098213269868,
+          "created_at": "2026-04-28T17:44:23+05:30",
+          "updated_at": "2026-11-18T07:35:53+05:30"
+        }
+      ],
+      "images": [
+        {
+          "id": 64382033166700,
+          "created_at": "2026-11-11T17:11:00+05:30",
+          "position": 1,
+          "updated_at": "2026-11-11T17:11:03+05:30",
+          "product_id": 15098213269868,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0984/7282/1100/files/Basket_2_1.png?v=1794397263",
+          "width": 2048,
+          "height": 2048
+        },
+        {
+          "id": 64415906365804,
+          "created_at": "2026-11-13T12:26:59+05:30",
+          "position": 2,
+          "updated_at": "2026-11-13T12:27:01+05:30",
+          "product_id": 15098213269868,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0984/7282/1100/files/SeedNimbuPudina.png?v=1794553021",
+          "width": 2000,
+          "height": 2000
+        },
+        {
+          "id": 64415908823404,
+          "created_at": "2026-11-13T12:27:12+05:30",
+          "position": 3,
+          "updated_at": "2026-11-13T12:27:14+05:30",
+          "product_id": 15098213269868,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0984/7282/1100/files/SeedNimbuPudina_1.png?v=1794553034",
+          "width": 2000,
+          "height": 2000
+        },
+        {
+          "id": 64382042669420,
+          "created_at": "2026-11-11T17:11:45+05:30",
+          "position": 4,
+          "updated_at": "2026-11-11T17:11:48+05:30",
+          "product_id": 15098213269868,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0984/7282/1100/files/Flavour_1.png?v=1794397308",
+          "width": 2048,
+          "height": 2048
+        },
+        {
+          "id": 64382029431148,
+          "created_at": "2026-11-11T17:10:44+05:30",
+          "position": 5,
+          "updated_at": "2026-11-11T17:10:49+05:30",
+          "product_id": 15098213269868,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0984/7282/1100/files/Basket_1_1.png?v=1794397249",
+          "width": 2048,
+          "height": 2048
+        },
+        {
+          "id": 64382053253484,
+          "created_at": "2026-11-11T17:12:39+05:30",
+          "position": 6,
+          "updated_at": "2026-11-11T17:12:41+05:30",
+          "product_id": 15098213269868,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0984/7282/1100/files/ONE_SHOT_1.png?v=1794397361",
+          "width": 1080,
+          "height": 1080
+        },
+        {
+          "id": 64382058398060,
+          "created_at": "2026-11-11T17:13:02+05:30",
+          "position": 7,
+          "updated_at": "2026-11-11T17:13:04+05:30",
+          "product_id": 15098213269868,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0984/7282/1100/files/Lifestyle_2_1.png?v=1794397384",
+          "width": 1080,
+          "height": 1080
+        },
+        {
+          "id": 64382038409580,
+          "created_at": "2026-11-11T17:11:23+05:30",
+          "position": 8,
+          "updated_at": "2026-11-11T17:11:24+05:30",
+          "product_id": 15098213269868,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0984/7282/1100/files/Benifits_1.png?v=1794397284",
+          "width": 1080,
+          "height": 1080
+        },
+        {
+          "id": 64382049059180,
+          "created_at": "2026-11-11T17:12:18+05:30",
+          "position": 9,
+          "updated_at": "2026-11-11T17:12:20+05:30",
+          "product_id": 15098213269868,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0984/7282/1100/files/Lifestyle_1_1.png?v=1794397340",
+          "width": 1254,
+          "height": 1254
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 15098213171564,
+      "title": "Peri Peri Seed Mix",
+      "handle": "peri-peri-seed-mix",
+      "body_html": "<p dir=\"ltr\">Pack of 8 (30g Each) | Peri Peri</p>",
+      "published_at": "2026-04-24T12:57:19+05:30",
+      "created_at": "2026-04-24T12:57:19+05:30",
+      "updated_at": "2026-11-18T07:35:53+05:30",
+      "vendor": "In a Shot",
+      "product_type": "Seed Mix",
+      "tags": [
+        "Guilt Free",
+        "Healthy Snack",
+        "High Fiber",
+        "High Protein",
+        "In a Shot",
+        "Peri Peri",
+        "Roasted Seeds",
+        "Seed Mix",
+        "Vegetarian"
+      ],
+      "variants": [
+        {
+          "id": 53676455362924,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "INS-SM-PP",
+          "requires_shipping": true,
+          "taxable": false,
+          "featured_image": null,
+          "available": true,
+          "price": "480.00",
+          "grams": 30,
+          "compare_at_price": "600.00",
+          "position": 1,
+          "product_id": 15098213171564,
+          "created_at": "2026-04-28T17:16:02+05:30",
+          "updated_at": "2026-11-18T07:35:53+05:30"
+        }
+      ],
+      "images": [
+        {
+          "id": 64382184030572,
+          "created_at": "2026-11-11T17:20:52+05:30",
+          "position": 1,
+          "updated_at": "2026-11-11T17:20:55+05:30",
+          "product_id": 15098213171564,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0984/7282/1100/files/Basket_2_2.png?v=1794397855",
+          "width": 2048,
+          "height": 2048
+        },
+        {
+          "id": 64415996608876,
+          "created_at": "2026-11-13T12:31:33+05:30",
+          "position": 2,
+          "updated_at": "2026-11-13T12:31:35+05:30",
+          "product_id": 15098213171564,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0984/7282/1100/files/SeedPeriPeri.png?v=1794553295",
+          "width": 2000,
+          "height": 2000
+        },
+        {
+          "id": 64415996576108,
+          "created_at": "2026-11-13T12:31:33+05:30",
+          "position": 3,
+          "updated_at": "2026-11-13T12:31:35+05:30",
+          "product_id": 15098213171564,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0984/7282/1100/files/SeedPeriPeri_1.png?v=1794553295",
+          "width": 2000,
+          "height": 2000
+        },
+        {
+          "id": 64382184063340,
+          "created_at": "2026-11-11T17:20:52+05:30",
+          "position": 4,
+          "updated_at": "2026-11-11T17:20:56+05:30",
+          "product_id": 15098213171564,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0984/7282/1100/files/Flavour_2.png?v=1794397856",
+          "width": 2048,
+          "height": 2048
+        },
+        {
+          "id": 64382182359404,
+          "created_at": "2026-11-11T17:20:51+05:30",
+          "position": 5,
+          "updated_at": "2026-11-11T17:20:52+05:30",
+          "product_id": 15098213171564,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0984/7282/1100/files/Benifits_2.png?v=1794397852",
+          "width": 1080,
+          "height": 1080
+        },
+        {
+          "id": 64382182326636,
+          "created_at": "2026-11-11T17:20:51+05:30",
+          "position": 6,
+          "updated_at": "2026-11-11T17:20:52+05:30",
+          "product_id": 15098213171564,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0984/7282/1100/files/ONE_SHOT_3.png?v=1794397852",
+          "width": 1080,
+          "height": 1080
+        },
+        {
+          "id": 64382184096108,
+          "created_at": "2026-11-11T17:20:52+05:30",
+          "position": 7,
+          "updated_at": "2026-11-11T17:20:56+05:30",
+          "product_id": 15098213171564,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0984/7282/1100/files/Lifestyle_1_0f259b8b-2909-4d0d-b94d-fb9944da9e35.png?v=1794397856",
+          "width": 2048,
+          "height": 2048
+        },
+        {
+          "id": 64382182293868,
+          "created_at": "2026-11-11T17:20:51+05:30",
+          "position": 8,
+          "updated_at": "2026-11-11T17:20:53+05:30",
+          "product_id": 15098213171564,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0984/7282/1100/files/Lifestyle_2_251bb8d0-b889-4daa-9199-16afbc3e8c5a.png?v=1794397853",
+          "width": 1403,
+          "height": 1403
+        },
+        {
+          "id": 64382184128876,
+          "created_at": "2026-11-11T17:20:53+05:30",
+          "position": 9,
+          "updated_at": "2026-11-11T17:20:58+05:30",
+          "product_id": 15098213171564,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0984/7282/1100/files/Basket_1_2.png?v=1794397858",
+          "width": 2048,
+          "height": 2048
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    }
+  ]
+}
